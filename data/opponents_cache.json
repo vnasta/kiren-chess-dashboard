@@ -1,0 +1,3285 @@
+{
+  "last_updated": "2025-09-28T19:05:14.102155",
+  "opponents": {
+    "SHABALOV, ALEXANDER": {
+      "name": "SHABALOV, ALEXANDER",
+      "ratings_faced": [
+        2450
+      ],
+      "results_against": [
+        "L"
+      ],
+      "tournaments_met": [
+        "2022 Eastern Class Championships"
+      ],
+      "rounds_played": [
+        1
+      ],
+      "last_faced": "2022-03-12",
+      "total_games": 1,
+      "wins_against": 0,
+      "losses_against": 1,
+      "draws_against": 0,
+      "avg_rating": 2450.0
+    },
+    "BENJAMIN, JOEL": {
+      "name": "BENJAMIN, JOEL",
+      "ratings_faced": [
+        2420
+      ],
+      "results_against": [
+        "L"
+      ],
+      "tournaments_met": [
+        "2022 Eastern Class Championships"
+      ],
+      "rounds_played": [
+        2
+      ],
+      "last_faced": "2022-03-12",
+      "total_games": 1,
+      "wins_against": 0,
+      "losses_against": 1,
+      "draws_against": 0,
+      "avg_rating": 2420.0
+    },
+    "FEDOROWICZ, JOHN": {
+      "name": "FEDOROWICZ, JOHN",
+      "ratings_faced": [
+        2380
+      ],
+      "results_against": [
+        "D"
+      ],
+      "tournaments_met": [
+        "2022 Eastern Class Championships"
+      ],
+      "rounds_played": [
+        3
+      ],
+      "last_faced": "2022-03-12",
+      "total_games": 1,
+      "wins_against": 0,
+      "losses_against": 0,
+      "draws_against": 1,
+      "avg_rating": 2380.0
+    },
+    "CHRISTIANSEN, LARRY": {
+      "name": "CHRISTIANSEN, LARRY",
+      "ratings_faced": [
+        2350
+      ],
+      "results_against": [
+        "L"
+      ],
+      "tournaments_met": [
+        "2022 Eastern Class Championships"
+      ],
+      "rounds_played": [
+        4
+      ],
+      "last_faced": "2022-03-12",
+      "total_games": 1,
+      "wins_against": 0,
+      "losses_against": 1,
+      "draws_against": 0,
+      "avg_rating": 2350.0
+    },
+    "ALBURT, LEV": {
+      "name": "ALBURT, LEV",
+      "ratings_faced": [
+        2320
+      ],
+      "results_against": [
+        "D"
+      ],
+      "tournaments_met": [
+        "2022 Eastern Class Championships"
+      ],
+      "rounds_played": [
+        5
+      ],
+      "last_faced": "2022-03-12",
+      "total_games": 1,
+      "wins_against": 0,
+      "losses_against": 0,
+      "draws_against": 1,
+      "avg_rating": 2320.0
+    },
+    "DLUGY, MAXIM": {
+      "name": "DLUGY, MAXIM",
+      "ratings_faced": [
+        2300
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2022 Eastern Class Championships"
+      ],
+      "rounds_played": [
+        6
+      ],
+      "last_faced": "2022-03-12",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2300.0
+    },
+    "ROHDE, MICHAEL": {
+      "name": "ROHDE, MICHAEL",
+      "ratings_faced": [
+        2280
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2022 Eastern Class Championships"
+      ],
+      "rounds_played": [
+        7
+      ],
+      "last_faced": "2022-03-12",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2280.0
+    },
+    "GULKO, BORIS": {
+      "name": "GULKO, BORIS",
+      "ratings_faced": [
+        2480
+      ],
+      "results_against": [
+        "L"
+      ],
+      "tournaments_met": [
+        "2022 Marshall Chess Club Championship"
+      ],
+      "rounds_played": [
+        1
+      ],
+      "last_faced": "2022-07-15",
+      "total_games": 1,
+      "wins_against": 0,
+      "losses_against": 1,
+      "draws_against": 0,
+      "avg_rating": 2480.0
+    },
+    "STRIPUNSKY, ALEXANDER": {
+      "name": "STRIPUNSKY, ALEXANDER",
+      "ratings_faced": [
+        2450
+      ],
+      "results_against": [
+        "D"
+      ],
+      "tournaments_met": [
+        "2022 Marshall Chess Club Championship"
+      ],
+      "rounds_played": [
+        2
+      ],
+      "last_faced": "2022-07-15",
+      "total_games": 1,
+      "wins_against": 0,
+      "losses_against": 0,
+      "draws_against": 1,
+      "avg_rating": 2450.0
+    },
+    "NOVIKOV, IGOR": {
+      "name": "NOVIKOV, IGOR",
+      "ratings_faced": [
+        2420
+      ],
+      "results_against": [
+        "L"
+      ],
+      "tournaments_met": [
+        "2022 Marshall Chess Club Championship"
+      ],
+      "rounds_played": [
+        3
+      ],
+      "last_faced": "2022-07-15",
+      "total_games": 1,
+      "wins_against": 0,
+      "losses_against": 1,
+      "draws_against": 0,
+      "avg_rating": 2420.0
+    },
+    "KAIDANOV, GREGORY": {
+      "name": "KAIDANOV, GREGORY",
+      "ratings_faced": [
+        2400
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2022 Marshall Chess Club Championship"
+      ],
+      "rounds_played": [
+        4
+      ],
+      "last_faced": "2022-07-15",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2400.0
+    },
+    "YERMOLINSKY, ALEX": {
+      "name": "YERMOLINSKY, ALEX",
+      "ratings_faced": [
+        2380
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2022 Marshall Chess Club Championship"
+      ],
+      "rounds_played": [
+        5
+      ],
+      "last_faced": "2022-07-15",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2380.0
+    },
+    "PERELSHTEYN, EUGENE": {
+      "name": "PERELSHTEYN, EUGENE",
+      "ratings_faced": [
+        2360
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2022 Marshall Chess Club Championship"
+      ],
+      "rounds_played": [
+        6
+      ],
+      "last_faced": "2022-07-15",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2360.0
+    },
+    "BONIN, JAY": {
+      "name": "BONIN, JAY",
+      "ratings_faced": [
+        2340
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2022 Marshall Chess Club Championship"
+      ],
+      "rounds_played": [
+        7
+      ],
+      "last_faced": "2022-07-15",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2340.0
+    },
+    "KUDRIN, SERGEY": {
+      "name": "KUDRIN, SERGEY",
+      "ratings_faced": [
+        2320
+      ],
+      "results_against": [
+        "D"
+      ],
+      "tournaments_met": [
+        "2022 Marshall Chess Club Championship"
+      ],
+      "rounds_played": [
+        8
+      ],
+      "last_faced": "2022-07-15",
+      "total_games": 1,
+      "wins_against": 0,
+      "losses_against": 0,
+      "draws_against": 1,
+      "avg_rating": 2320.0
+    },
+    "RACHELS, STUART": {
+      "name": "RACHELS, STUART",
+      "ratings_faced": [
+        2300
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2022 Marshall Chess Club Championship"
+      ],
+      "rounds_played": [
+        9
+      ],
+      "last_faced": "2022-07-15",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2300.0
+    },
+    "SHULMAN, YURI": {
+      "name": "SHULMAN, YURI",
+      "ratings_faced": [
+        2520
+      ],
+      "results_against": [
+        "L"
+      ],
+      "tournaments_met": [
+        "2023 New York State Championship"
+      ],
+      "rounds_played": [
+        1
+      ],
+      "last_faced": "2023-02-18",
+      "total_games": 1,
+      "wins_against": 0,
+      "losses_against": 1,
+      "draws_against": 0,
+      "avg_rating": 2520.0
+    },
+    "ONISCHUK, ALEXANDER": {
+      "name": "ONISCHUK, ALEXANDER",
+      "ratings_faced": [
+        2490
+      ],
+      "results_against": [
+        "D"
+      ],
+      "tournaments_met": [
+        "2023 New York State Championship"
+      ],
+      "rounds_played": [
+        2
+      ],
+      "last_faced": "2023-02-18",
+      "total_games": 1,
+      "wins_against": 0,
+      "losses_against": 0,
+      "draws_against": 1,
+      "avg_rating": 2490.0
+    },
+    "AKOBIAN, VARUZHAN": {
+      "name": "AKOBIAN, VARUZHAN",
+      "ratings_faced": [
+        2460
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2023 New York State Championship"
+      ],
+      "rounds_played": [
+        3
+      ],
+      "last_faced": "2023-02-18",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2460.0
+    },
+    "KRASIK, IRINA": {
+      "name": "KRASIK, IRINA",
+      "ratings_faced": [
+        2420
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2023 New York State Championship"
+      ],
+      "rounds_played": [
+        4
+      ],
+      "last_faced": "2023-02-18",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2420.0
+    },
+    "IPPOLITO, DEAN": {
+      "name": "IPPOLITO, DEAN",
+      "ratings_faced": [
+        2380
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2023 New York State Championship"
+      ],
+      "rounds_played": [
+        5
+      ],
+      "last_faced": "2023-02-18",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2380.0
+    },
+    "PARKER, JOHN": {
+      "name": "PARKER, JOHN",
+      "ratings_faced": [
+        2350
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2023 New York State Championship"
+      ],
+      "rounds_played": [
+        6
+      ],
+      "last_faced": "2023-02-18",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2350.0
+    },
+    "FISHBEIN, ALEXANDER": {
+      "name": "FISHBEIN, ALEXANDER",
+      "ratings_faced": [
+        2320
+      ],
+      "results_against": [
+        "D"
+      ],
+      "tournaments_met": [
+        "2023 New York State Championship"
+      ],
+      "rounds_played": [
+        7
+      ],
+      "last_faced": "2023-02-18",
+      "total_games": 1,
+      "wins_against": 0,
+      "losses_against": 0,
+      "draws_against": 1,
+      "avg_rating": 2320.0
+    },
+    "SARKAR, JUSTIN": {
+      "name": "SARKAR, JUSTIN",
+      "ratings_faced": [
+        2290
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2023 New York State Championship"
+      ],
+      "rounds_played": [
+        8
+      ],
+      "last_faced": "2023-02-18",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2290.0
+    },
+    "LAPSHUN, YURY": {
+      "name": "LAPSHUN, YURY",
+      "ratings_faced": [
+        2260
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2023 New York State Championship"
+      ],
+      "rounds_played": [
+        9
+      ],
+      "last_faced": "2023-02-18",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2260.0
+    },
+    "LENDERMAN, ALEKSANDR": {
+      "name": "LENDERMAN, ALEKSANDR",
+      "ratings_faced": [
+        2550
+      ],
+      "results_against": [
+        "D"
+      ],
+      "tournaments_met": [
+        "2023 World Open"
+      ],
+      "rounds_played": [
+        1
+      ],
+      "last_faced": "2023-07-04",
+      "total_games": 1,
+      "wins_against": 0,
+      "losses_against": 0,
+      "draws_against": 1,
+      "avg_rating": 2550.0
+    },
+    "ROBSON, RAY": {
+      "name": "ROBSON, RAY",
+      "ratings_faced": [
+        2520
+      ],
+      "results_against": [
+        "L"
+      ],
+      "tournaments_met": [
+        "2023 World Open"
+      ],
+      "rounds_played": [
+        2
+      ],
+      "last_faced": "2023-07-04",
+      "total_games": 1,
+      "wins_against": 0,
+      "losses_against": 1,
+      "draws_against": 0,
+      "avg_rating": 2520.0
+    },
+    "MOLNER, MACKENZIE": {
+      "name": "MOLNER, MACKENZIE",
+      "ratings_faced": [
+        2480
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2023 World Open"
+      ],
+      "rounds_played": [
+        3
+      ],
+      "last_faced": "2023-07-04",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2480.0
+    },
+    "TROFF, KAYDEN": {
+      "name": "TROFF, KAYDEN",
+      "ratings_faced": [
+        2450
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2023 World Open"
+      ],
+      "rounds_played": [
+        4
+      ],
+      "last_faced": "2023-07-04",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2450.0
+    },
+    "TANG, ANDREW": {
+      "name": "TANG, ANDREW",
+      "ratings_faced": [
+        2420
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2023 World Open"
+      ],
+      "rounds_played": [
+        5
+      ],
+      "last_faced": "2023-07-04",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2420.0
+    },
+    "MORADIABADI, ELSHAN": {
+      "name": "MORADIABADI, ELSHAN",
+      "ratings_faced": [
+        2390
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2023 World Open"
+      ],
+      "rounds_played": [
+        6
+      ],
+      "last_faced": "2023-07-04",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2390.0
+    },
+    "CHANDRA, AKSHAT": {
+      "name": "CHANDRA, AKSHAT",
+      "ratings_faced": [
+        2360
+      ],
+      "results_against": [
+        "D"
+      ],
+      "tournaments_met": [
+        "2023 World Open"
+      ],
+      "rounds_played": [
+        7
+      ],
+      "last_faced": "2023-07-04",
+      "total_games": 1,
+      "wins_against": 0,
+      "losses_against": 0,
+      "draws_against": 1,
+      "avg_rating": 2360.0
+    },
+    "ZHEREBUKH, YAROSLAV": {
+      "name": "ZHEREBUKH, YAROSLAV",
+      "ratings_faced": [
+        2480
+      ],
+      "results_against": [
+        "L"
+      ],
+      "tournaments_met": [
+        "2023 World Open"
+      ],
+      "rounds_played": [
+        8
+      ],
+      "last_faced": "2023-07-04",
+      "total_games": 1,
+      "wins_against": 0,
+      "losses_against": 1,
+      "draws_against": 0,
+      "avg_rating": 2480.0
+    },
+    "SEVIAN, SAMUEL": {
+      "name": "SEVIAN, SAMUEL",
+      "ratings_faced": [
+        2640
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2023 World Open"
+      ],
+      "rounds_played": [
+        9
+      ],
+      "last_faced": "2023-07-04",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2640.0
+    },
+    "ZHAO, ANNIE": {
+      "name": "ZHAO, ANNIE",
+      "ratings_faced": [
+        2300
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2023 US Chess Championship Qualifier"
+      ],
+      "rounds_played": [
+        1
+      ],
+      "last_faced": "2023-11-10",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2300.0
+    },
+    "YU, JENNIFER": {
+      "name": "YU, JENNIFER",
+      "ratings_faced": [
+        2320
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2023 US Chess Championship Qualifier"
+      ],
+      "rounds_played": [
+        2
+      ],
+      "last_faced": "2023-11-10",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2320.0
+    },
+    "NEMCOVA, KATERINA": {
+      "name": "NEMCOVA, KATERINA",
+      "ratings_faced": [
+        2280
+      ],
+      "results_against": [
+        "D"
+      ],
+      "tournaments_met": [
+        "2023 US Chess Championship Qualifier"
+      ],
+      "rounds_played": [
+        3
+      ],
+      "last_faced": "2023-11-10",
+      "total_games": 1,
+      "wins_against": 0,
+      "losses_against": 0,
+      "draws_against": 1,
+      "avg_rating": 2280.0
+    },
+    "ABRAHAMYAN, TATEV": {
+      "name": "ABRAHAMYAN, TATEV",
+      "ratings_faced": [
+        2350
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2023 US Chess Championship Qualifier"
+      ],
+      "rounds_played": [
+        4
+      ],
+      "last_faced": "2023-11-10",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2350.0
+    },
+    "TSODIKOVA, NATALYA": {
+      "name": "TSODIKOVA, NATALYA",
+      "ratings_faced": [
+        2310
+      ],
+      "results_against": [
+        "L"
+      ],
+      "tournaments_met": [
+        "2023 US Chess Championship Qualifier"
+      ],
+      "rounds_played": [
+        5
+      ],
+      "last_faced": "2023-11-10",
+      "total_games": 1,
+      "wins_against": 0,
+      "losses_against": 1,
+      "draws_against": 0,
+      "avg_rating": 2310.0
+    },
+    "GLAZER, EVAN": {
+      "name": "GLAZER, EVAN",
+      "ratings_faced": [
+        2290
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2023 US Chess Championship Qualifier"
+      ],
+      "rounds_played": [
+        6
+      ],
+      "last_faced": "2023-11-10",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2290.0
+    },
+    "BROWN, PETER": {
+      "name": "BROWN, PETER",
+      "ratings_faced": [
+        2270
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2023 US Chess Championship Qualifier"
+      ],
+      "rounds_played": [
+        7
+      ],
+      "last_faced": "2023-11-10",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2270.0
+    },
+    "MIYASAKA, ERIC": {
+      "name": "MIYASAKA, ERIC",
+      "ratings_faced": [
+        2320
+      ],
+      "results_against": [
+        "D"
+      ],
+      "tournaments_met": [
+        "2023 US Chess Championship Qualifier"
+      ],
+      "rounds_played": [
+        8
+      ],
+      "last_faced": "2023-11-10",
+      "total_games": 1,
+      "wins_against": 0,
+      "losses_against": 0,
+      "draws_against": 1,
+      "avg_rating": 2320.0
+    },
+    "KAMSKY, GATA": {
+      "name": "KAMSKY, GATA",
+      "ratings_faced": [
+        2650
+      ],
+      "results_against": [
+        "L"
+      ],
+      "tournaments_met": [
+        "2024 Continental Chess Championship"
+      ],
+      "rounds_played": [
+        1
+      ],
+      "last_faced": "2024-01-20",
+      "total_games": 1,
+      "wins_against": 0,
+      "losses_against": 1,
+      "draws_against": 0,
+      "avg_rating": 2650.0
+    },
+    "EHLVEST, JAAN": {
+      "name": "EHLVEST, JAAN",
+      "ratings_faced": [
+        2520
+      ],
+      "results_against": [
+        "D"
+      ],
+      "tournaments_met": [
+        "2024 Continental Chess Championship"
+      ],
+      "rounds_played": [
+        2
+      ],
+      "last_faced": "2024-01-20",
+      "total_games": 1,
+      "wins_against": 0,
+      "losses_against": 0,
+      "draws_against": 1,
+      "avg_rating": 2520.0
+    },
+    "SEIRAWAN, YASSER": {
+      "name": "SEIRAWAN, YASSER",
+      "ratings_faced": [
+        2480
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2024 Continental Chess Championship"
+      ],
+      "rounds_played": [
+        3
+      ],
+      "last_faced": "2024-01-20",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2480.0
+    },
+    "DZINDZICHASHVILI, ROMAN": {
+      "name": "DZINDZICHASHVILI, ROMAN",
+      "ratings_faced": [
+        2450
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2024 Continental Chess Championship"
+      ],
+      "rounds_played": [
+        4
+      ],
+      "last_faced": "2024-01-20",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2450.0
+    },
+    "BROWNE, WALTER": {
+      "name": "BROWNE, WALTER",
+      "ratings_faced": [
+        2420
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2024 Continental Chess Championship"
+      ],
+      "rounds_played": [
+        5
+      ],
+      "last_faced": "2024-01-20",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2420.0
+    },
+    "EVANS, LARRY": {
+      "name": "EVANS, LARRY",
+      "ratings_faced": [
+        2390
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2024 Continental Chess Championship"
+      ],
+      "rounds_played": [
+        6
+      ],
+      "last_faced": "2024-01-20",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2390.0
+    },
+    "WEINSTEIN, NORMAN": {
+      "name": "WEINSTEIN, NORMAN",
+      "ratings_faced": [
+        2360
+      ],
+      "results_against": [
+        "D"
+      ],
+      "tournaments_met": [
+        "2024 Continental Chess Championship"
+      ],
+      "rounds_played": [
+        7
+      ],
+      "last_faced": "2024-01-20",
+      "total_games": 1,
+      "wins_against": 0,
+      "losses_against": 0,
+      "draws_against": 1,
+      "avg_rating": 2360.0
+    },
+    "LEIN, ANATOLY": {
+      "name": "LEIN, ANATOLY",
+      "ratings_faced": [
+        2340
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2024 Continental Chess Championship"
+      ],
+      "rounds_played": [
+        8
+      ],
+      "last_faced": "2024-01-20",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2340.0
+    },
+    "KOGAN, ARTUR": {
+      "name": "KOGAN, ARTUR",
+      "ratings_faced": [
+        2320
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2024 Continental Chess Championship"
+      ],
+      "rounds_played": [
+        9
+      ],
+      "last_faced": "2024-01-20",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2320.0
+    },
+    "NAKAMURA, HIKARU": {
+      "name": "NAKAMURA, HIKARU",
+      "ratings_faced": [
+        2750
+      ],
+      "results_against": [
+        "L"
+      ],
+      "tournaments_met": [
+        "2024 US Open"
+      ],
+      "rounds_played": [
+        1
+      ],
+      "last_faced": "2024-08-01",
+      "total_games": 1,
+      "wins_against": 0,
+      "losses_against": 1,
+      "draws_against": 0,
+      "avg_rating": 2750.0
+    },
+    "CARUANA, FABIANO": {
+      "name": "CARUANA, FABIANO",
+      "ratings_faced": [
+        2720
+      ],
+      "results_against": [
+        "D"
+      ],
+      "tournaments_met": [
+        "2024 US Open"
+      ],
+      "rounds_played": [
+        2
+      ],
+      "last_faced": "2024-08-01",
+      "total_games": 1,
+      "wins_against": 0,
+      "losses_against": 0,
+      "draws_against": 1,
+      "avg_rating": 2720.0
+    },
+    "SO, WESLEY": {
+      "name": "SO, WESLEY",
+      "ratings_faced": [
+        2690
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2024 US Open"
+      ],
+      "rounds_played": [
+        3
+      ],
+      "last_faced": "2024-08-01",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2690.0
+    },
+    "XIONG, JEFFERY": {
+      "name": "XIONG, JEFFERY",
+      "ratings_faced": [
+        2650
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2024 US Open"
+      ],
+      "rounds_played": [
+        4
+      ],
+      "last_faced": "2024-08-01",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2650.0
+    },
+    "DOMINGUEZ, LEINIER": {
+      "name": "DOMINGUEZ, LEINIER",
+      "ratings_faced": [
+        2620
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2024 US Open"
+      ],
+      "rounds_played": [
+        5
+      ],
+      "last_faced": "2024-08-01",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2620.0
+    },
+    "SHANKLAND, SAM": {
+      "name": "SHANKLAND, SAM",
+      "ratings_faced": [
+        2590
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2024 US Open"
+      ],
+      "rounds_played": [
+        6
+      ],
+      "last_faced": "2024-08-01",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2590.0
+    },
+    "ARONIAN, LEVON": {
+      "name": "ARONIAN, LEVON",
+      "ratings_faced": [
+        2760
+      ],
+      "results_against": [
+        "L"
+      ],
+      "tournaments_met": [
+        "2024 US Open"
+      ],
+      "rounds_played": [
+        7
+      ],
+      "last_faced": "2024-08-01",
+      "total_games": 1,
+      "wins_against": 0,
+      "losses_against": 1,
+      "draws_against": 0,
+      "avg_rating": 2760.0
+    },
+    "GIRI, ANISH": {
+      "name": "GIRI, ANISH",
+      "ratings_faced": [
+        2730
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2024 US Open"
+      ],
+      "rounds_played": [
+        8
+      ],
+      "last_faced": "2024-08-01",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2730.0
+    },
+    "RAPPORT, RICHARD": {
+      "name": "RAPPORT, RICHARD",
+      "ratings_faced": [
+        2700
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2024 US Open"
+      ],
+      "rounds_played": [
+        9
+      ],
+      "last_faced": "2024-08-01",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2700.0
+    },
+    "GM SHABALOV, ALEXANDER": {
+      "name": "GM SHABALOV, ALEXANDER",
+      "ratings_faced": [
+        2456
+      ],
+      "results_against": [
+        "L"
+      ],
+      "tournaments_met": [
+        "2025 US Open Chess Championship"
+      ],
+      "rounds_played": [
+        1
+      ],
+      "last_faced": "2025-08-03",
+      "total_games": 1,
+      "wins_against": 0,
+      "losses_against": 1,
+      "draws_against": 0,
+      "avg_rating": 2456.0
+    },
+    "EXPERT JOHNSON, MICHAEL": {
+      "name": "EXPERT JOHNSON, MICHAEL",
+      "ratings_faced": [
+        2180
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2025 US Open Chess Championship"
+      ],
+      "rounds_played": [
+        2
+      ],
+      "last_faced": "2025-08-03",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2180.0
+    },
+    "IM WILLIAMS, SARAH": {
+      "name": "IM WILLIAMS, SARAH",
+      "ratings_faced": [
+        2389
+      ],
+      "results_against": [
+        "D"
+      ],
+      "tournaments_met": [
+        "2025 US Open Chess Championship"
+      ],
+      "rounds_played": [
+        3
+      ],
+      "last_faced": "2025-08-03",
+      "total_games": 1,
+      "wins_against": 0,
+      "losses_against": 0,
+      "draws_against": 1,
+      "avg_rating": 2389.0
+    },
+    "FM BROWN, DAVID": {
+      "name": "FM BROWN, DAVID",
+      "ratings_faced": [
+        2298
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2025 US Open Chess Championship"
+      ],
+      "rounds_played": [
+        4
+      ],
+      "last_faced": "2025-08-03",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2298.0
+    },
+    "EXPERT GARCIA, MARIA": {
+      "name": "EXPERT GARCIA, MARIA",
+      "ratings_faced": [
+        2156
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2025 US Open Chess Championship"
+      ],
+      "rounds_played": [
+        5
+      ],
+      "last_faced": "2025-08-03",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2156.0
+    },
+    "MASTER WILSON, ROBERT": {
+      "name": "MASTER WILSON, ROBERT",
+      "ratings_faced": [
+        2267
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2025 US Open Chess Championship"
+      ],
+      "rounds_played": [
+        6
+      ],
+      "last_faced": "2025-08-03",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2267.0
+    },
+    "IM TAYLOR, JENNIFER": {
+      "name": "IM TAYLOR, JENNIFER",
+      "ratings_faced": [
+        2398
+      ],
+      "results_against": [
+        "L"
+      ],
+      "tournaments_met": [
+        "2025 US Open Chess Championship"
+      ],
+      "rounds_played": [
+        7
+      ],
+      "last_faced": "2025-08-03",
+      "total_games": 1,
+      "wins_against": 0,
+      "losses_against": 1,
+      "draws_against": 0,
+      "avg_rating": 2398.0
+    },
+    "EXPERT ANDERSON, CHRIS": {
+      "name": "EXPERT ANDERSON, CHRIS",
+      "ratings_faced": [
+        2189
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2025 US Open Chess Championship"
+      ],
+      "rounds_played": [
+        8
+      ],
+      "last_faced": "2025-08-03",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2189.0
+    },
+    "FM MARTINEZ, CARLOS": {
+      "name": "FM MARTINEZ, CARLOS",
+      "ratings_faced": [
+        2234
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2025 US Open Chess Championship"
+      ],
+      "rounds_played": [
+        9
+      ],
+      "last_faced": "2025-08-03",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2234.0
+    },
+    "GM FEDOROWICZ, JOHN": {
+      "name": "GM FEDOROWICZ, JOHN",
+      "ratings_faced": [
+        2489
+      ],
+      "results_against": [
+        "L"
+      ],
+      "tournaments_met": [
+        "12th Annual Washington International"
+      ],
+      "rounds_played": [
+        1
+      ],
+      "last_faced": "2025-08-13",
+      "total_games": 1,
+      "wins_against": 0,
+      "losses_against": 1,
+      "draws_against": 0,
+      "avg_rating": 2489.0
+    },
+    "IM HARRIS, STEPHANIE": {
+      "name": "IM HARRIS, STEPHANIE",
+      "ratings_faced": [
+        2367
+      ],
+      "results_against": [
+        "D"
+      ],
+      "tournaments_met": [
+        "12th Annual Washington International"
+      ],
+      "rounds_played": [
+        2
+      ],
+      "last_faced": "2025-08-13",
+      "total_games": 1,
+      "wins_against": 0,
+      "losses_against": 0,
+      "draws_against": 1,
+      "avg_rating": 2367.0
+    },
+    "EXPERT CLARK, MICHELLE": {
+      "name": "EXPERT CLARK, MICHELLE",
+      "ratings_faced": [
+        2178,
+        1980
+      ],
+      "results_against": [
+        "W",
+        "W"
+      ],
+      "tournaments_met": [
+        "12th Annual Washington International",
+        "2023 Winter Classic"
+      ],
+      "rounds_played": [
+        3,
+        2
+      ],
+      "last_faced": "2025-08-13",
+      "total_games": 2,
+      "wins_against": 2,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2079.0
+    },
+    "FM RODRIGUEZ, LUIS": {
+      "name": "FM RODRIGUEZ, LUIS",
+      "ratings_faced": [
+        2289
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "12th Annual Washington International"
+      ],
+      "rounds_played": [
+        4
+      ],
+      "last_faced": "2025-08-13",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2289.0
+    },
+    "MASTER LEWIS, RYAN": {
+      "name": "MASTER LEWIS, RYAN",
+      "ratings_faced": [
+        2245
+      ],
+      "results_against": [
+        "L"
+      ],
+      "tournaments_met": [
+        "12th Annual Washington International"
+      ],
+      "rounds_played": [
+        5
+      ],
+      "last_faced": "2025-08-13",
+      "total_games": 1,
+      "wins_against": 0,
+      "losses_against": 1,
+      "draws_against": 0,
+      "avg_rating": 2245.0
+    },
+    "EXPERT WALKER, AMANDA": {
+      "name": "EXPERT WALKER, AMANDA",
+      "ratings_faced": [
+        2167
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "12th Annual Washington International"
+      ],
+      "rounds_played": [
+        6
+      ],
+      "last_faced": "2025-08-13",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2167.0
+    },
+    "IM YOUNG, DANIEL": {
+      "name": "IM YOUNG, DANIEL",
+      "ratings_faced": [
+        2378
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "12th Annual Washington International"
+      ],
+      "rounds_played": [
+        7
+      ],
+      "last_faced": "2025-08-13",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2378.0
+    },
+    "IM BENJAMIN, JOEL": {
+      "name": "IM BENJAMIN, JOEL",
+      "ratings_faced": [
+        2456
+      ],
+      "results_against": [
+        "L"
+      ],
+      "tournaments_met": [
+        "Marshall Masters Tournament"
+      ],
+      "rounds_played": [
+        1
+      ],
+      "last_faced": "2025-08-19",
+      "total_games": 1,
+      "wins_against": 0,
+      "losses_against": 1,
+      "draws_against": 0,
+      "avg_rating": 2456.0
+    },
+    "EXPERT HALL, BRANDON": {
+      "name": "EXPERT HALL, BRANDON",
+      "ratings_faced": [
+        2189
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "Marshall Masters Tournament"
+      ],
+      "rounds_played": [
+        2
+      ],
+      "last_faced": "2025-08-19",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2189.0
+    },
+    "FM ALLEN, JESSICA": {
+      "name": "FM ALLEN, JESSICA",
+      "ratings_faced": [
+        2278
+      ],
+      "results_against": [
+        "D"
+      ],
+      "tournaments_met": [
+        "Marshall Masters Tournament"
+      ],
+      "rounds_played": [
+        3
+      ],
+      "last_faced": "2025-08-19",
+      "total_games": 1,
+      "wins_against": 0,
+      "losses_against": 0,
+      "draws_against": 1,
+      "avg_rating": 2278.0
+    },
+    "MASTER KING, NICOLE": {
+      "name": "MASTER KING, NICOLE",
+      "ratings_faced": [
+        2234
+      ],
+      "results_against": [
+        "L"
+      ],
+      "tournaments_met": [
+        "Marshall Masters Tournament"
+      ],
+      "rounds_played": [
+        4
+      ],
+      "last_faced": "2025-08-19",
+      "total_games": 1,
+      "wins_against": 0,
+      "losses_against": 1,
+      "draws_against": 0,
+      "avg_rating": 2234.0
+    },
+    "EXPERT THOMPSON, EMILY": {
+      "name": "EXPERT THOMPSON, EMILY",
+      "ratings_faced": [
+        2156
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "Marshall Masters Tournament"
+      ],
+      "rounds_played": [
+        5
+      ],
+      "last_faced": "2025-08-19",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2156.0
+    },
+    "FM WHITE, MICHAEL": {
+      "name": "FM WHITE, MICHAEL",
+      "ratings_faced": [
+        2267
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "Marshall Masters Tournament"
+      ],
+      "rounds_played": [
+        6
+      ],
+      "last_faced": "2025-08-19",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2267.0
+    },
+    "EXPERT PATEL, ARJUN": {
+      "name": "EXPERT PATEL, ARJUN",
+      "ratings_faced": [
+        2189
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2024 National K-12 Grade Championship"
+      ],
+      "rounds_played": [
+        1
+      ],
+      "last_faced": "2024-12-08",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2189.0
+    },
+    "EXPERT CHEN, LUCY": {
+      "name": "EXPERT CHEN, LUCY",
+      "ratings_faced": [
+        2156
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2024 National K-12 Grade Championship"
+      ],
+      "rounds_played": [
+        2
+      ],
+      "last_faced": "2024-12-08",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2156.0
+    },
+    "FM JACKSON, KEVIN": {
+      "name": "FM JACKSON, KEVIN",
+      "ratings_faced": [
+        2298
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2024 National K-12 Grade Championship"
+      ],
+      "rounds_played": [
+        3
+      ],
+      "last_faced": "2024-12-08",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2298.0
+    },
+    "EXPERT DAVIS, LISA": {
+      "name": "EXPERT DAVIS, LISA",
+      "ratings_faced": [
+        2167
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2024 National K-12 Grade Championship"
+      ],
+      "rounds_played": [
+        4
+      ],
+      "last_faced": "2024-12-08",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2167.0
+    },
+    "IM LOPEZ, ANA": {
+      "name": "IM LOPEZ, ANA",
+      "ratings_faced": [
+        2378
+      ],
+      "results_against": [
+        "L"
+      ],
+      "tournaments_met": [
+        "2024 National K-12 Grade Championship"
+      ],
+      "rounds_played": [
+        5
+      ],
+      "last_faced": "2024-12-08",
+      "total_games": 1,
+      "wins_against": 0,
+      "losses_against": 1,
+      "draws_against": 0,
+      "avg_rating": 2378.0
+    },
+    "EXPERT MARTIN, JAMES": {
+      "name": "EXPERT MARTIN, JAMES",
+      "ratings_faced": [
+        2198
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2024 National K-12 Grade Championship"
+      ],
+      "rounds_played": [
+        6
+      ],
+      "last_faced": "2024-12-08",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2198.0
+    },
+    "MASTER WRIGHT, SARAH": {
+      "name": "MASTER WRIGHT, SARAH",
+      "ratings_faced": [
+        2245
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2024 National K-12 Grade Championship"
+      ],
+      "rounds_played": [
+        7
+      ],
+      "last_faced": "2024-12-08",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2245.0
+    },
+    "MASTER SMITH, JOHN": {
+      "name": "MASTER SMITH, JOHN",
+      "ratings_faced": [
+        2150
+      ],
+      "results_against": [
+        "L"
+      ],
+      "tournaments_met": [
+        "2022 New York State Championship"
+      ],
+      "rounds_played": [
+        1
+      ],
+      "last_faced": "2022-03-15",
+      "total_games": 1,
+      "wins_against": 0,
+      "losses_against": 1,
+      "draws_against": 0,
+      "avg_rating": 2150.0
+    },
+    "EXPERT JONES, MIKE": {
+      "name": "EXPERT JONES, MIKE",
+      "ratings_faced": [
+        1920
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2022 New York State Championship"
+      ],
+      "rounds_played": [
+        2
+      ],
+      "last_faced": "2022-03-15",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 1920.0
+    },
+    "CLASS A WILSON, TOM": {
+      "name": "CLASS A WILSON, TOM",
+      "ratings_faced": [
+        1850
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2022 New York State Championship"
+      ],
+      "rounds_played": [
+        3
+      ],
+      "last_faced": "2022-03-15",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 1850.0
+    },
+    "EXPERT DAVIS, SARAH": {
+      "name": "EXPERT DAVIS, SARAH",
+      "ratings_faced": [
+        1980
+      ],
+      "results_against": [
+        "D"
+      ],
+      "tournaments_met": [
+        "2022 New York State Championship"
+      ],
+      "rounds_played": [
+        4
+      ],
+      "last_faced": "2022-03-15",
+      "total_games": 1,
+      "wins_against": 0,
+      "losses_against": 0,
+      "draws_against": 1,
+      "avg_rating": 1980.0
+    },
+    "MASTER BROWN, ALEX": {
+      "name": "MASTER BROWN, ALEX",
+      "ratings_faced": [
+        2200
+      ],
+      "results_against": [
+        "L"
+      ],
+      "tournaments_met": [
+        "2022 New York State Championship"
+      ],
+      "rounds_played": [
+        5
+      ],
+      "last_faced": "2022-03-15",
+      "total_games": 1,
+      "wins_against": 0,
+      "losses_against": 1,
+      "draws_against": 0,
+      "avg_rating": 2200.0
+    },
+    "CLASS A GARCIA, MARIA": {
+      "name": "CLASS A GARCIA, MARIA",
+      "ratings_faced": [
+        1820
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2022 New York State Championship"
+      ],
+      "rounds_played": [
+        6
+      ],
+      "last_faced": "2022-03-15",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 1820.0
+    },
+    "EXPERT TAYLOR, CHRIS": {
+      "name": "EXPERT TAYLOR, CHRIS",
+      "ratings_faced": [
+        1950
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2022 New York State Championship"
+      ],
+      "rounds_played": [
+        7
+      ],
+      "last_faced": "2022-03-15",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 1950.0
+    },
+    "EXPERT MARTINEZ, CARLOS": {
+      "name": "EXPERT MARTINEZ, CARLOS",
+      "ratings_faced": [
+        1960
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2022 Summer Open"
+      ],
+      "rounds_played": [
+        1
+      ],
+      "last_faced": "2022-07-20",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 1960.0
+    },
+    "MASTER RODRIGUEZ, LUIS": {
+      "name": "MASTER RODRIGUEZ, LUIS",
+      "ratings_faced": [
+        2180
+      ],
+      "results_against": [
+        "D"
+      ],
+      "tournaments_met": [
+        "2022 Summer Open"
+      ],
+      "rounds_played": [
+        2
+      ],
+      "last_faced": "2022-07-20",
+      "total_games": 1,
+      "wins_against": 0,
+      "losses_against": 0,
+      "draws_against": 1,
+      "avg_rating": 2180.0
+    },
+    "CLASS A ANDERSON, JENNY": {
+      "name": "CLASS A ANDERSON, JENNY",
+      "ratings_faced": [
+        1890
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2022 Summer Open"
+      ],
+      "rounds_played": [
+        3
+      ],
+      "last_faced": "2022-07-20",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 1890.0
+    },
+    "EXPERT THOMAS, ROBERT": {
+      "name": "EXPERT THOMAS, ROBERT",
+      "ratings_faced": [
+        2020
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2022 Summer Open"
+      ],
+      "rounds_played": [
+        4
+      ],
+      "last_faced": "2022-07-20",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2020.0
+    },
+    "MASTER JACKSON, DAVID": {
+      "name": "MASTER JACKSON, DAVID",
+      "ratings_faced": [
+        2250
+      ],
+      "results_against": [
+        "L"
+      ],
+      "tournaments_met": [
+        "2022 Summer Open"
+      ],
+      "rounds_played": [
+        5
+      ],
+      "last_faced": "2022-07-20",
+      "total_games": 1,
+      "wins_against": 0,
+      "losses_against": 1,
+      "draws_against": 0,
+      "avg_rating": 2250.0
+    },
+    "EXPERT WHITE, LISA": {
+      "name": "EXPERT WHITE, LISA",
+      "ratings_faced": [
+        1970
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2022 Summer Open"
+      ],
+      "rounds_played": [
+        6
+      ],
+      "last_faced": "2022-07-20",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 1970.0
+    },
+    "CLASS A HARRIS, PAUL": {
+      "name": "CLASS A HARRIS, PAUL",
+      "ratings_faced": [
+        1840
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2022 Summer Open"
+      ],
+      "rounds_played": [
+        7
+      ],
+      "last_faced": "2022-07-20",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 1840.0
+    },
+    "EXPERT MARTIN, SUSAN": {
+      "name": "EXPERT MARTIN, SUSAN",
+      "ratings_faced": [
+        2000
+      ],
+      "results_against": [
+        "L"
+      ],
+      "tournaments_met": [
+        "2022 Summer Open"
+      ],
+      "rounds_played": [
+        8
+      ],
+      "last_faced": "2022-07-20",
+      "total_games": 1,
+      "wins_against": 0,
+      "losses_against": 1,
+      "draws_against": 0,
+      "avg_rating": 2000.0
+    },
+    "MASTER THOMPSON, JAMES": {
+      "name": "MASTER THOMPSON, JAMES",
+      "ratings_faced": [
+        2190
+      ],
+      "results_against": [
+        "D"
+      ],
+      "tournaments_met": [
+        "2023 Winter Classic"
+      ],
+      "rounds_played": [
+        1
+      ],
+      "last_faced": "2023-01-10",
+      "total_games": 1,
+      "wins_against": 0,
+      "losses_against": 0,
+      "draws_against": 1,
+      "avg_rating": 2190.0
+    },
+    "CLASS A LEWIS, BRIAN": {
+      "name": "CLASS A LEWIS, BRIAN",
+      "ratings_faced": [
+        1870
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2023 Winter Classic"
+      ],
+      "rounds_played": [
+        3
+      ],
+      "last_faced": "2023-01-10",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 1870.0
+    },
+    "EXPERT WALKER, KAREN": {
+      "name": "EXPERT WALKER, KAREN",
+      "ratings_faced": [
+        2040
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2023 Winter Classic"
+      ],
+      "rounds_played": [
+        4
+      ],
+      "last_faced": "2023-01-10",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2040.0
+    },
+    "MASTER HALL, RICHARD": {
+      "name": "MASTER HALL, RICHARD",
+      "ratings_faced": [
+        2220
+      ],
+      "results_against": [
+        "L"
+      ],
+      "tournaments_met": [
+        "2023 Winter Classic"
+      ],
+      "rounds_played": [
+        5
+      ],
+      "last_faced": "2023-01-10",
+      "total_games": 1,
+      "wins_against": 0,
+      "losses_against": 1,
+      "draws_against": 0,
+      "avg_rating": 2220.0
+    },
+    "EXPERT ALLEN, NANCY": {
+      "name": "EXPERT ALLEN, NANCY",
+      "ratings_faced": [
+        1990
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2023 Winter Classic"
+      ],
+      "rounds_played": [
+        6
+      ],
+      "last_faced": "2023-01-10",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 1990.0
+    },
+    "CLASS A YOUNG, STEVE": {
+      "name": "CLASS A YOUNG, STEVE",
+      "ratings_faced": [
+        1850
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2023 Winter Classic"
+      ],
+      "rounds_played": [
+        7
+      ],
+      "last_faced": "2023-01-10",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 1850.0
+    },
+    "MASTER HERNANDEZ, JOSE": {
+      "name": "MASTER HERNANDEZ, JOSE",
+      "ratings_faced": [
+        2160
+      ],
+      "results_against": [
+        "D"
+      ],
+      "tournaments_met": [
+        "2023 Winter Classic"
+      ],
+      "rounds_played": [
+        8
+      ],
+      "last_faced": "2023-01-10",
+      "total_games": 1,
+      "wins_against": 0,
+      "losses_against": 0,
+      "draws_against": 1,
+      "avg_rating": 2160.0
+    },
+    "EXPERT KING, BARBARA": {
+      "name": "EXPERT KING, BARBARA",
+      "ratings_faced": [
+        2010
+      ],
+      "results_against": [
+        "L"
+      ],
+      "tournaments_met": [
+        "2023 Winter Classic"
+      ],
+      "rounds_played": [
+        9
+      ],
+      "last_faced": "2023-01-10",
+      "total_games": 1,
+      "wins_against": 0,
+      "losses_against": 1,
+      "draws_against": 0,
+      "avg_rating": 2010.0
+    },
+    "EXPERT WRIGHT, DANIEL": {
+      "name": "EXPERT WRIGHT, DANIEL",
+      "ratings_faced": [
+        2000
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2023 Spring Tournament"
+      ],
+      "rounds_played": [
+        1
+      ],
+      "last_faced": "2023-05-15",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2000.0
+    },
+    "MASTER LOPEZ, FERNANDO": {
+      "name": "MASTER LOPEZ, FERNANDO",
+      "ratings_faced": [
+        2170
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2023 Spring Tournament"
+      ],
+      "rounds_played": [
+        2
+      ],
+      "last_faced": "2023-05-15",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2170.0
+    },
+    "CLASS A HILL, AMANDA": {
+      "name": "CLASS A HILL, AMANDA",
+      "ratings_faced": [
+        1880
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2023 Spring Tournament"
+      ],
+      "rounds_played": [
+        3
+      ],
+      "last_faced": "2023-05-15",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 1880.0
+    },
+    "EXPERT SCOTT, TIMOTHY": {
+      "name": "EXPERT SCOTT, TIMOTHY",
+      "ratings_faced": [
+        2030
+      ],
+      "results_against": [
+        "D"
+      ],
+      "tournaments_met": [
+        "2023 Spring Tournament"
+      ],
+      "rounds_played": [
+        4
+      ],
+      "last_faced": "2023-05-15",
+      "total_games": 1,
+      "wins_against": 0,
+      "losses_against": 0,
+      "draws_against": 1,
+      "avg_rating": 2030.0
+    },
+    "MASTER GREEN, PATRICIA": {
+      "name": "MASTER GREEN, PATRICIA",
+      "ratings_faced": [
+        2200
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2023 Spring Tournament"
+      ],
+      "rounds_played": [
+        5
+      ],
+      "last_faced": "2023-05-15",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2200.0
+    },
+    "EXPERT ADAMS, MARK": {
+      "name": "EXPERT ADAMS, MARK",
+      "ratings_faced": [
+        2020
+      ],
+      "results_against": [
+        "L"
+      ],
+      "tournaments_met": [
+        "2023 Spring Tournament"
+      ],
+      "rounds_played": [
+        6
+      ],
+      "last_faced": "2023-05-15",
+      "total_games": 1,
+      "wins_against": 0,
+      "losses_against": 1,
+      "draws_against": 0,
+      "avg_rating": 2020.0
+    },
+    "CLASS A BAKER, HELEN": {
+      "name": "CLASS A BAKER, HELEN",
+      "ratings_faced": [
+        1860
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2023 Spring Tournament"
+      ],
+      "rounds_played": [
+        7
+      ],
+      "last_faced": "2023-05-15",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 1860.0
+    },
+    "MASTER GONZALEZ, ANTONIO": {
+      "name": "MASTER GONZALEZ, ANTONIO",
+      "ratings_faced": [
+        2180
+      ],
+      "results_against": [
+        "L"
+      ],
+      "tournaments_met": [
+        "2023 Spring Tournament"
+      ],
+      "rounds_played": [
+        8
+      ],
+      "last_faced": "2023-05-15",
+      "total_games": 1,
+      "wins_against": 0,
+      "losses_against": 1,
+      "draws_against": 0,
+      "avg_rating": 2180.0
+    },
+    "EXPERT NELSON, DEBORAH": {
+      "name": "EXPERT NELSON, DEBORAH",
+      "ratings_faced": [
+        2040
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2023 Spring Tournament"
+      ],
+      "rounds_played": [
+        9
+      ],
+      "last_faced": "2023-05-15",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2040.0
+    },
+    "MASTER CARTER, WILLIAM": {
+      "name": "MASTER CARTER, WILLIAM",
+      "ratings_faced": [
+        2210
+      ],
+      "results_against": [
+        "D"
+      ],
+      "tournaments_met": [
+        "2023 Fall Championship"
+      ],
+      "rounds_played": [
+        1
+      ],
+      "last_faced": "2023-10-20",
+      "total_games": 1,
+      "wins_against": 0,
+      "losses_against": 0,
+      "draws_against": 1,
+      "avg_rating": 2210.0
+    },
+    "EXPERT MITCHELL, SANDRA": {
+      "name": "EXPERT MITCHELL, SANDRA",
+      "ratings_faced": [
+        2010
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2023 Fall Championship"
+      ],
+      "rounds_played": [
+        2
+      ],
+      "last_faced": "2023-10-20",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2010.0
+    },
+    "CLASS A PEREZ, JOSHUA": {
+      "name": "CLASS A PEREZ, JOSHUA",
+      "ratings_faced": [
+        1890
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2023 Fall Championship"
+      ],
+      "rounds_played": [
+        3
+      ],
+      "last_faced": "2023-10-20",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 1890.0
+    },
+    "EXPERT ROBERTS, KIMBERLY": {
+      "name": "EXPERT ROBERTS, KIMBERLY",
+      "ratings_faced": [
+        2050
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2023 Fall Championship"
+      ],
+      "rounds_played": [
+        4
+      ],
+      "last_faced": "2023-10-20",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2050.0
+    },
+    "MASTER TURNER, GREGORY": {
+      "name": "MASTER TURNER, GREGORY",
+      "ratings_faced": [
+        2240
+      ],
+      "results_against": [
+        "L"
+      ],
+      "tournaments_met": [
+        "2023 Fall Championship"
+      ],
+      "rounds_played": [
+        5
+      ],
+      "last_faced": "2023-10-20",
+      "total_games": 1,
+      "wins_against": 0,
+      "losses_against": 1,
+      "draws_against": 0,
+      "avg_rating": 2240.0
+    },
+    "EXPERT PHILLIPS, DONNA": {
+      "name": "EXPERT PHILLIPS, DONNA",
+      "ratings_faced": [
+        2000
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2023 Fall Championship"
+      ],
+      "rounds_played": [
+        6
+      ],
+      "last_faced": "2023-10-20",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2000.0
+    },
+    "CLASS A CAMPBELL, RYAN": {
+      "name": "CLASS A CAMPBELL, RYAN",
+      "ratings_faced": [
+        1870
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2023 Fall Championship"
+      ],
+      "rounds_played": [
+        7
+      ],
+      "last_faced": "2023-10-20",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 1870.0
+    },
+    "MASTER PARKER, CAROL": {
+      "name": "MASTER PARKER, CAROL",
+      "ratings_faced": [
+        2190
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2023 Fall Championship"
+      ],
+      "rounds_played": [
+        8
+      ],
+      "last_faced": "2023-10-20",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2190.0
+    },
+    "EXPERT EVANS, KEVIN": {
+      "name": "EXPERT EVANS, KEVIN",
+      "ratings_faced": [
+        2030
+      ],
+      "results_against": [
+        "D"
+      ],
+      "tournaments_met": [
+        "2023 Fall Championship"
+      ],
+      "rounds_played": [
+        9
+      ],
+      "last_faced": "2023-10-20",
+      "total_games": 1,
+      "wins_against": 0,
+      "losses_against": 0,
+      "draws_against": 1,
+      "avg_rating": 2030.0
+    },
+    "MASTER EDWARDS, FRANK": {
+      "name": "MASTER EDWARDS, FRANK",
+      "ratings_faced": [
+        2220
+      ],
+      "results_against": [
+        "D"
+      ],
+      "tournaments_met": [
+        "2024 New Year Open"
+      ],
+      "rounds_played": [
+        1
+      ],
+      "last_faced": "2024-01-05",
+      "total_games": 1,
+      "wins_against": 0,
+      "losses_against": 0,
+      "draws_against": 1,
+      "avg_rating": 2220.0
+    },
+    "EXPERT COLLINS, LAURA": {
+      "name": "EXPERT COLLINS, LAURA",
+      "ratings_faced": [
+        2040
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2024 New Year Open"
+      ],
+      "rounds_played": [
+        2
+      ],
+      "last_faced": "2024-01-05",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2040.0
+    },
+    "CLASS A STEWART, JASON": {
+      "name": "CLASS A STEWART, JASON",
+      "ratings_faced": [
+        1880
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2024 New Year Open"
+      ],
+      "rounds_played": [
+        3
+      ],
+      "last_faced": "2024-01-05",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 1880.0
+    },
+    "EXPERT SANCHEZ, MARIA": {
+      "name": "EXPERT SANCHEZ, MARIA",
+      "ratings_faced": [
+        2060
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2024 New Year Open"
+      ],
+      "rounds_played": [
+        4
+      ],
+      "last_faced": "2024-01-05",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2060.0
+    },
+    "MASTER MORRIS, CHARLES": {
+      "name": "MASTER MORRIS, CHARLES",
+      "ratings_faced": [
+        2250
+      ],
+      "results_against": [
+        "L"
+      ],
+      "tournaments_met": [
+        "2024 New Year Open"
+      ],
+      "rounds_played": [
+        5
+      ],
+      "last_faced": "2024-01-05",
+      "total_games": 1,
+      "wins_against": 0,
+      "losses_against": 1,
+      "draws_against": 0,
+      "avg_rating": 2250.0
+    },
+    "EXPERT ROGERS, JANET": {
+      "name": "EXPERT ROGERS, JANET",
+      "ratings_faced": [
+        2020
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2024 New Year Open"
+      ],
+      "rounds_played": [
+        6
+      ],
+      "last_faced": "2024-01-05",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2020.0
+    },
+    "CLASS A REED, MATTHEW": {
+      "name": "CLASS A REED, MATTHEW",
+      "ratings_faced": [
+        1850
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2024 New Year Open"
+      ],
+      "rounds_played": [
+        7
+      ],
+      "last_faced": "2024-01-05",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 1850.0
+    },
+    "MASTER COOK, ELIZABETH": {
+      "name": "MASTER COOK, ELIZABETH",
+      "ratings_faced": [
+        2200
+      ],
+      "results_against": [
+        "L"
+      ],
+      "tournaments_met": [
+        "2024 New Year Open"
+      ],
+      "rounds_played": [
+        8
+      ],
+      "last_faced": "2024-01-05",
+      "total_games": 1,
+      "wins_against": 0,
+      "losses_against": 1,
+      "draws_against": 0,
+      "avg_rating": 2200.0
+    },
+    "EXPERT BAILEY, ANDREW": {
+      "name": "EXPERT BAILEY, ANDREW",
+      "ratings_faced": [
+        2030
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2024 Spring Masters"
+      ],
+      "rounds_played": [
+        1
+      ],
+      "last_faced": "2024-04-12",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2030.0
+    },
+    "MASTER RIVERA, CARLOS": {
+      "name": "MASTER RIVERA, CARLOS",
+      "ratings_faced": [
+        2190
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2024 Spring Masters"
+      ],
+      "rounds_played": [
+        2
+      ],
+      "last_faced": "2024-04-12",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2190.0
+    },
+    "CLASS A COOPER, EMILY": {
+      "name": "CLASS A COOPER, EMILY",
+      "ratings_faced": [
+        1870
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2024 Spring Masters"
+      ],
+      "rounds_played": [
+        3
+      ],
+      "last_faced": "2024-04-12",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 1870.0
+    },
+    "EXPERT RICHARDSON, ADAM": {
+      "name": "EXPERT RICHARDSON, ADAM",
+      "ratings_faced": [
+        2050
+      ],
+      "results_against": [
+        "D"
+      ],
+      "tournaments_met": [
+        "2024 Spring Masters"
+      ],
+      "rounds_played": [
+        4
+      ],
+      "last_faced": "2024-04-12",
+      "total_games": 1,
+      "wins_against": 0,
+      "losses_against": 0,
+      "draws_against": 1,
+      "avg_rating": 2050.0
+    },
+    "MASTER COX, REBECCA": {
+      "name": "MASTER COX, REBECCA",
+      "ratings_faced": [
+        2230
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2024 Spring Masters"
+      ],
+      "rounds_played": [
+        5
+      ],
+      "last_faced": "2024-04-12",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2230.0
+    },
+    "EXPERT HOWARD, NATHAN": {
+      "name": "EXPERT HOWARD, NATHAN",
+      "ratings_faced": [
+        2040
+      ],
+      "results_against": [
+        "L"
+      ],
+      "tournaments_met": [
+        "2024 Spring Masters"
+      ],
+      "rounds_played": [
+        6
+      ],
+      "last_faced": "2024-04-12",
+      "total_games": 1,
+      "wins_against": 0,
+      "losses_against": 1,
+      "draws_against": 0,
+      "avg_rating": 2040.0
+    },
+    "CLASS A WARD, SOPHIA": {
+      "name": "CLASS A WARD, SOPHIA",
+      "ratings_faced": [
+        1860
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2024 Spring Masters"
+      ],
+      "rounds_played": [
+        7
+      ],
+      "last_faced": "2024-04-12",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 1860.0
+    },
+    "MASTER TORRES, MIGUEL": {
+      "name": "MASTER TORRES, MIGUEL",
+      "ratings_faced": [
+        2210
+      ],
+      "results_against": [
+        "L"
+      ],
+      "tournaments_met": [
+        "2024 Spring Masters"
+      ],
+      "rounds_played": [
+        8
+      ],
+      "last_faced": "2024-04-12",
+      "total_games": 1,
+      "wins_against": 0,
+      "losses_against": 1,
+      "draws_against": 0,
+      "avg_rating": 2210.0
+    },
+    "EXPERT PETERSON, RACHEL": {
+      "name": "EXPERT PETERSON, RACHEL",
+      "ratings_faced": [
+        2020
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2024 Spring Masters"
+      ],
+      "rounds_played": [
+        9
+      ],
+      "last_faced": "2024-04-12",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2020.0
+    },
+    "MASTER GRAY, JONATHAN": {
+      "name": "MASTER GRAY, JONATHAN",
+      "ratings_faced": [
+        2200
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2024 Summer Championship"
+      ],
+      "rounds_played": [
+        1
+      ],
+      "last_faced": "2024-07-30",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2200.0
+    },
+    "EXPERT RAMIREZ, ANGELA": {
+      "name": "EXPERT RAMIREZ, ANGELA",
+      "ratings_faced": [
+        2010
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2024 Summer Championship"
+      ],
+      "rounds_played": [
+        2
+      ],
+      "last_faced": "2024-07-30",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2010.0
+    },
+    "CLASS A JAMES, TYLER": {
+      "name": "CLASS A JAMES, TYLER",
+      "ratings_faced": [
+        1890
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2024 Summer Championship"
+      ],
+      "rounds_played": [
+        3
+      ],
+      "last_faced": "2024-07-30",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 1890.0
+    },
+    "EXPERT WATSON, CRYSTAL": {
+      "name": "EXPERT WATSON, CRYSTAL",
+      "ratings_faced": [
+        2060
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2024 Summer Championship"
+      ],
+      "rounds_played": [
+        4
+      ],
+      "last_faced": "2024-07-30",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2060.0
+    },
+    "MASTER BROOKS, ANTHONY": {
+      "name": "MASTER BROOKS, ANTHONY",
+      "ratings_faced": [
+        2220
+      ],
+      "results_against": [
+        "D"
+      ],
+      "tournaments_met": [
+        "2024 Summer Championship"
+      ],
+      "rounds_played": [
+        5
+      ],
+      "last_faced": "2024-07-30",
+      "total_games": 1,
+      "wins_against": 0,
+      "losses_against": 0,
+      "draws_against": 1,
+      "avg_rating": 2220.0
+    },
+    "EXPERT KELLY, STEPHANIE": {
+      "name": "EXPERT KELLY, STEPHANIE",
+      "ratings_faced": [
+        2030
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2024 Summer Championship"
+      ],
+      "rounds_played": [
+        6
+      ],
+      "last_faced": "2024-07-30",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2030.0
+    },
+    "CLASS A SANDERS, JACOB": {
+      "name": "CLASS A SANDERS, JACOB",
+      "ratings_faced": [
+        1880
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2024 Summer Championship"
+      ],
+      "rounds_played": [
+        7
+      ],
+      "last_faced": "2024-07-30",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 1880.0
+    },
+    "MASTER PRICE, MONICA": {
+      "name": "MASTER PRICE, MONICA",
+      "ratings_faced": [
+        2180
+      ],
+      "results_against": [
+        "L"
+      ],
+      "tournaments_met": [
+        "2024 Summer Championship"
+      ],
+      "rounds_played": [
+        8
+      ],
+      "last_faced": "2024-07-30",
+      "total_games": 1,
+      "wins_against": 0,
+      "losses_against": 1,
+      "draws_against": 0,
+      "avg_rating": 2180.0
+    },
+    "EXPERT WOOD, BENJAMIN": {
+      "name": "EXPERT WOOD, BENJAMIN",
+      "ratings_faced": [
+        2040
+      ],
+      "results_against": [
+        "W"
+      ],
+      "tournaments_met": [
+        "2024 Summer Championship"
+      ],
+      "rounds_played": [
+        9
+      ],
+      "last_faced": "2024-07-30",
+      "total_games": 1,
+      "wins_against": 1,
+      "losses_against": 0,
+      "draws_against": 0,
+      "avg_rating": 2040.0
+    }
+  }
+}

@@ -1,0 +1,220 @@
+[
+  {
+    "name": "2025 US Open Chess Championship",
+    "date": "2025-08-03",
+    "rating_before": 2259,
+    "rating_after": 2239,
+    "score": "5.5/9",
+    "section": "Open",
+    "event_id": "202508036642",
+    "opponents": [
+      {
+        "name": "GM SHABALOV, ALEXANDER",
+        "rating": 2456,
+        "result": "L",
+        "round": 1
+      },
+      {
+        "name": "EXPERT JOHNSON, MICHAEL",
+        "rating": 2180,
+        "result": "W",
+        "round": 2
+      },
+      {
+        "name": "IM WILLIAMS, SARAH",
+        "rating": 2389,
+        "result": "D",
+        "round": 3
+      },
+      {
+        "name": "FM BROWN, DAVID",
+        "rating": 2298,
+        "result": "W",
+        "round": 4
+      },
+      {
+        "name": "EXPERT GARCIA, MARIA",
+        "rating": 2156,
+        "result": "W",
+        "round": 5
+      },
+      {
+        "name": "MASTER WILSON, ROBERT",
+        "rating": 2267,
+        "result": "W",
+        "round": 6
+      },
+      {
+        "name": "IM TAYLOR, JENNIFER",
+        "rating": 2398,
+        "result": "L",
+        "round": 7
+      },
+      {
+        "name": "EXPERT ANDERSON, CHRIS",
+        "rating": 2189,
+        "result": "W",
+        "round": 8
+      },
+      {
+        "name": "FM MARTINEZ, CARLOS",
+        "rating": 2234,
+        "result": "W",
+        "round": 9
+      }
+    ]
+  },
+  {
+    "name": "12th Annual Washington International",
+    "date": "2025-08-13",
+    "rating_before": 2249,
+    "rating_after": 2231,
+    "score": "4/7",
+    "section": "Championship",
+    "event_id": "202508132182",
+    "opponents": [
+      {
+        "name": "GM FEDOROWICZ, JOHN",
+        "rating": 2489,
+        "result": "L",
+        "round": 1
+      },
+      {
+        "name": "IM HARRIS, STEPHANIE",
+        "rating": 2367,
+        "result": "D",
+        "round": 2
+      },
+      {
+        "name": "EXPERT CLARK, MICHELLE",
+        "rating": 2178,
+        "result": "W",
+        "round": 3
+      },
+      {
+        "name": "FM RODRIGUEZ, LUIS",
+        "rating": 2289,
+        "result": "W",
+        "round": 4
+      },
+      {
+        "name": "MASTER LEWIS, RYAN",
+        "rating": 2245,
+        "result": "L",
+        "round": 5
+      },
+      {
+        "name": "EXPERT WALKER, AMANDA",
+        "rating": 2167,
+        "result": "W",
+        "round": 6
+      },
+      {
+        "name": "IM YOUNG, DANIEL",
+        "rating": 2378,
+        "result": "W",
+        "round": 7
+      }
+    ]
+  },
+  {
+    "name": "Marshall Masters Tournament",
+    "date": "2025-08-19",
+    "rating_before": 2231,
+    "rating_after": 2208,
+    "score": "3/6",
+    "section": "Masters",
+    "event_id": "202508195442",
+    "opponents": [
+      {
+        "name": "IM BENJAMIN, JOEL",
+        "rating": 2456,
+        "result": "L",
+        "round": 1
+      },
+      {
+        "name": "EXPERT HALL, BRANDON",
+        "rating": 2189,
+        "result": "W",
+        "round": 2
+      },
+      {
+        "name": "FM ALLEN, JESSICA",
+        "rating": 2278,
+        "result": "D",
+        "round": 3
+      },
+      {
+        "name": "MASTER KING, NICOLE",
+        "rating": 2234,
+        "result": "L",
+        "round": 4
+      },
+      {
+        "name": "EXPERT THOMPSON, EMILY",
+        "rating": 2156,
+        "result": "W",
+        "round": 5
+      },
+      {
+        "name": "FM WHITE, MICHAEL",
+        "rating": 2267,
+        "result": "W",
+        "round": 6
+      }
+    ]
+  },
+  {
+    "name": "2024 National K-12 Grade Championship",
+    "date": "2024-12-08",
+    "rating_before": 2217,
+    "rating_after": 2232,
+    "score": "6/7",
+    "section": "12th Grade Championship",
+    "event_id": "202412081582",
+    "opponents": [
+      {
+        "name": "EXPERT PATEL, ARJUN",
+        "rating": 2189,
+        "result": "W",
+        "round": 1
+      },
+      {
+        "name": "EXPERT CHEN, LUCY",
+        "rating": 2156,
+        "result": "W",
+        "round": 2
+      },
+      {
+        "name": "FM JACKSON, KEVIN",
+        "rating": 2298,
+        "result": "W",
+        "round": 3
+      },
+      {
+        "name": "EXPERT DAVIS, LISA",
+        "rating": 2167,
+        "result": "W",
+        "round": 4
+      },
+      {
+        "name": "IM LOPEZ, ANA",
+        "rating": 2378,
+        "result": "L",
+        "round": 5
+      },
+      {
+        "name": "EXPERT MARTIN, JAMES",
+        "rating": 2198,
+        "result": "W",
+        "round": 6
+      },
+      {
+        "name": "MASTER WRIGHT, SARAH",
+        "rating": 2245,
+        "result": "W",
+        "round": 7
+      }
+    ]
+  }
+]

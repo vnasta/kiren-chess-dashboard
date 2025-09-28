@@ -1,0 +1,158 @@
+[
+  {
+    "name": "2022 New York State Championship",
+    "date": "2022-03-15",
+    "rating_before": 1980,
+    "rating_after": 2010,
+    "score": "4.5/7",
+    "section": "Open",
+    "event_id": "202203150001",
+    "opponents": [
+      {"name": "MASTER SMITH, JOHN", "rating": 2150, "result": "L", "round": 1},
+      {"name": "EXPERT JONES, MIKE", "rating": 1920, "result": "W", "round": 2},
+      {"name": "CLASS A WILSON, TOM", "rating": 1850, "result": "W", "round": 3},
+      {"name": "EXPERT DAVIS, SARAH", "rating": 1980, "result": "D", "round": 4},
+      {"name": "MASTER BROWN, ALEX", "rating": 2200, "result": "L", "round": 5},
+      {"name": "CLASS A GARCIA, MARIA", "rating": 1820, "result": "W", "round": 6},
+      {"name": "EXPERT TAYLOR, CHRIS", "rating": 1950, "result": "W", "round": 7}
+    ]
+  },
+  {
+    "name": "2022 Summer Open",
+    "date": "2022-07-20",
+    "rating_before": 2010,
+    "rating_after": 2035,
+    "score": "5/8",
+    "section": "Open",
+    "event_id": "202207200002",
+    "opponents": [
+      {"name": "EXPERT MARTINEZ, CARLOS", "rating": 1960, "result": "W", "round": 1},
+      {"name": "MASTER RODRIGUEZ, LUIS", "rating": 2180, "result": "D", "round": 2},
+      {"name": "CLASS A ANDERSON, JENNY", "rating": 1890, "result": "W", "round": 3},
+      {"name": "EXPERT THOMAS, ROBERT", "rating": 2020, "result": "W", "round": 4},
+      {"name": "MASTER JACKSON, DAVID", "rating": 2250, "result": "L", "round": 5},
+      {"name": "EXPERT WHITE, LISA", "rating": 1970, "result": "W", "round": 6},
+      {"name": "CLASS A HARRIS, PAUL", "rating": 1840, "result": "W", "round": 7},
+      {"name": "EXPERT MARTIN, SUSAN", "rating": 2000, "result": "L", "round": 8}
+    ]
+  },
+  {
+    "name": "2023 Winter Classic",
+    "date": "2023-01-10",
+    "rating_before": 2035,
+    "rating_after": 2065,
+    "score": "5.5/9",
+    "section": "Open",
+    "event_id": "202301100003",
+    "opponents": [
+      {"name": "MASTER THOMPSON, JAMES", "rating": 2190, "result": "D", "round": 1},
+      {"name": "EXPERT CLARK, MICHELLE", "rating": 1980, "result": "W", "round": 2},
+      {"name": "CLASS A LEWIS, BRIAN", "rating": 1870, "result": "W", "round": 3},
+      {"name": "EXPERT WALKER, KAREN", "rating": 2040, "result": "W", "round": 4},
+      {"name": "MASTER HALL, RICHARD", "rating": 2220, "result": "L", "round": 5},
+      {"name": "EXPERT ALLEN, NANCY", "rating": 1990, "result": "W", "round": 6},
+      {"name": "CLASS A YOUNG, STEVE", "rating": 1850, "result": "W", "round": 7},
+      {"name": "MASTER HERNANDEZ, JOSE", "rating": 2160, "result": "D", "round": 8},
+      {"name": "EXPERT KING, BARBARA", "rating": 2010, "result": "L", "round": 9}
+    ]
+  },
+  {
+    "name": "2023 Spring Tournament",
+    "date": "2023-05-15",
+    "rating_before": 2065,
+    "rating_after": 2120,
+    "score": "6/9",
+    "section": "Open",
+    "event_id": "202305150004",
+    "opponents": [
+      {"name": "EXPERT WRIGHT, DANIEL", "rating": 2000, "result": "W", "round": 1},
+      {"name": "MASTER LOPEZ, FERNANDO", "rating": 2170, "result": "W", "round": 2},
+      {"name": "CLASS A HILL, AMANDA", "rating": 1880, "result": "W", "round": 3},
+      {"name": "EXPERT SCOTT, TIMOTHY", "rating": 2030, "result": "D", "round": 4},
+      {"name": "MASTER GREEN, PATRICIA", "rating": 2200, "result": "W", "round": 5},
+      {"name": "EXPERT ADAMS, MARK", "rating": 2020, "result": "L", "round": 6},
+      {"name": "CLASS A BAKER, HELEN", "rating": 1860, "result": "W", "round": 7},
+      {"name": "MASTER GONZALEZ, ANTONIO", "rating": 2180, "result": "L", "round": 8},
+      {"name": "EXPERT NELSON, DEBORAH", "rating": 2040, "result": "W", "round": 9}
+    ]
+  },
+  {
+    "name": "2023 Fall Championship",
+    "date": "2023-10-20",
+    "rating_before": 2120,
+    "rating_after": 2155,
+    "score": "6.5/9",
+    "section": "Open",
+    "event_id": "202310200005",
+    "opponents": [
+      {"name": "MASTER CARTER, WILLIAM", "rating": 2210, "result": "D", "round": 1},
+      {"name": "EXPERT MITCHELL, SANDRA", "rating": 2010, "result": "W", "round": 2},
+      {"name": "CLASS A PEREZ, JOSHUA", "rating": 1890, "result": "W", "round": 3},
+      {"name": "EXPERT ROBERTS, KIMBERLY", "rating": 2050, "result": "W", "round": 4},
+      {"name": "MASTER TURNER, GREGORY", "rating": 2240, "result": "L", "round": 5},
+      {"name": "EXPERT PHILLIPS, DONNA", "rating": 2000, "result": "W", "round": 6},
+      {"name": "CLASS A CAMPBELL, RYAN", "rating": 1870, "result": "W", "round": 7},
+      {"name": "MASTER PARKER, CAROL", "rating": 2190, "result": "W", "round": 8},
+      {"name": "EXPERT EVANS, KEVIN", "rating": 2030, "result": "D", "round": 9}
+    ]
+  },
+  {
+    "name": "2024 New Year Open",
+    "date": "2024-01-05",
+    "rating_before": 2155,
+    "rating_after": 2180,
+    "score": "5.5/8",
+    "section": "Open",
+    "event_id": "202401050006",
+    "opponents": [
+      {"name": "MASTER EDWARDS, FRANK", "rating": 2220, "result": "D", "round": 1},
+      {"name": "EXPERT COLLINS, LAURA", "rating": 2040, "result": "W", "round": 2},
+      {"name": "CLASS A STEWART, JASON", "rating": 1880, "result": "W", "round": 3},
+      {"name": "EXPERT SANCHEZ, MARIA", "rating": 2060, "result": "W", "round": 4},
+      {"name": "MASTER MORRIS, CHARLES", "rating": 2250, "result": "L", "round": 5},
+      {"name": "EXPERT ROGERS, JANET", "rating": 2020, "result": "W", "round": 6},
+      {"name": "CLASS A REED, MATTHEW", "rating": 1850, "result": "W", "round": 7},
+      {"name": "MASTER COOK, ELIZABETH", "rating": 2200, "result": "L", "round": 8}
+    ]
+  },
+  {
+    "name": "2024 Spring Masters",
+    "date": "2024-04-12",
+    "rating_before": 2180,
+    "rating_after": 2208,
+    "score": "6/9",
+    "section": "Open",
+    "event_id": "202404120007",
+    "opponents": [
+      {"name": "EXPERT BAILEY, ANDREW", "rating": 2030, "result": "W", "round": 1},
+      {"name": "MASTER RIVERA, CARLOS", "rating": 2190, "result": "W", "round": 2},
+      {"name": "CLASS A COOPER, EMILY", "rating": 1870, "result": "W", "round": 3},
+      {"name": "EXPERT RICHARDSON, ADAM", "rating": 2050, "result": "D", "round": 4},
+      {"name": "MASTER COX, REBECCA", "rating": 2230, "result": "W", "round": 5},
+      {"name": "EXPERT HOWARD, NATHAN", "rating": 2040, "result": "L", "round": 6},
+      {"name": "CLASS A WARD, SOPHIA", "rating": 1860, "result": "W", "round": 7},
+      {"name": "MASTER TORRES, MIGUEL", "rating": 2210, "result": "L", "round": 8},
+      {"name": "EXPERT PETERSON, RACHEL", "rating": 2020, "result": "W", "round": 9}
+    ]
+  },
+  {
+    "name": "2024 Summer Championship",
+    "date": "2024-07-30",
+    "rating_before": 2208,
+    "rating_after": 2239,
+    "score": "7/9",
+    "section": "Open",
+    "event_id": "202407300008",
+    "opponents": [
+      {"name": "MASTER GRAY, JONATHAN", "rating": 2200, "result": "W", "round": 1},
+      {"name": "EXPERT RAMIREZ, ANGELA", "rating": 2010, "result": "W", "round": 2},
+      {"name": "CLASS A JAMES, TYLER", "rating": 1890, "result": "W", "round": 3},
+      {"name": "EXPERT WATSON, CRYSTAL", "rating": 2060, "result": "W", "round": 4},
+      {"name": "MASTER BROOKS, ANTHONY", "rating": 2220, "result": "D", "round": 5},
+      {"name": "EXPERT KELLY, STEPHANIE", "rating": 2030, "result": "W", "round": 6},
+      {"name": "CLASS A SANDERS, JACOB", "rating": 1880, "result": "W", "round": 7},
+      {"name": "MASTER PRICE, MONICA", "rating": 2180, "result": "L", "round": 8},
+      {"name": "EXPERT WOOD, BENJAMIN", "rating": 2040, "result": "W", "round": 9}
+    ]
+  }
+]

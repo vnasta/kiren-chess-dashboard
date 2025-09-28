@@ -1,0 +1,139 @@
+[
+  {
+    "name": "2022 Eastern Class Championships",
+    "date": "2022-03-12",
+    "rating_before": 1980,
+    "rating_after": 2010,
+    "score": "4.5/7",
+    "section": "Class A",
+    "event_id": "202203120001",
+    "opponents": [
+      {"name": "SHABALOV, ALEXANDER", "rating": 2450, "result": "L", "round": 1},
+      {"name": "BENJAMIN, JOEL", "rating": 2420, "result": "L", "round": 2},
+      {"name": "FEDOROWICZ, JOHN", "rating": 2380, "result": "D", "round": 3},
+      {"name": "CHRISTIANSEN, LARRY", "rating": 2350, "result": "L", "round": 4},
+      {"name": "ALBURT, LEV", "rating": 2320, "result": "D", "round": 5},
+      {"name": "DLUGY, MAXIM", "rating": 2300, "result": "W", "round": 6},
+      {"name": "ROHDE, MICHAEL", "rating": 2280, "result": "W", "round": 7}
+    ]
+  },
+  {
+    "name": "2022 Marshall Chess Club Championship",
+    "date": "2022-07-15",
+    "rating_before": 2010,
+    "rating_after": 2045,
+    "score": "5.5/9",
+    "section": "Open",
+    "event_id": "202207150001",
+    "opponents": [
+      {"name": "GULKO, BORIS", "rating": 2480, "result": "L", "round": 1},
+      {"name": "STRIPUNSKY, ALEXANDER", "rating": 2450, "result": "D", "round": 2},
+      {"name": "NOVIKOV, IGOR", "rating": 2420, "result": "L", "round": 3},
+      {"name": "KAIDANOV, GREGORY", "rating": 2400, "result": "W", "round": 4},
+      {"name": "YERMOLINSKY, ALEX", "rating": 2380, "result": "W", "round": 5},
+      {"name": "PERELSHTEYN, EUGENE", "rating": 2360, "result": "W", "round": 6},
+      {"name": "BONIN, JAY", "rating": 2340, "result": "W", "round": 7},
+      {"name": "KUDRIN, SERGEY", "rating": 2320, "result": "D", "round": 8},
+      {"name": "RACHELS, STUART", "rating": 2300, "result": "W", "round": 9}
+    ]
+  },
+  {
+    "name": "2023 New York State Championship",
+    "date": "2023-02-18",
+    "rating_before": 2045,
+    "rating_after": 2085,
+    "score": "6/9",
+    "section": "Open",
+    "event_id": "202302180001",
+    "opponents": [
+      {"name": "SHULMAN, YURI", "rating": 2520, "result": "L", "round": 1},
+      {"name": "ONISCHUK, ALEXANDER", "rating": 2490, "result": "D", "round": 2},
+      {"name": "AKOBIAN, VARUZHAN", "rating": 2460, "result": "W", "round": 3},
+      {"name": "KRASIK, IRINA", "rating": 2420, "result": "W", "round": 4},
+      {"name": "IPPOLITO, DEAN", "rating": 2380, "result": "W", "round": 5},
+      {"name": "PARKER, JOHN", "rating": 2350, "result": "W", "round": 6},
+      {"name": "FISHBEIN, ALEXANDER", "rating": 2320, "result": "D", "round": 7},
+      {"name": "SARKAR, JUSTIN", "rating": 2290, "result": "W", "round": 8},
+      {"name": "LAPSHUN, YURY", "rating": 2260, "result": "W", "round": 9}
+    ]
+  },
+  {
+    "name": "2023 World Open",
+    "date": "2023-07-04",
+    "rating_before": 2085,
+    "rating_after": 2135,
+    "score": "6.5/9",
+    "section": "Open",
+    "event_id": "202307040001",
+    "opponents": [
+      {"name": "LENDERMAN, ALEKSANDR", "rating": 2550, "result": "D", "round": 1},
+      {"name": "ROBSON, RAY", "rating": 2520, "result": "L", "round": 2},
+      {"name": "MOLNER, MACKENZIE", "rating": 2480, "result": "W", "round": 3},
+      {"name": "TROFF, KAYDEN", "rating": 2450, "result": "W", "round": 4},
+      {"name": "TANG, ANDREW", "rating": 2420, "result": "W", "round": 5},
+      {"name": "MORADIABADI, ELSHAN", "rating": 2390, "result": "W", "round": 6},
+      {"name": "CHANDRA, AKSHAT", "rating": 2360, "result": "D", "round": 7},
+      {"name": "ZHEREBUKH, YAROSLAV", "rating": 2480, "result": "L", "round": 8},
+      {"name": "SEVIAN, SAMUEL", "rating": 2640, "result": "W", "round": 9}
+    ]
+  },
+  {
+    "name": "2023 US Chess Championship Qualifier",
+    "date": "2023-11-10",
+    "rating_before": 2135,
+    "rating_after": 2165,
+    "score": "5.5/8",
+    "section": "Championship",
+    "event_id": "202311100001",
+    "opponents": [
+      {"name": "ZHAO, ANNIE", "rating": 2300, "result": "W", "round": 1},
+      {"name": "YU, JENNIFER", "rating": 2320, "result": "W", "round": 2},
+      {"name": "NEMCOVA, KATERINA", "rating": 2280, "result": "D", "round": 3},
+      {"name": "ABRAHAMYAN, TATEV", "rating": 2350, "result": "W", "round": 4},
+      {"name": "TSODIKOVA, NATALYA", "rating": 2310, "result": "L", "round": 5},
+      {"name": "GLAZER, EVAN", "rating": 2290, "result": "W", "round": 6},
+      {"name": "BROWN, PETER", "rating": 2270, "result": "W", "round": 7},
+      {"name": "MIYASAKA, ERIC", "rating": 2320, "result": "D", "round": 8}
+    ]
+  },
+  {
+    "name": "2024 Continental Chess Championship",
+    "date": "2024-01-20",
+    "rating_before": 2165,
+    "rating_after": 2195,
+    "score": "6/9",
+    "section": "Open",
+    "event_id": "202401200001",
+    "opponents": [
+      {"name": "KAMSKY, GATA", "rating": 2650, "result": "L", "round": 1},
+      {"name": "EHLVEST, JAAN", "rating": 2520, "result": "D", "round": 2},
+      {"name": "SEIRAWAN, YASSER", "rating": 2480, "result": "W", "round": 3},
+      {"name": "DZINDZICHASHVILI, ROMAN", "rating": 2450, "result": "W", "round": 4},
+      {"name": "BROWNE, WALTER", "rating": 2420, "result": "W", "round": 5},
+      {"name": "EVANS, LARRY", "rating": 2390, "result": "W", "round": 6},
+      {"name": "WEINSTEIN, NORMAN", "rating": 2360, "result": "D", "round": 7},
+      {"name": "LEIN, ANATOLY", "rating": 2340, "result": "W", "round": 8},
+      {"name": "KOGAN, ARTUR", "rating": 2320, "result": "W", "round": 9}
+    ]
+  },
+  {
+    "name": "2024 US Open",
+    "date": "2024-08-01",
+    "rating_before": 2195,
+    "rating_after": 2225,
+    "score": "7/9",
+    "section": "Open",
+    "event_id": "202408010001",
+    "opponents": [
+      {"name": "NAKAMURA, HIKARU", "rating": 2750, "result": "L", "round": 1},
+      {"name": "CARUANA, FABIANO", "rating": 2720, "result": "D", "round": 2},
+      {"name": "SO, WESLEY", "rating": 2690, "result": "W", "round": 3},
+      {"name": "XIONG, JEFFERY", "rating": 2650, "result": "W", "round": 4},
+      {"name": "DOMINGUEZ, LEINIER", "rating": 2620, "result": "W", "round": 5},
+      {"name": "SHANKLAND, SAM", "rating": 2590, "result": "W", "round": 6},
+      {"name": "ARONIAN, LEVON", "rating": 2760, "result": "L", "round": 7},
+      {"name": "GIRI, ANISH", "rating": 2730, "result": "W", "round": 8},
+      {"name": "RAPPORT, RICHARD", "rating": 2700, "result": "W", "round": 9}
+    ]
+  }
+]

@@ -23,6 +23,7 @@ class EnhancedChessDashboard:
         self.opponent_cache = OpponentCacheManager()
         self.current_player_data = None
         self.current_tournaments = []
+        self.cached_opponents = {}  # Initialize opponent cache for profile switching
 
         # Default to Kiren's data
         self.load_player_data("NASTA, KIREN", "15255524")
@@ -100,6 +101,7 @@ class EnhancedChessDashboard:
                 except:
                     self.current_tournaments = multiyear_data
                 print(f"Loaded cached data: {len(self.current_tournaments)} tournaments")
+                self.cache_all_opponents()  # Cache all opponents for profile switching
                 return
 
             # Method 2: Try to load from existing cache file
@@ -308,6 +310,63 @@ class EnhancedChessDashboard:
             # Current player section (will be updated dynamically)
             html.Div(id='player-content', children=self.create_player_content())
         ])
+
+    def cache_all_opponents(self):
+        """Cache all opponents from Kiren's tournaments for profile switching"""
+        self.cached_opponents = {}
+
+        for tournament in self.current_tournaments:
+            for opp in tournament.get('opponents', []):
+                name = opp['name']
+                if name not in self.cached_opponents:
+                    # Parse opponent name to get clean format
+                    clean_name = self.parse_opponent_name(name)
+
+                    # Create opponent profile data
+                    self.cached_opponents[name] = {
+                        'original_name': name,
+                        'clean_name': clean_name,
+                        'rating': opp['rating'],
+                        'tournaments_vs_kiren': [],
+                        'record_vs_kiren': {'W': 0, 'D': 0, 'L': 0},
+                        'avg_rating': opp['rating']
+                    }
+
+                # Add this game to the opponent's record
+                result = opp['result']
+                self.cached_opponents[name]['tournaments_vs_kiren'].append({
+                    'tournament': tournament['name'],
+                    'date': tournament['date'],
+                    'result': result,
+                    'round': opp['round'],
+                    'rating': opp['rating']
+                })
+
+                # Update record (from opponent's perspective)
+                if result == 'W':  # Kiren won, so opponent lost
+                    self.cached_opponents[name]['record_vs_kiren']['L'] += 1
+                elif result == 'L':  # Kiren lost, so opponent won
+                    self.cached_opponents[name]['record_vs_kiren']['W'] += 1
+                elif result == 'D':  # Draw
+                    self.cached_opponents[name]['record_vs_kiren']['D'] += 1
+
+        print(f"✅ Cached {len(self.cached_opponents)} opponents for profile switching")
+
+    def parse_opponent_name(self, name):
+        """Parse opponent name to clean format"""
+        if ',' in name:
+            parts = name.split(',')
+            lastname = parts[0].strip()
+            firstname = parts[1].strip() if len(parts) > 1 else ""
+
+            # Remove title prefixes
+            for title in ['GM ', 'IM ', 'FM ', 'WGM ', 'WIM ', 'WFM ', 'MASTER ', 'EXPERT ', 'CLASS A ']:
+                if lastname.startswith(title):
+                    lastname = lastname[len(title):].strip()
+                    break
+
+            return f"{lastname}, {firstname}".strip(', ')
+        return name
 
     def create_initial_charts(self):
         """Create initial charts with current player data"""
@@ -866,7 +925,7 @@ class EnhancedChessDashboard:
             prevent_initial_call=True
         )
         def handle_opponent_click(n_clicks_list):
-            """Handle clicking on opponent names"""
+            """Handle clicking on opponent names - now with real cached data"""
             if not any(n_clicks_list):
                 return dash.no_update
 
@@ -880,38 +939,62 @@ class EnhancedChessDashboard:
             button_data = json_module.loads(button_id)
             opponent_name = button_data['name']
 
-            # Parse the opponent name to extract player info
-            # Format: "TITLE LASTNAME, FIRSTNAME"
-            if ',' in opponent_name:
-                try:
-                    parts = opponent_name.split(',')
-                    lastname = parts[0].strip()
-                    firstname = parts[1].strip() if len(parts) > 1 else ""
+            # Check if we have cached data for this opponent
+            if hasattr(self, 'cached_opponents') and opponent_name in self.cached_opponents:
+                opp_data = self.cached_opponents[opponent_name]
 
-                    # Remove title prefixes
-                    for title in ['GM ', 'IM ', 'FM ', 'WGM ', 'WIM ', 'WFM ', 'MASTER ', 'EXPERT ', 'CLASS A ']:
-                        if lastname.startswith(title):
-                            lastname = lastname[len(title):].strip()
-                            break
+                # Create opponent profile with cached data
+                self.current_player_data = {
+                    'name': opp_data['clean_name'],
+                    'uscf_id': f"OPP_{hash(opponent_name) % 100000000}",  # Generate consistent ID
+                    'regular_rating': opp_data['avg_rating'],
+                    'state': 'Unknown'
+                }
 
-                    new_player_name = f"{lastname}, {firstname}".strip(', ')
-                    fake_uscf_id = str(hash(new_player_name) % 100000000)  # Generate a fake ID
+                # Create opponent tournament data showing games vs Kiren
+                opponent_tournaments = []
+                for game in opp_data['tournaments_vs_kiren']:
+                    # Create a tournament from opponent's perspective
+                    opp_result = game['result']
+                    if opp_result == 'W':  # Kiren won, opponent lost
+                        opp_perspective = 'L'
+                    elif opp_result == 'L':  # Kiren lost, opponent won
+                        opp_perspective = 'W'
+                    else:  # Draw
+                        opp_perspective = 'D'
 
-                    # Load new player (this would search USCF in real implementation)
-                    self.load_player_data(new_player_name, fake_uscf_id)
+                    opponent_tournaments.append({
+                        'name': f"{game['tournament']} (vs Kiren)",
+                        'date': game['date'],
+                        'rating_before': game['rating'],
+                        'rating_after': game['rating'],
+                        'score': '1/1' if opp_perspective == 'W' else '0.5/1' if opp_perspective == 'D' else '0/1',
+                        'section': 'vs Kiren Nasta',
+                        'opponents': [{
+                            'name': 'NASTA, KIREN',
+                            'rating': 2208,
+                            'result': opp_perspective,
+                            'round': game['round']
+                        }]
+                    })
 
-                    return [
-                        html.Div([
-                            html.H2(f"🔍 Analyzing: {new_player_name}", style={'color': '#27ae60', 'marginBottom': '20px'}),
-                            html.P("Note: This is a simulated analysis. In a full implementation, this would fetch real USCF data.",
-                                  style={'fontStyle': 'italic', 'color': '#7f8c8d', 'marginBottom': '20px'}),
-                            html.Button("← Back to Kiren", id='back-to-kiren-btn',
-                                      style={'padding': '10px 20px', 'backgroundColor': '#3498db', 'color': 'white', 'border': 'none', 'marginBottom': '20px'})
-                        ]),
-                        *self.create_player_content()
-                    ]
-                except:
-                    pass
+                self.current_tournaments = opponent_tournaments
+
+                # Get record summary
+                record = opp_data['record_vs_kiren']
+                record_str = f"{record['W']}W-{record['L']}L-{record['D']}D"
+
+                return [
+                    html.Div([
+                        html.H2(f"🔍 Opponent Analysis: {opp_data['clean_name']}",
+                               style={'color': '#27ae60', 'marginBottom': '20px'}),
+                        html.P(f"Record vs Kiren Nasta: {record_str} | Average Rating: {opp_data['avg_rating']}",
+                              style={'fontSize': '16px', 'color': '#34495e', 'marginBottom': '20px'}),
+                        html.Button("← Back to Kiren", id='back-to-kiren-btn',
+                                  style={'padding': '10px 20px', 'backgroundColor': '#3498db', 'color': 'white', 'border': 'none', 'marginBottom': '20px'})
+                    ]),
+                    *self.create_player_content()
+                ]
 
             return dash.no_update
 
@@ -925,7 +1008,7 @@ class EnhancedChessDashboard:
             if not n_clicks:
                 return dash.no_update
 
-            # Reset to Kiren's data
+            # Reset to Kiren's data and re-cache opponents
             self.load_player_data("NASTA, KIREN", "15255524")
             return self.create_player_content()
 

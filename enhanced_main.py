@@ -288,10 +288,123 @@ class EnhancedChessDashboard:
             html.Div(id='player-content', children=self.create_player_content())
         ])
 
+    def create_initial_charts(self):
+        """Create initial charts with current player data"""
+        if not self.current_tournaments:
+            return {
+                'rating': go.Figure().update_layout(title="No tournament data available"),
+                'performance': go.Figure().update_layout(title="No tournament data available"),
+                'opponent_rating': go.Figure().update_layout(title="No tournament data available"),
+                'results_pie': go.Figure().update_layout(title="No tournament data available")
+            }
+
+        # Rating progression chart
+        sorted_tournaments = sorted(self.current_tournaments, key=lambda x: x['date'])
+        dates = [t['date'] for t in sorted_tournaments]
+        ratings_after = [t.get('rating_after', t.get('rating_before', 0)) for t in sorted_tournaments]
+
+        rating_fig = go.Figure()
+        rating_fig.add_trace(go.Scatter(
+            x=dates,
+            y=ratings_after,
+            mode='lines+markers',
+            name='Rating',
+            line=dict(color='#2c3e50', width=3),
+            marker=dict(size=8, color='#e74c3c')
+        ))
+        rating_fig.update_layout(
+            title=f"Rating Progression for {self.current_player_data['name']}",
+            xaxis_title="Tournament Date",
+            yaxis_title="USCF Rating",
+            template='plotly_white',
+            height=400
+        )
+
+        # Performance chart
+        all_opponents = []
+        for tournament in self.current_tournaments:
+            for opp in tournament.get('opponents', []):
+                all_opponents.append({
+                    'rating': opp['rating'],
+                    'result': opp['result'],
+                    'score': 1 if opp['result'] == 'W' else 0.5 if opp['result'] == 'D' else 0
+                })
+
+        performance_fig = go.Figure()
+        if all_opponents:
+            df = pd.DataFrame(all_opponents)
+            df['rating_range'] = pd.cut(df['rating'],
+                                      bins=[0, 1600, 1800, 2000, 2200, 2400, 3000],
+                                      labels=['<1600', '1600-1799', '1800-1999', '2000-2199', '2200-2399', '2400+'])
+            performance = df.groupby('rating_range')['score'].mean().reset_index()
+
+            performance_fig.add_trace(go.Bar(
+                x=performance['rating_range'],
+                y=performance['score'],
+                marker_color=['#e74c3c' if x < 0.5 else '#f39c12' if x < 0.6 else '#27ae60'
+                            for x in performance['score']]
+            ))
+
+        performance_fig.update_layout(
+            title="Performance vs Opponent Rating",
+            xaxis_title="Opponent Rating Range",
+            yaxis_title="Score Rate",
+            template='plotly_white',
+            height=400
+        )
+
+        # Opponent rating distribution
+        all_ratings = []
+        for tournament in self.current_tournaments:
+            for opp in tournament.get('opponents', []):
+                all_ratings.append(opp['rating'])
+
+        opponent_fig = go.Figure()
+        if all_ratings:
+            opponent_fig.add_trace(go.Histogram(x=all_ratings, nbinsx=15))
+
+        opponent_fig.update_layout(
+            title="Opponent Rating Distribution",
+            xaxis_title="Opponent Rating",
+            yaxis_title="Number of Games",
+            template='plotly_white',
+            height=400
+        )
+
+        # Results pie chart
+        results = {'W': 0, 'D': 0, 'L': 0}
+        for tournament in self.current_tournaments:
+            for opp in tournament.get('opponents', []):
+                results[opp['result']] += 1
+
+        results_fig = go.Figure()
+        if sum(results.values()) > 0:
+            results_fig.add_trace(go.Pie(
+                labels=['Wins', 'Draws', 'Losses'],
+                values=[results['W'], results['D'], results['L']],
+                marker_colors=['#27ae60', '#f39c12', '#e74c3c']
+            ))
+
+        results_fig.update_layout(
+            title="Overall Results",
+            template='plotly_white',
+            height=400
+        )
+
+        return {
+            'rating': rating_fig,
+            'performance': performance_fig,
+            'opponent_rating': opponent_fig,
+            'results_pie': results_fig
+        }
+
     def create_player_content(self):
         """Create content for the current player"""
         if not self.current_player_data:
             return html.Div("No player selected")
+
+        # Create initial charts with current data
+        initial_charts = self.create_initial_charts()
 
         return [
             # Player info card
@@ -322,22 +435,22 @@ class EnhancedChessDashboard:
             # Charts section
             html.Div([
                 html.Div([
-                    dcc.Graph(id='rating-chart')
+                    dcc.Graph(id='rating-chart', figure=initial_charts['rating'])
                 ], style={'width': '50%', 'display': 'inline-block'}),
 
                 html.Div([
-                    dcc.Graph(id='performance-chart')
+                    dcc.Graph(id='performance-chart', figure=initial_charts['performance'])
                 ], style={'width': '50%', 'display': 'inline-block'})
             ], style={'width': 'calc(100% - 340px)', 'display': 'inline-block', 'marginTop': '20px'}),
 
             # Additional analysis charts
             html.Div([
                 html.Div([
-                    dcc.Graph(id='opponent-rating-chart')
+                    dcc.Graph(id='opponent-rating-chart', figure=initial_charts['opponent_rating'])
                 ], style={'width': '50%', 'display': 'inline-block', 'marginTop': '20px'}),
 
                 html.Div([
-                    dcc.Graph(id='results-pie-chart')
+                    dcc.Graph(id='results-pie-chart', figure=initial_charts['results_pie'])
                 ], style={'width': '50%', 'display': 'inline-block', 'marginTop': '20px'})
             ]),
 

@@ -36,6 +36,34 @@ class CleanChessDashboard:
         self.setup_layout()
         self.setup_callbacks()
 
+    def create_initial_rating_chart(self):
+        """Create initial rating chart with Kiren's data"""
+        if not self.tournaments:
+            return go.Figure().update_layout(title="No tournament data available")
+
+        dates = [t['date'] for t in self.tournaments]
+        ratings_after = [t['rating_after'] for t in self.tournaments]
+
+        fig = go.Figure()
+        fig.add_trace(go.Scatter(
+            x=dates,
+            y=ratings_after,
+            mode='lines+markers',
+            name='Rating Progression',
+            line=dict(color='#3498db', width=3),
+            marker=dict(size=8)
+        ))
+
+        fig.update_layout(
+            title='Rating Progression Over Time',
+            xaxis_title='Date',
+            yaxis_title='Rating',
+            showlegend=True,
+            height=400
+        )
+
+        return fig
+
     def load_real_tournaments(self):
         """Load real tournament data from JSON file"""
         try:
@@ -94,7 +122,7 @@ class CleanChessDashboard:
 
             # Rating progression chart
             html.Div([
-                dcc.Graph(id='rating-chart')
+                dcc.Graph(id='rating-chart', figure=self.create_initial_rating_chart())
             ], style={'width': 'calc(100% - 340px)', 'display': 'inline-block'}),
 
             # Tournament selector

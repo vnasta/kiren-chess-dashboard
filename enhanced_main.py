@@ -27,7 +27,7 @@ class EnhancedChessDashboard:
         # Default to Kiren's data
         self.load_player_data("NASTA, KIREN", "15255524")
 
-        self.app = dash.Dash(__name__)
+        self.app = dash.Dash(__name__, suppress_callback_exceptions=True)
         self.setup_layout()
         self.setup_callbacks()
 

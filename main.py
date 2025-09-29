@@ -32,7 +32,7 @@ class CleanChessDashboard:
         # Load real tournament data
         self.tournaments = self.load_real_tournaments()
 
-        self.app = dash.Dash(__name__)
+        self.app = dash.Dash(__name__, suppress_callback_exceptions=True)
         self.setup_layout()
         self.setup_callbacks()
 

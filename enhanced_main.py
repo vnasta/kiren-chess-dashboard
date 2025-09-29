@@ -492,9 +492,6 @@ class EnhancedChessDashboard:
         if not self.current_player_data:
             return html.Div("No player selected")
 
-        # Create initial charts with current data
-        initial_charts = self.create_initial_charts()
-
         return [
             # Player info card
             html.Div([
@@ -524,22 +521,22 @@ class EnhancedChessDashboard:
             # Charts section
             html.Div([
                 html.Div([
-                    dcc.Graph(id='rating-chart', figure=initial_charts['rating'])
+                    dcc.Graph(id='rating-chart')
                 ], style={'width': '50%', 'display': 'inline-block'}),
 
                 html.Div([
-                    dcc.Graph(id='performance-chart', figure=initial_charts['performance'])
+                    dcc.Graph(id='performance-chart')
                 ], style={'width': '50%', 'display': 'inline-block'})
             ], style={'width': 'calc(100% - 340px)', 'display': 'inline-block', 'marginTop': '20px'}),
 
             # Additional analysis charts
             html.Div([
                 html.Div([
-                    dcc.Graph(id='opponent-rating-chart', figure=initial_charts['opponent_rating'])
+                    dcc.Graph(id='opponent-rating-chart')
                 ], style={'width': '50%', 'display': 'inline-block', 'marginTop': '20px'}),
 
                 html.Div([
-                    dcc.Graph(id='results-pie-chart', figure=initial_charts['results_pie'])
+                    dcc.Graph(id='results-pie-chart')
                 ], style={'width': '50%', 'display': 'inline-block', 'marginTop': '20px'})
             ]),
 
@@ -1026,6 +1023,25 @@ class EnhancedChessDashboard:
             # Reset to Kiren's data and re-cache opponents
             self.load_player_data("NASTA, KIREN", "15255524")
             return self.create_player_content()
+
+        @self.app.callback(
+            [Output('rating-chart', 'figure', allow_duplicate=True),
+             Output('performance-chart', 'figure', allow_duplicate=True),
+             Output('opponent-rating-chart', 'figure', allow_duplicate=True),
+             Output('results-pie-chart', 'figure', allow_duplicate=True)],
+            [Input('player-content', 'children')],
+            prevent_initial_call=False
+        )
+        def update_all_charts_on_content_change(player_content):
+            """Update all charts when player content changes"""
+            print(f"🔄 Updating all charts for current player data")
+            charts = self.create_initial_charts()
+            return (
+                charts['rating'],
+                charts['performance'],
+                charts['opponent_rating'],
+                charts['results_pie']
+            )
 
         @self.app.callback(
             Output('opponent-cache-stats', 'children'),

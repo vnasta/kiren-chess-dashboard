@@ -42,7 +42,7 @@ class EnhancedChessDashboard:
                 self.current_player_data = {
                     'name': player_info.name,
                     'uscf_id': player_info.uscf_id,
-                    'current_rating': player_info.current_rating or 1200,
+                    'regular_rating': player_info.current_rating or 1200,
                     'state': player_info.state or 'Unknown'
                 }
                 print(f"Got real player data: {player_info.current_rating} rating")
@@ -51,7 +51,7 @@ class EnhancedChessDashboard:
                 self.current_player_data = {
                     'name': player_name,
                     'uscf_id': uscf_id,
-                    'current_rating': 1200,
+                    'regular_rating': 1200,
                     'state': 'Unknown'
                 }
         except Exception as e:
@@ -59,7 +59,7 @@ class EnhancedChessDashboard:
             self.current_player_data = {
                 'name': player_name,
                 'uscf_id': uscf_id,
-                'current_rating': 1200,
+                'regular_rating': 1200,
                 'state': 'Unknown'
             }
 
@@ -303,7 +303,7 @@ class EnhancedChessDashboard:
                     html.H3("Player Profile", style={'color': '#34495e', 'marginBottom': '15px'}),
                     html.P(f"Name: {self.current_player_data['name']}", style={'fontSize': '16px', 'margin': '5px 0'}),
                     html.P(f"USCF ID: {self.current_player_data['uscf_id']}", style={'fontSize': '16px', 'margin': '5px 0'}),
-                    html.P(f"Current Rating: {self.current_player_data['current_rating']}",
+                    html.P(f"Regular Rating: {self.current_player_data['regular_rating']}",
                           style={'fontSize': '18px', 'fontWeight': 'bold', 'color': '#e74c3c', 'margin': '5px 0'}),
                     html.P(f"State: {self.current_player_data['state']}", style={'fontSize': '16px', 'margin': '5px 0'}),
                     html.P(f"Tournaments: {len(self.current_tournaments)}", style={'fontSize': '16px', 'margin': '5px 0'})

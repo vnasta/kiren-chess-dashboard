@@ -25,7 +25,7 @@ class CleanChessDashboard:
         self.player_data = {
             'name': 'NASTA, KIREN',
             'uscf_id': '15255524',
-            'current_rating': 2208,  # Regular rating, not quick rating
+            'regular_rating': 2208,  # Regular rating, not quick rating
             'state': 'NY'
         }
 
@@ -80,7 +80,7 @@ class CleanChessDashboard:
                     html.H3("Player Profile", style={'color': '#34495e', 'marginBottom': '15px'}),
                     html.P(f"Name: {self.player_data['name']}", style={'fontSize': '16px', 'margin': '5px 0'}),
                     html.P(f"USCF ID: {self.player_data['uscf_id']}", style={'fontSize': '16px', 'margin': '5px 0'}),
-                    html.P(f"Current Rating: {self.player_data['current_rating']}",
+                    html.P(f"Regular Rating: {self.player_data['regular_rating']}",
                           style={'fontSize': '18px', 'fontWeight': 'bold', 'color': '#e74c3c', 'margin': '5px 0'}),
                     html.P(f"State: {self.player_data['state']}", style={'fontSize': '16px', 'margin': '5px 0'}),
                     html.P(f"Tournaments: {len(self.tournaments)}", style={'fontSize': '16px', 'margin': '5px 0'})
@@ -304,7 +304,7 @@ class CleanChessDashboard:
         print(f"📊 Dashboard URL: http://localhost:{port}")
         print(f"♟️  Player: {self.player_data['name']}")
         print(f"🏆 Tournaments: {len(self.tournaments)}")
-        print(f"⭐ Current Rating: {self.player_data['current_rating']}")
+        print(f"⭐ Regular Rating: {self.player_data['regular_rating']}")
 
         self.app.run(debug=True, port=port, host='0.0.0.0')
 

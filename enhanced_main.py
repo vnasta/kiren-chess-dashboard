@@ -370,7 +370,10 @@ class EnhancedChessDashboard:
 
     def create_initial_charts(self):
         """Create initial charts with current player data"""
+        print(f"🔍 Creating charts with {len(self.current_tournaments)} tournaments")
+
         if not self.current_tournaments:
+            print("❌ No tournament data available for charts")
             return {
                 'rating': go.Figure().update_layout(title="No tournament data available"),
                 'performance': go.Figure().update_layout(title="No tournament data available"),
@@ -383,15 +386,19 @@ class EnhancedChessDashboard:
         dates = [t['date'] for t in sorted_tournaments]
         ratings_after = [t.get('rating_after', t.get('rating_before', 0)) for t in sorted_tournaments]
 
+        print(f"📊 Rating chart: {len(dates)} dates, ratings: {ratings_after}")
+
         rating_fig = go.Figure()
-        rating_fig.add_trace(go.Scatter(
-            x=dates,
-            y=ratings_after,
-            mode='lines+markers',
-            name='Rating',
-            line=dict(color='#2c3e50', width=3),
-            marker=dict(size=8, color='#e74c3c')
-        ))
+        if dates and ratings_after:
+            rating_fig.add_trace(go.Scatter(
+                x=dates,
+                y=ratings_after,
+                mode='lines+markers',
+                name='Rating',
+                line=dict(color='#2c3e50', width=3),
+                marker=dict(size=8, color='#e74c3c')
+            ))
+
         rating_fig.update_layout(
             title=f"Rating Progression for {self.current_player_data['name']}",
             xaxis_title="Tournament Date",
@@ -409,6 +416,8 @@ class EnhancedChessDashboard:
                     'result': opp['result'],
                     'score': 1 if opp['result'] == 'W' else 0.5 if opp['result'] == 'D' else 0
                 })
+
+        print(f"📈 Performance chart: {len(all_opponents)} opponent games")
 
         performance_fig = go.Figure()
         if all_opponents:
@@ -978,11 +987,17 @@ class EnhancedChessDashboard:
                         }]
                     })
 
+                # Update tournament data BEFORE creating content
                 self.current_tournaments = opponent_tournaments
+                print(f"🎯 Created {len(opponent_tournaments)} opponent tournaments for {opp_data['clean_name']}")
 
                 # Get record summary
                 record = opp_data['record_vs_kiren']
                 record_str = f"{record['W']}W-{record['L']}L-{record['D']}D"
+
+                # Create fresh content with updated data
+                print(f"🔄 Creating player content for opponent: {opp_data['clean_name']}")
+                player_content = self.create_player_content()
 
                 return [
                     html.Div([
@@ -993,7 +1008,7 @@ class EnhancedChessDashboard:
                         html.Button("← Back to Kiren", id='back-to-kiren-btn',
                                   style={'padding': '10px 20px', 'backgroundColor': '#3498db', 'color': 'white', 'border': 'none', 'marginBottom': '20px'})
                     ]),
-                    *self.create_player_content()
+                    *player_content
                 ]
 
             return dash.no_update

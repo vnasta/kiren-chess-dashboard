@@ -492,6 +492,9 @@ class EnhancedChessDashboard:
         if not self.current_player_data:
             return html.Div("No player selected")
 
+        # Create initial charts for layout
+        initial_charts = self.create_initial_charts()
+
         return [
             # Player info card
             html.Div([
@@ -521,22 +524,22 @@ class EnhancedChessDashboard:
             # Charts section
             html.Div([
                 html.Div([
-                    dcc.Graph(id='rating-chart')
+                    dcc.Graph(id='rating-chart', figure=initial_charts['rating'])
                 ], style={'width': '50%', 'display': 'inline-block'}),
 
                 html.Div([
-                    dcc.Graph(id='performance-chart')
+                    dcc.Graph(id='performance-chart', figure=initial_charts['performance'])
                 ], style={'width': '50%', 'display': 'inline-block'})
             ], style={'width': 'calc(100% - 340px)', 'display': 'inline-block', 'marginTop': '20px'}),
 
             # Additional analysis charts
             html.Div([
                 html.Div([
-                    dcc.Graph(id='opponent-rating-chart')
+                    dcc.Graph(id='opponent-rating-chart', figure=initial_charts['opponent_rating'])
                 ], style={'width': '50%', 'display': 'inline-block', 'marginTop': '20px'}),
 
                 html.Div([
-                    dcc.Graph(id='results-pie-chart')
+                    dcc.Graph(id='results-pie-chart', figure=initial_charts['results_pie'])
                 ], style={'width': '50%', 'display': 'inline-block', 'marginTop': '20px'})
             ]),
 
@@ -1030,10 +1033,10 @@ class EnhancedChessDashboard:
              Output('opponent-rating-chart', 'figure', allow_duplicate=True),
              Output('results-pie-chart', 'figure', allow_duplicate=True)],
             [Input('player-content', 'children')],
-            prevent_initial_call=False
+            prevent_initial_call=True
         )
         def update_all_charts_on_content_change(player_content):
-            """Update all charts when player content changes"""
+            """Update all charts when player content changes (not on initial call)"""
             print(f"🔄 Updating all charts for current player data")
             charts = self.create_initial_charts()
             return (

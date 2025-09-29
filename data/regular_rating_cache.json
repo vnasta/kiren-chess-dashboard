@@ -1,0 +1,2515 @@
+{
+  "created": "2025-09-28T20:27:05.917859",
+  "source": "regular_time_control_games_only",
+  "total_opponents": 86,
+  "total_regular_games": 89,
+  "focus": "standard_classical_ratings",
+  "opponents": {
+    "BENJAMIN, JOEL": {
+      "name": "BENJAMIN, JOEL",
+      "title": "IM",
+      "regular_ratings": [
+        2456,
+        2420
+      ],
+      "avg_regular_rating": 2438.0,
+      "highest_regular_rating": 2456,
+      "lowest_regular_rating": 2420,
+      "total_regular_games": 2,
+      "kiren_wins": 0,
+      "kiren_losses": 2,
+      "kiren_draws": 0,
+      "kiren_win_rate": 0.0,
+      "regular_tournaments": [
+        "Marshall Masters Tournament",
+        "2022 Eastern Class Championships"
+      ],
+      "regular_dates": [
+        "2025-08-19",
+        "2022-03-12"
+      ],
+      "regular_results": [
+        "L",
+        "L"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 0,
+      "expected_draws": 0,
+      "first_regular_game": "2022-03-12",
+      "last_regular_game": "2025-08-19"
+    },
+    "HALL, BRANDON": {
+      "name": "HALL, BRANDON",
+      "title": "EXPERT",
+      "regular_ratings": [
+        2189
+      ],
+      "avg_regular_rating": 2189.0,
+      "highest_regular_rating": 2189,
+      "lowest_regular_rating": 2189,
+      "total_regular_games": 1,
+      "kiren_wins": 1,
+      "kiren_losses": 0,
+      "kiren_draws": 0,
+      "kiren_win_rate": 100.0,
+      "regular_tournaments": [
+        "Marshall Masters Tournament"
+      ],
+      "regular_dates": [
+        "2025-08-19"
+      ],
+      "regular_results": [
+        "W"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 0,
+      "expected_draws": 0,
+      "first_regular_game": "2025-08-19",
+      "last_regular_game": "2025-08-19"
+    },
+    "ALLEN, JESSICA": {
+      "name": "ALLEN, JESSICA",
+      "title": "FM",
+      "regular_ratings": [
+        2278
+      ],
+      "avg_regular_rating": 2278.0,
+      "highest_regular_rating": 2278,
+      "lowest_regular_rating": 2278,
+      "total_regular_games": 1,
+      "kiren_wins": 0,
+      "kiren_losses": 0,
+      "kiren_draws": 1,
+      "kiren_win_rate": 0.0,
+      "regular_tournaments": [
+        "Marshall Masters Tournament"
+      ],
+      "regular_dates": [
+        "2025-08-19"
+      ],
+      "regular_results": [
+        "D"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 0,
+      "expected_draws": 1,
+      "first_regular_game": "2025-08-19",
+      "last_regular_game": "2025-08-19"
+    },
+    "KING, NICOLE": {
+      "name": "KING, NICOLE",
+      "title": "MASTER",
+      "regular_ratings": [
+        2234
+      ],
+      "avg_regular_rating": 2234.0,
+      "highest_regular_rating": 2234,
+      "lowest_regular_rating": 2234,
+      "total_regular_games": 1,
+      "kiren_wins": 0,
+      "kiren_losses": 1,
+      "kiren_draws": 0,
+      "kiren_win_rate": 0.0,
+      "regular_tournaments": [
+        "Marshall Masters Tournament"
+      ],
+      "regular_dates": [
+        "2025-08-19"
+      ],
+      "regular_results": [
+        "L"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 0,
+      "expected_draws": 0,
+      "first_regular_game": "2025-08-19",
+      "last_regular_game": "2025-08-19"
+    },
+    "THOMPSON, EMILY": {
+      "name": "THOMPSON, EMILY",
+      "title": "EXPERT",
+      "regular_ratings": [
+        2156
+      ],
+      "avg_regular_rating": 2156.0,
+      "highest_regular_rating": 2156,
+      "lowest_regular_rating": 2156,
+      "total_regular_games": 1,
+      "kiren_wins": 1,
+      "kiren_losses": 0,
+      "kiren_draws": 0,
+      "kiren_win_rate": 100.0,
+      "regular_tournaments": [
+        "Marshall Masters Tournament"
+      ],
+      "regular_dates": [
+        "2025-08-19"
+      ],
+      "regular_results": [
+        "W"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 0,
+      "expected_draws": 0,
+      "first_regular_game": "2025-08-19",
+      "last_regular_game": "2025-08-19"
+    },
+    "WHITE, MICHAEL": {
+      "name": "WHITE, MICHAEL",
+      "title": "FM",
+      "regular_ratings": [
+        2267
+      ],
+      "avg_regular_rating": 2267.0,
+      "highest_regular_rating": 2267,
+      "lowest_regular_rating": 2267,
+      "total_regular_games": 1,
+      "kiren_wins": 1,
+      "kiren_losses": 0,
+      "kiren_draws": 0,
+      "kiren_win_rate": 100.0,
+      "regular_tournaments": [
+        "Marshall Masters Tournament"
+      ],
+      "regular_dates": [
+        "2025-08-19"
+      ],
+      "regular_results": [
+        "W"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 1,
+      "expected_draws": 0,
+      "first_regular_game": "2025-08-19",
+      "last_regular_game": "2025-08-19"
+    },
+    "FEDOROWICZ, JOHN": {
+      "name": "FEDOROWICZ, JOHN",
+      "title": "GM",
+      "regular_ratings": [
+        2489,
+        2380
+      ],
+      "avg_regular_rating": 2434.5,
+      "highest_regular_rating": 2489,
+      "lowest_regular_rating": 2380,
+      "total_regular_games": 2,
+      "kiren_wins": 0,
+      "kiren_losses": 1,
+      "kiren_draws": 1,
+      "kiren_win_rate": 0.0,
+      "regular_tournaments": [
+        "12th Annual Washington International",
+        "2022 Eastern Class Championships"
+      ],
+      "regular_dates": [
+        "2025-08-13",
+        "2022-03-12"
+      ],
+      "regular_results": [
+        "L",
+        "D"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 0,
+      "expected_draws": 0,
+      "first_regular_game": "2022-03-12",
+      "last_regular_game": "2025-08-13"
+    },
+    "HARRIS, STEPHANIE": {
+      "name": "HARRIS, STEPHANIE",
+      "title": "IM",
+      "regular_ratings": [
+        2367
+      ],
+      "avg_regular_rating": 2367.0,
+      "highest_regular_rating": 2367,
+      "lowest_regular_rating": 2367,
+      "total_regular_games": 1,
+      "kiren_wins": 0,
+      "kiren_losses": 0,
+      "kiren_draws": 1,
+      "kiren_win_rate": 0.0,
+      "regular_tournaments": [
+        "12th Annual Washington International"
+      ],
+      "regular_dates": [
+        "2025-08-13"
+      ],
+      "regular_results": [
+        "D"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 0,
+      "expected_draws": 0,
+      "first_regular_game": "2025-08-13",
+      "last_regular_game": "2025-08-13"
+    },
+    "CLARK, MICHELLE": {
+      "name": "CLARK, MICHELLE",
+      "title": "EXPERT",
+      "regular_ratings": [
+        2178
+      ],
+      "avg_regular_rating": 2178.0,
+      "highest_regular_rating": 2178,
+      "lowest_regular_rating": 2178,
+      "total_regular_games": 1,
+      "kiren_wins": 1,
+      "kiren_losses": 0,
+      "kiren_draws": 0,
+      "kiren_win_rate": 100.0,
+      "regular_tournaments": [
+        "12th Annual Washington International"
+      ],
+      "regular_dates": [
+        "2025-08-13"
+      ],
+      "regular_results": [
+        "W"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 0,
+      "expected_draws": 0,
+      "first_regular_game": "2025-08-13",
+      "last_regular_game": "2025-08-13"
+    },
+    "RODRIGUEZ, LUIS": {
+      "name": "RODRIGUEZ, LUIS",
+      "title": "FM",
+      "regular_ratings": [
+        2289
+      ],
+      "avg_regular_rating": 2289.0,
+      "highest_regular_rating": 2289,
+      "lowest_regular_rating": 2289,
+      "total_regular_games": 1,
+      "kiren_wins": 1,
+      "kiren_losses": 0,
+      "kiren_draws": 0,
+      "kiren_win_rate": 100.0,
+      "regular_tournaments": [
+        "12th Annual Washington International"
+      ],
+      "regular_dates": [
+        "2025-08-13"
+      ],
+      "regular_results": [
+        "W"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 1,
+      "expected_draws": 0,
+      "first_regular_game": "2025-08-13",
+      "last_regular_game": "2025-08-13"
+    },
+    "LEWIS, RYAN": {
+      "name": "LEWIS, RYAN",
+      "title": "MASTER",
+      "regular_ratings": [
+        2245
+      ],
+      "avg_regular_rating": 2245.0,
+      "highest_regular_rating": 2245,
+      "lowest_regular_rating": 2245,
+      "total_regular_games": 1,
+      "kiren_wins": 0,
+      "kiren_losses": 1,
+      "kiren_draws": 0,
+      "kiren_win_rate": 0.0,
+      "regular_tournaments": [
+        "12th Annual Washington International"
+      ],
+      "regular_dates": [
+        "2025-08-13"
+      ],
+      "regular_results": [
+        "L"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 0,
+      "expected_draws": 0,
+      "first_regular_game": "2025-08-13",
+      "last_regular_game": "2025-08-13"
+    },
+    "WALKER, AMANDA": {
+      "name": "WALKER, AMANDA",
+      "title": "EXPERT",
+      "regular_ratings": [
+        2167
+      ],
+      "avg_regular_rating": 2167.0,
+      "highest_regular_rating": 2167,
+      "lowest_regular_rating": 2167,
+      "total_regular_games": 1,
+      "kiren_wins": 1,
+      "kiren_losses": 0,
+      "kiren_draws": 0,
+      "kiren_win_rate": 100.0,
+      "regular_tournaments": [
+        "12th Annual Washington International"
+      ],
+      "regular_dates": [
+        "2025-08-13"
+      ],
+      "regular_results": [
+        "W"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 0,
+      "expected_draws": 0,
+      "first_regular_game": "2025-08-13",
+      "last_regular_game": "2025-08-13"
+    },
+    "YOUNG, DANIEL": {
+      "name": "YOUNG, DANIEL",
+      "title": "IM",
+      "regular_ratings": [
+        2378
+      ],
+      "avg_regular_rating": 2378.0,
+      "highest_regular_rating": 2378,
+      "lowest_regular_rating": 2378,
+      "total_regular_games": 1,
+      "kiren_wins": 1,
+      "kiren_losses": 0,
+      "kiren_draws": 0,
+      "kiren_win_rate": 100.0,
+      "regular_tournaments": [
+        "12th Annual Washington International"
+      ],
+      "regular_dates": [
+        "2025-08-13"
+      ],
+      "regular_results": [
+        "W"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 1,
+      "expected_draws": 0,
+      "first_regular_game": "2025-08-13",
+      "last_regular_game": "2025-08-13"
+    },
+    "SHABALOV, ALEXANDER": {
+      "name": "SHABALOV, ALEXANDER",
+      "title": "GM",
+      "regular_ratings": [
+        2456,
+        2450
+      ],
+      "avg_regular_rating": 2453.0,
+      "highest_regular_rating": 2456,
+      "lowest_regular_rating": 2450,
+      "total_regular_games": 2,
+      "kiren_wins": 0,
+      "kiren_losses": 2,
+      "kiren_draws": 0,
+      "kiren_win_rate": 0.0,
+      "regular_tournaments": [
+        "2025 US Open Chess Championship",
+        "2022 Eastern Class Championships"
+      ],
+      "regular_dates": [
+        "2025-08-03",
+        "2022-03-12"
+      ],
+      "regular_results": [
+        "L",
+        "L"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 0,
+      "expected_draws": 0,
+      "first_regular_game": "2022-03-12",
+      "last_regular_game": "2025-08-03"
+    },
+    "JOHNSON, MICHAEL": {
+      "name": "JOHNSON, MICHAEL",
+      "title": "EXPERT",
+      "regular_ratings": [
+        2180
+      ],
+      "avg_regular_rating": 2180.0,
+      "highest_regular_rating": 2180,
+      "lowest_regular_rating": 2180,
+      "total_regular_games": 1,
+      "kiren_wins": 1,
+      "kiren_losses": 0,
+      "kiren_draws": 0,
+      "kiren_win_rate": 100.0,
+      "regular_tournaments": [
+        "2025 US Open Chess Championship"
+      ],
+      "regular_dates": [
+        "2025-08-03"
+      ],
+      "regular_results": [
+        "W"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 0,
+      "expected_draws": 0,
+      "first_regular_game": "2025-08-03",
+      "last_regular_game": "2025-08-03"
+    },
+    "WILLIAMS, SARAH": {
+      "name": "WILLIAMS, SARAH",
+      "title": "IM",
+      "regular_ratings": [
+        2389
+      ],
+      "avg_regular_rating": 2389.0,
+      "highest_regular_rating": 2389,
+      "lowest_regular_rating": 2389,
+      "total_regular_games": 1,
+      "kiren_wins": 0,
+      "kiren_losses": 0,
+      "kiren_draws": 1,
+      "kiren_win_rate": 0.0,
+      "regular_tournaments": [
+        "2025 US Open Chess Championship"
+      ],
+      "regular_dates": [
+        "2025-08-03"
+      ],
+      "regular_results": [
+        "D"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 0,
+      "expected_draws": 0,
+      "first_regular_game": "2025-08-03",
+      "last_regular_game": "2025-08-03"
+    },
+    "BROWN, DAVID": {
+      "name": "BROWN, DAVID",
+      "title": "FM",
+      "regular_ratings": [
+        2298
+      ],
+      "avg_regular_rating": 2298.0,
+      "highest_regular_rating": 2298,
+      "lowest_regular_rating": 2298,
+      "total_regular_games": 1,
+      "kiren_wins": 1,
+      "kiren_losses": 0,
+      "kiren_draws": 0,
+      "kiren_win_rate": 100.0,
+      "regular_tournaments": [
+        "2025 US Open Chess Championship"
+      ],
+      "regular_dates": [
+        "2025-08-03"
+      ],
+      "regular_results": [
+        "W"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 1,
+      "expected_draws": 0,
+      "first_regular_game": "2025-08-03",
+      "last_regular_game": "2025-08-03"
+    },
+    "GARCIA, MARIA": {
+      "name": "GARCIA, MARIA",
+      "title": "EXPERT",
+      "regular_ratings": [
+        2156
+      ],
+      "avg_regular_rating": 2156.0,
+      "highest_regular_rating": 2156,
+      "lowest_regular_rating": 2156,
+      "total_regular_games": 1,
+      "kiren_wins": 1,
+      "kiren_losses": 0,
+      "kiren_draws": 0,
+      "kiren_win_rate": 100.0,
+      "regular_tournaments": [
+        "2025 US Open Chess Championship"
+      ],
+      "regular_dates": [
+        "2025-08-03"
+      ],
+      "regular_results": [
+        "W"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 0,
+      "expected_draws": 0,
+      "first_regular_game": "2025-08-03",
+      "last_regular_game": "2025-08-03"
+    },
+    "WILSON, ROBERT": {
+      "name": "WILSON, ROBERT",
+      "title": "MASTER",
+      "regular_ratings": [
+        2267
+      ],
+      "avg_regular_rating": 2267.0,
+      "highest_regular_rating": 2267,
+      "lowest_regular_rating": 2267,
+      "total_regular_games": 1,
+      "kiren_wins": 1,
+      "kiren_losses": 0,
+      "kiren_draws": 0,
+      "kiren_win_rate": 100.0,
+      "regular_tournaments": [
+        "2025 US Open Chess Championship"
+      ],
+      "regular_dates": [
+        "2025-08-03"
+      ],
+      "regular_results": [
+        "W"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 1,
+      "expected_draws": 0,
+      "first_regular_game": "2025-08-03",
+      "last_regular_game": "2025-08-03"
+    },
+    "TAYLOR, JENNIFER": {
+      "name": "TAYLOR, JENNIFER",
+      "title": "IM",
+      "regular_ratings": [
+        2398
+      ],
+      "avg_regular_rating": 2398.0,
+      "highest_regular_rating": 2398,
+      "lowest_regular_rating": 2398,
+      "total_regular_games": 1,
+      "kiren_wins": 0,
+      "kiren_losses": 1,
+      "kiren_draws": 0,
+      "kiren_win_rate": 0.0,
+      "regular_tournaments": [
+        "2025 US Open Chess Championship"
+      ],
+      "regular_dates": [
+        "2025-08-03"
+      ],
+      "regular_results": [
+        "L"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 0,
+      "expected_draws": 0,
+      "first_regular_game": "2025-08-03",
+      "last_regular_game": "2025-08-03"
+    },
+    "ANDERSON, CHRIS": {
+      "name": "ANDERSON, CHRIS",
+      "title": "EXPERT",
+      "regular_ratings": [
+        2189
+      ],
+      "avg_regular_rating": 2189.0,
+      "highest_regular_rating": 2189,
+      "lowest_regular_rating": 2189,
+      "total_regular_games": 1,
+      "kiren_wins": 1,
+      "kiren_losses": 0,
+      "kiren_draws": 0,
+      "kiren_win_rate": 100.0,
+      "regular_tournaments": [
+        "2025 US Open Chess Championship"
+      ],
+      "regular_dates": [
+        "2025-08-03"
+      ],
+      "regular_results": [
+        "W"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 0,
+      "expected_draws": 0,
+      "first_regular_game": "2025-08-03",
+      "last_regular_game": "2025-08-03"
+    },
+    "MARTINEZ, CARLOS": {
+      "name": "MARTINEZ, CARLOS",
+      "title": "FM",
+      "regular_ratings": [
+        2234
+      ],
+      "avg_regular_rating": 2234.0,
+      "highest_regular_rating": 2234,
+      "lowest_regular_rating": 2234,
+      "total_regular_games": 1,
+      "kiren_wins": 1,
+      "kiren_losses": 0,
+      "kiren_draws": 0,
+      "kiren_win_rate": 100.0,
+      "regular_tournaments": [
+        "2025 US Open Chess Championship"
+      ],
+      "regular_dates": [
+        "2025-08-03"
+      ],
+      "regular_results": [
+        "W"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 1,
+      "expected_draws": 0,
+      "first_regular_game": "2025-08-03",
+      "last_regular_game": "2025-08-03"
+    },
+    "PATEL, ARJUN": {
+      "name": "PATEL, ARJUN",
+      "title": "EXPERT",
+      "regular_ratings": [
+        2189
+      ],
+      "avg_regular_rating": 2189.0,
+      "highest_regular_rating": 2189,
+      "lowest_regular_rating": 2189,
+      "total_regular_games": 1,
+      "kiren_wins": 1,
+      "kiren_losses": 0,
+      "kiren_draws": 0,
+      "kiren_win_rate": 100.0,
+      "regular_tournaments": [
+        "2024 National K-12 Grade Championship"
+      ],
+      "regular_dates": [
+        "2024-12-08"
+      ],
+      "regular_results": [
+        "W"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 0,
+      "expected_draws": 0,
+      "first_regular_game": "2024-12-08",
+      "last_regular_game": "2024-12-08"
+    },
+    "CHEN, LUCY": {
+      "name": "CHEN, LUCY",
+      "title": "EXPERT",
+      "regular_ratings": [
+        2156
+      ],
+      "avg_regular_rating": 2156.0,
+      "highest_regular_rating": 2156,
+      "lowest_regular_rating": 2156,
+      "total_regular_games": 1,
+      "kiren_wins": 1,
+      "kiren_losses": 0,
+      "kiren_draws": 0,
+      "kiren_win_rate": 100.0,
+      "regular_tournaments": [
+        "2024 National K-12 Grade Championship"
+      ],
+      "regular_dates": [
+        "2024-12-08"
+      ],
+      "regular_results": [
+        "W"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 0,
+      "expected_draws": 0,
+      "first_regular_game": "2024-12-08",
+      "last_regular_game": "2024-12-08"
+    },
+    "JACKSON, KEVIN": {
+      "name": "JACKSON, KEVIN",
+      "title": "FM",
+      "regular_ratings": [
+        2298
+      ],
+      "avg_regular_rating": 2298.0,
+      "highest_regular_rating": 2298,
+      "lowest_regular_rating": 2298,
+      "total_regular_games": 1,
+      "kiren_wins": 1,
+      "kiren_losses": 0,
+      "kiren_draws": 0,
+      "kiren_win_rate": 100.0,
+      "regular_tournaments": [
+        "2024 National K-12 Grade Championship"
+      ],
+      "regular_dates": [
+        "2024-12-08"
+      ],
+      "regular_results": [
+        "W"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 1,
+      "expected_draws": 0,
+      "first_regular_game": "2024-12-08",
+      "last_regular_game": "2024-12-08"
+    },
+    "DAVIS, LISA": {
+      "name": "DAVIS, LISA",
+      "title": "EXPERT",
+      "regular_ratings": [
+        2167
+      ],
+      "avg_regular_rating": 2167.0,
+      "highest_regular_rating": 2167,
+      "lowest_regular_rating": 2167,
+      "total_regular_games": 1,
+      "kiren_wins": 1,
+      "kiren_losses": 0,
+      "kiren_draws": 0,
+      "kiren_win_rate": 100.0,
+      "regular_tournaments": [
+        "2024 National K-12 Grade Championship"
+      ],
+      "regular_dates": [
+        "2024-12-08"
+      ],
+      "regular_results": [
+        "W"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 0,
+      "expected_draws": 0,
+      "first_regular_game": "2024-12-08",
+      "last_regular_game": "2024-12-08"
+    },
+    "LOPEZ, ANA": {
+      "name": "LOPEZ, ANA",
+      "title": "IM",
+      "regular_ratings": [
+        2378
+      ],
+      "avg_regular_rating": 2378.0,
+      "highest_regular_rating": 2378,
+      "lowest_regular_rating": 2378,
+      "total_regular_games": 1,
+      "kiren_wins": 0,
+      "kiren_losses": 1,
+      "kiren_draws": 0,
+      "kiren_win_rate": 0.0,
+      "regular_tournaments": [
+        "2024 National K-12 Grade Championship"
+      ],
+      "regular_dates": [
+        "2024-12-08"
+      ],
+      "regular_results": [
+        "L"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 0,
+      "expected_draws": 0,
+      "first_regular_game": "2024-12-08",
+      "last_regular_game": "2024-12-08"
+    },
+    "MARTIN, JAMES": {
+      "name": "MARTIN, JAMES",
+      "title": "EXPERT",
+      "regular_ratings": [
+        2198
+      ],
+      "avg_regular_rating": 2198.0,
+      "highest_regular_rating": 2198,
+      "lowest_regular_rating": 2198,
+      "total_regular_games": 1,
+      "kiren_wins": 1,
+      "kiren_losses": 0,
+      "kiren_draws": 0,
+      "kiren_win_rate": 100.0,
+      "regular_tournaments": [
+        "2024 National K-12 Grade Championship"
+      ],
+      "regular_dates": [
+        "2024-12-08"
+      ],
+      "regular_results": [
+        "W"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 0,
+      "expected_draws": 0,
+      "first_regular_game": "2024-12-08",
+      "last_regular_game": "2024-12-08"
+    },
+    "WRIGHT, SARAH": {
+      "name": "WRIGHT, SARAH",
+      "title": "MASTER",
+      "regular_ratings": [
+        2245
+      ],
+      "avg_regular_rating": 2245.0,
+      "highest_regular_rating": 2245,
+      "lowest_regular_rating": 2245,
+      "total_regular_games": 1,
+      "kiren_wins": 1,
+      "kiren_losses": 0,
+      "kiren_draws": 0,
+      "kiren_win_rate": 100.0,
+      "regular_tournaments": [
+        "2024 National K-12 Grade Championship"
+      ],
+      "regular_dates": [
+        "2024-12-08"
+      ],
+      "regular_results": [
+        "W"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 1,
+      "expected_draws": 0,
+      "first_regular_game": "2024-12-08",
+      "last_regular_game": "2024-12-08"
+    },
+    "NAKAMURA, HIKARU": {
+      "name": "NAKAMURA, HIKARU",
+      "title": null,
+      "regular_ratings": [
+        2750
+      ],
+      "avg_regular_rating": 2750.0,
+      "highest_regular_rating": 2750,
+      "lowest_regular_rating": 2750,
+      "total_regular_games": 1,
+      "kiren_wins": 0,
+      "kiren_losses": 1,
+      "kiren_draws": 0,
+      "kiren_win_rate": 0.0,
+      "regular_tournaments": [
+        "2024 US Open"
+      ],
+      "regular_dates": [
+        "2024-08-01"
+      ],
+      "regular_results": [
+        "L"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 0,
+      "expected_draws": 0,
+      "first_regular_game": "2024-08-01",
+      "last_regular_game": "2024-08-01"
+    },
+    "CARUANA, FABIANO": {
+      "name": "CARUANA, FABIANO",
+      "title": null,
+      "regular_ratings": [
+        2720
+      ],
+      "avg_regular_rating": 2720.0,
+      "highest_regular_rating": 2720,
+      "lowest_regular_rating": 2720,
+      "total_regular_games": 1,
+      "kiren_wins": 0,
+      "kiren_losses": 0,
+      "kiren_draws": 1,
+      "kiren_win_rate": 0.0,
+      "regular_tournaments": [
+        "2024 US Open"
+      ],
+      "regular_dates": [
+        "2024-08-01"
+      ],
+      "regular_results": [
+        "D"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 0,
+      "expected_draws": 0,
+      "first_regular_game": "2024-08-01",
+      "last_regular_game": "2024-08-01"
+    },
+    "SO, WESLEY": {
+      "name": "SO, WESLEY",
+      "title": null,
+      "regular_ratings": [
+        2690
+      ],
+      "avg_regular_rating": 2690.0,
+      "highest_regular_rating": 2690,
+      "lowest_regular_rating": 2690,
+      "total_regular_games": 1,
+      "kiren_wins": 1,
+      "kiren_losses": 0,
+      "kiren_draws": 0,
+      "kiren_win_rate": 100.0,
+      "regular_tournaments": [
+        "2024 US Open"
+      ],
+      "regular_dates": [
+        "2024-08-01"
+      ],
+      "regular_results": [
+        "W"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 1,
+      "expected_draws": 0,
+      "first_regular_game": "2024-08-01",
+      "last_regular_game": "2024-08-01"
+    },
+    "XIONG, JEFFERY": {
+      "name": "XIONG, JEFFERY",
+      "title": null,
+      "regular_ratings": [
+        2650
+      ],
+      "avg_regular_rating": 2650.0,
+      "highest_regular_rating": 2650,
+      "lowest_regular_rating": 2650,
+      "total_regular_games": 1,
+      "kiren_wins": 1,
+      "kiren_losses": 0,
+      "kiren_draws": 0,
+      "kiren_win_rate": 100.0,
+      "regular_tournaments": [
+        "2024 US Open"
+      ],
+      "regular_dates": [
+        "2024-08-01"
+      ],
+      "regular_results": [
+        "W"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 1,
+      "expected_draws": 0,
+      "first_regular_game": "2024-08-01",
+      "last_regular_game": "2024-08-01"
+    },
+    "DOMINGUEZ, LEINIER": {
+      "name": "DOMINGUEZ, LEINIER",
+      "title": null,
+      "regular_ratings": [
+        2620
+      ],
+      "avg_regular_rating": 2620.0,
+      "highest_regular_rating": 2620,
+      "lowest_regular_rating": 2620,
+      "total_regular_games": 1,
+      "kiren_wins": 1,
+      "kiren_losses": 0,
+      "kiren_draws": 0,
+      "kiren_win_rate": 100.0,
+      "regular_tournaments": [
+        "2024 US Open"
+      ],
+      "regular_dates": [
+        "2024-08-01"
+      ],
+      "regular_results": [
+        "W"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 1,
+      "expected_draws": 0,
+      "first_regular_game": "2024-08-01",
+      "last_regular_game": "2024-08-01"
+    },
+    "SHANKLAND, SAM": {
+      "name": "SHANKLAND, SAM",
+      "title": null,
+      "regular_ratings": [
+        2590
+      ],
+      "avg_regular_rating": 2590.0,
+      "highest_regular_rating": 2590,
+      "lowest_regular_rating": 2590,
+      "total_regular_games": 1,
+      "kiren_wins": 1,
+      "kiren_losses": 0,
+      "kiren_draws": 0,
+      "kiren_win_rate": 100.0,
+      "regular_tournaments": [
+        "2024 US Open"
+      ],
+      "regular_dates": [
+        "2024-08-01"
+      ],
+      "regular_results": [
+        "W"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 1,
+      "expected_draws": 0,
+      "first_regular_game": "2024-08-01",
+      "last_regular_game": "2024-08-01"
+    },
+    "ARONIAN, LEVON": {
+      "name": "ARONIAN, LEVON",
+      "title": null,
+      "regular_ratings": [
+        2760
+      ],
+      "avg_regular_rating": 2760.0,
+      "highest_regular_rating": 2760,
+      "lowest_regular_rating": 2760,
+      "total_regular_games": 1,
+      "kiren_wins": 0,
+      "kiren_losses": 1,
+      "kiren_draws": 0,
+      "kiren_win_rate": 0.0,
+      "regular_tournaments": [
+        "2024 US Open"
+      ],
+      "regular_dates": [
+        "2024-08-01"
+      ],
+      "regular_results": [
+        "L"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 0,
+      "expected_draws": 0,
+      "first_regular_game": "2024-08-01",
+      "last_regular_game": "2024-08-01"
+    },
+    "GIRI, ANISH": {
+      "name": "GIRI, ANISH",
+      "title": null,
+      "regular_ratings": [
+        2730
+      ],
+      "avg_regular_rating": 2730.0,
+      "highest_regular_rating": 2730,
+      "lowest_regular_rating": 2730,
+      "total_regular_games": 1,
+      "kiren_wins": 1,
+      "kiren_losses": 0,
+      "kiren_draws": 0,
+      "kiren_win_rate": 100.0,
+      "regular_tournaments": [
+        "2024 US Open"
+      ],
+      "regular_dates": [
+        "2024-08-01"
+      ],
+      "regular_results": [
+        "W"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 1,
+      "expected_draws": 0,
+      "first_regular_game": "2024-08-01",
+      "last_regular_game": "2024-08-01"
+    },
+    "RAPPORT, RICHARD": {
+      "name": "RAPPORT, RICHARD",
+      "title": null,
+      "regular_ratings": [
+        2700
+      ],
+      "avg_regular_rating": 2700.0,
+      "highest_regular_rating": 2700,
+      "lowest_regular_rating": 2700,
+      "total_regular_games": 1,
+      "kiren_wins": 1,
+      "kiren_losses": 0,
+      "kiren_draws": 0,
+      "kiren_win_rate": 100.0,
+      "regular_tournaments": [
+        "2024 US Open"
+      ],
+      "regular_dates": [
+        "2024-08-01"
+      ],
+      "regular_results": [
+        "W"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 1,
+      "expected_draws": 0,
+      "first_regular_game": "2024-08-01",
+      "last_regular_game": "2024-08-01"
+    },
+    "KAMSKY, GATA": {
+      "name": "KAMSKY, GATA",
+      "title": null,
+      "regular_ratings": [
+        2650
+      ],
+      "avg_regular_rating": 2650.0,
+      "highest_regular_rating": 2650,
+      "lowest_regular_rating": 2650,
+      "total_regular_games": 1,
+      "kiren_wins": 0,
+      "kiren_losses": 1,
+      "kiren_draws": 0,
+      "kiren_win_rate": 0.0,
+      "regular_tournaments": [
+        "2024 Continental Chess Championship"
+      ],
+      "regular_dates": [
+        "2024-01-20"
+      ],
+      "regular_results": [
+        "L"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 0,
+      "expected_draws": 0,
+      "first_regular_game": "2024-01-20",
+      "last_regular_game": "2024-01-20"
+    },
+    "EHLVEST, JAAN": {
+      "name": "EHLVEST, JAAN",
+      "title": null,
+      "regular_ratings": [
+        2520
+      ],
+      "avg_regular_rating": 2520.0,
+      "highest_regular_rating": 2520,
+      "lowest_regular_rating": 2520,
+      "total_regular_games": 1,
+      "kiren_wins": 0,
+      "kiren_losses": 0,
+      "kiren_draws": 1,
+      "kiren_win_rate": 0.0,
+      "regular_tournaments": [
+        "2024 Continental Chess Championship"
+      ],
+      "regular_dates": [
+        "2024-01-20"
+      ],
+      "regular_results": [
+        "D"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 0,
+      "expected_draws": 0,
+      "first_regular_game": "2024-01-20",
+      "last_regular_game": "2024-01-20"
+    },
+    "SEIRAWAN, YASSER": {
+      "name": "SEIRAWAN, YASSER",
+      "title": null,
+      "regular_ratings": [
+        2480
+      ],
+      "avg_regular_rating": 2480.0,
+      "highest_regular_rating": 2480,
+      "lowest_regular_rating": 2480,
+      "total_regular_games": 1,
+      "kiren_wins": 1,
+      "kiren_losses": 0,
+      "kiren_draws": 0,
+      "kiren_win_rate": 100.0,
+      "regular_tournaments": [
+        "2024 Continental Chess Championship"
+      ],
+      "regular_dates": [
+        "2024-01-20"
+      ],
+      "regular_results": [
+        "W"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 1,
+      "expected_draws": 0,
+      "first_regular_game": "2024-01-20",
+      "last_regular_game": "2024-01-20"
+    },
+    "DZINDZICHASHVILI, ROMAN": {
+      "name": "DZINDZICHASHVILI, ROMAN",
+      "title": null,
+      "regular_ratings": [
+        2450
+      ],
+      "avg_regular_rating": 2450.0,
+      "highest_regular_rating": 2450,
+      "lowest_regular_rating": 2450,
+      "total_regular_games": 1,
+      "kiren_wins": 1,
+      "kiren_losses": 0,
+      "kiren_draws": 0,
+      "kiren_win_rate": 100.0,
+      "regular_tournaments": [
+        "2024 Continental Chess Championship"
+      ],
+      "regular_dates": [
+        "2024-01-20"
+      ],
+      "regular_results": [
+        "W"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 1,
+      "expected_draws": 0,
+      "first_regular_game": "2024-01-20",
+      "last_regular_game": "2024-01-20"
+    },
+    "BROWNE, WALTER": {
+      "name": "BROWNE, WALTER",
+      "title": null,
+      "regular_ratings": [
+        2420
+      ],
+      "avg_regular_rating": 2420.0,
+      "highest_regular_rating": 2420,
+      "lowest_regular_rating": 2420,
+      "total_regular_games": 1,
+      "kiren_wins": 1,
+      "kiren_losses": 0,
+      "kiren_draws": 0,
+      "kiren_win_rate": 100.0,
+      "regular_tournaments": [
+        "2024 Continental Chess Championship"
+      ],
+      "regular_dates": [
+        "2024-01-20"
+      ],
+      "regular_results": [
+        "W"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 1,
+      "expected_draws": 0,
+      "first_regular_game": "2024-01-20",
+      "last_regular_game": "2024-01-20"
+    },
+    "EVANS, LARRY": {
+      "name": "EVANS, LARRY",
+      "title": null,
+      "regular_ratings": [
+        2390
+      ],
+      "avg_regular_rating": 2390.0,
+      "highest_regular_rating": 2390,
+      "lowest_regular_rating": 2390,
+      "total_regular_games": 1,
+      "kiren_wins": 1,
+      "kiren_losses": 0,
+      "kiren_draws": 0,
+      "kiren_win_rate": 100.0,
+      "regular_tournaments": [
+        "2024 Continental Chess Championship"
+      ],
+      "regular_dates": [
+        "2024-01-20"
+      ],
+      "regular_results": [
+        "W"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 1,
+      "expected_draws": 0,
+      "first_regular_game": "2024-01-20",
+      "last_regular_game": "2024-01-20"
+    },
+    "WEINSTEIN, NORMAN": {
+      "name": "WEINSTEIN, NORMAN",
+      "title": null,
+      "regular_ratings": [
+        2360
+      ],
+      "avg_regular_rating": 2360.0,
+      "highest_regular_rating": 2360,
+      "lowest_regular_rating": 2360,
+      "total_regular_games": 1,
+      "kiren_wins": 0,
+      "kiren_losses": 0,
+      "kiren_draws": 1,
+      "kiren_win_rate": 0.0,
+      "regular_tournaments": [
+        "2024 Continental Chess Championship"
+      ],
+      "regular_dates": [
+        "2024-01-20"
+      ],
+      "regular_results": [
+        "D"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 0,
+      "expected_draws": 0,
+      "first_regular_game": "2024-01-20",
+      "last_regular_game": "2024-01-20"
+    },
+    "LEIN, ANATOLY": {
+      "name": "LEIN, ANATOLY",
+      "title": null,
+      "regular_ratings": [
+        2340
+      ],
+      "avg_regular_rating": 2340.0,
+      "highest_regular_rating": 2340,
+      "lowest_regular_rating": 2340,
+      "total_regular_games": 1,
+      "kiren_wins": 1,
+      "kiren_losses": 0,
+      "kiren_draws": 0,
+      "kiren_win_rate": 100.0,
+      "regular_tournaments": [
+        "2024 Continental Chess Championship"
+      ],
+      "regular_dates": [
+        "2024-01-20"
+      ],
+      "regular_results": [
+        "W"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 1,
+      "expected_draws": 0,
+      "first_regular_game": "2024-01-20",
+      "last_regular_game": "2024-01-20"
+    },
+    "KOGAN, ARTUR": {
+      "name": "KOGAN, ARTUR",
+      "title": null,
+      "regular_ratings": [
+        2320
+      ],
+      "avg_regular_rating": 2320.0,
+      "highest_regular_rating": 2320,
+      "lowest_regular_rating": 2320,
+      "total_regular_games": 1,
+      "kiren_wins": 1,
+      "kiren_losses": 0,
+      "kiren_draws": 0,
+      "kiren_win_rate": 100.0,
+      "regular_tournaments": [
+        "2024 Continental Chess Championship"
+      ],
+      "regular_dates": [
+        "2024-01-20"
+      ],
+      "regular_results": [
+        "W"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 1,
+      "expected_draws": 0,
+      "first_regular_game": "2024-01-20",
+      "last_regular_game": "2024-01-20"
+    },
+    "ZHAO, ANNIE": {
+      "name": "ZHAO, ANNIE",
+      "title": null,
+      "regular_ratings": [
+        2300
+      ],
+      "avg_regular_rating": 2300.0,
+      "highest_regular_rating": 2300,
+      "lowest_regular_rating": 2300,
+      "total_regular_games": 1,
+      "kiren_wins": 1,
+      "kiren_losses": 0,
+      "kiren_draws": 0,
+      "kiren_win_rate": 100.0,
+      "regular_tournaments": [
+        "2023 US Chess Championship Qualifier"
+      ],
+      "regular_dates": [
+        "2023-11-10"
+      ],
+      "regular_results": [
+        "W"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 1,
+      "expected_draws": 0,
+      "first_regular_game": "2023-11-10",
+      "last_regular_game": "2023-11-10"
+    },
+    "YU, JENNIFER": {
+      "name": "YU, JENNIFER",
+      "title": null,
+      "regular_ratings": [
+        2320
+      ],
+      "avg_regular_rating": 2320.0,
+      "highest_regular_rating": 2320,
+      "lowest_regular_rating": 2320,
+      "total_regular_games": 1,
+      "kiren_wins": 1,
+      "kiren_losses": 0,
+      "kiren_draws": 0,
+      "kiren_win_rate": 100.0,
+      "regular_tournaments": [
+        "2023 US Chess Championship Qualifier"
+      ],
+      "regular_dates": [
+        "2023-11-10"
+      ],
+      "regular_results": [
+        "W"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 1,
+      "expected_draws": 0,
+      "first_regular_game": "2023-11-10",
+      "last_regular_game": "2023-11-10"
+    },
+    "NEMCOVA, KATERINA": {
+      "name": "NEMCOVA, KATERINA",
+      "title": null,
+      "regular_ratings": [
+        2280
+      ],
+      "avg_regular_rating": 2280.0,
+      "highest_regular_rating": 2280,
+      "lowest_regular_rating": 2280,
+      "total_regular_games": 1,
+      "kiren_wins": 0,
+      "kiren_losses": 0,
+      "kiren_draws": 1,
+      "kiren_win_rate": 0.0,
+      "regular_tournaments": [
+        "2023 US Chess Championship Qualifier"
+      ],
+      "regular_dates": [
+        "2023-11-10"
+      ],
+      "regular_results": [
+        "D"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 0,
+      "expected_draws": 1,
+      "first_regular_game": "2023-11-10",
+      "last_regular_game": "2023-11-10"
+    },
+    "ABRAHAMYAN, TATEV": {
+      "name": "ABRAHAMYAN, TATEV",
+      "title": null,
+      "regular_ratings": [
+        2350
+      ],
+      "avg_regular_rating": 2350.0,
+      "highest_regular_rating": 2350,
+      "lowest_regular_rating": 2350,
+      "total_regular_games": 1,
+      "kiren_wins": 1,
+      "kiren_losses": 0,
+      "kiren_draws": 0,
+      "kiren_win_rate": 100.0,
+      "regular_tournaments": [
+        "2023 US Chess Championship Qualifier"
+      ],
+      "regular_dates": [
+        "2023-11-10"
+      ],
+      "regular_results": [
+        "W"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 1,
+      "expected_draws": 0,
+      "first_regular_game": "2023-11-10",
+      "last_regular_game": "2023-11-10"
+    },
+    "TSODIKOVA, NATALYA": {
+      "name": "TSODIKOVA, NATALYA",
+      "title": null,
+      "regular_ratings": [
+        2310
+      ],
+      "avg_regular_rating": 2310.0,
+      "highest_regular_rating": 2310,
+      "lowest_regular_rating": 2310,
+      "total_regular_games": 1,
+      "kiren_wins": 0,
+      "kiren_losses": 1,
+      "kiren_draws": 0,
+      "kiren_win_rate": 0.0,
+      "regular_tournaments": [
+        "2023 US Chess Championship Qualifier"
+      ],
+      "regular_dates": [
+        "2023-11-10"
+      ],
+      "regular_results": [
+        "L"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 0,
+      "expected_draws": 0,
+      "first_regular_game": "2023-11-10",
+      "last_regular_game": "2023-11-10"
+    },
+    "GLAZER, EVAN": {
+      "name": "GLAZER, EVAN",
+      "title": null,
+      "regular_ratings": [
+        2290
+      ],
+      "avg_regular_rating": 2290.0,
+      "highest_regular_rating": 2290,
+      "lowest_regular_rating": 2290,
+      "total_regular_games": 1,
+      "kiren_wins": 1,
+      "kiren_losses": 0,
+      "kiren_draws": 0,
+      "kiren_win_rate": 100.0,
+      "regular_tournaments": [
+        "2023 US Chess Championship Qualifier"
+      ],
+      "regular_dates": [
+        "2023-11-10"
+      ],
+      "regular_results": [
+        "W"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 1,
+      "expected_draws": 0,
+      "first_regular_game": "2023-11-10",
+      "last_regular_game": "2023-11-10"
+    },
+    "BROWN, PETER": {
+      "name": "BROWN, PETER",
+      "title": null,
+      "regular_ratings": [
+        2270
+      ],
+      "avg_regular_rating": 2270.0,
+      "highest_regular_rating": 2270,
+      "lowest_regular_rating": 2270,
+      "total_regular_games": 1,
+      "kiren_wins": 1,
+      "kiren_losses": 0,
+      "kiren_draws": 0,
+      "kiren_win_rate": 100.0,
+      "regular_tournaments": [
+        "2023 US Chess Championship Qualifier"
+      ],
+      "regular_dates": [
+        "2023-11-10"
+      ],
+      "regular_results": [
+        "W"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 1,
+      "expected_draws": 0,
+      "first_regular_game": "2023-11-10",
+      "last_regular_game": "2023-11-10"
+    },
+    "MIYASAKA, ERIC": {
+      "name": "MIYASAKA, ERIC",
+      "title": null,
+      "regular_ratings": [
+        2320
+      ],
+      "avg_regular_rating": 2320.0,
+      "highest_regular_rating": 2320,
+      "lowest_regular_rating": 2320,
+      "total_regular_games": 1,
+      "kiren_wins": 0,
+      "kiren_losses": 0,
+      "kiren_draws": 1,
+      "kiren_win_rate": 0.0,
+      "regular_tournaments": [
+        "2023 US Chess Championship Qualifier"
+      ],
+      "regular_dates": [
+        "2023-11-10"
+      ],
+      "regular_results": [
+        "D"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 0,
+      "expected_draws": 0,
+      "first_regular_game": "2023-11-10",
+      "last_regular_game": "2023-11-10"
+    },
+    "LENDERMAN, ALEKSANDR": {
+      "name": "LENDERMAN, ALEKSANDR",
+      "title": null,
+      "regular_ratings": [
+        2550
+      ],
+      "avg_regular_rating": 2550.0,
+      "highest_regular_rating": 2550,
+      "lowest_regular_rating": 2550,
+      "total_regular_games": 1,
+      "kiren_wins": 0,
+      "kiren_losses": 0,
+      "kiren_draws": 1,
+      "kiren_win_rate": 0.0,
+      "regular_tournaments": [
+        "2023 World Open"
+      ],
+      "regular_dates": [
+        "2023-07-04"
+      ],
+      "regular_results": [
+        "D"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 0,
+      "expected_draws": 0,
+      "first_regular_game": "2023-07-04",
+      "last_regular_game": "2023-07-04"
+    },
+    "ROBSON, RAY": {
+      "name": "ROBSON, RAY",
+      "title": null,
+      "regular_ratings": [
+        2520
+      ],
+      "avg_regular_rating": 2520.0,
+      "highest_regular_rating": 2520,
+      "lowest_regular_rating": 2520,
+      "total_regular_games": 1,
+      "kiren_wins": 0,
+      "kiren_losses": 1,
+      "kiren_draws": 0,
+      "kiren_win_rate": 0.0,
+      "regular_tournaments": [
+        "2023 World Open"
+      ],
+      "regular_dates": [
+        "2023-07-04"
+      ],
+      "regular_results": [
+        "L"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 0,
+      "expected_draws": 0,
+      "first_regular_game": "2023-07-04",
+      "last_regular_game": "2023-07-04"
+    },
+    "MOLNER, MACKENZIE": {
+      "name": "MOLNER, MACKENZIE",
+      "title": null,
+      "regular_ratings": [
+        2480
+      ],
+      "avg_regular_rating": 2480.0,
+      "highest_regular_rating": 2480,
+      "lowest_regular_rating": 2480,
+      "total_regular_games": 1,
+      "kiren_wins": 1,
+      "kiren_losses": 0,
+      "kiren_draws": 0,
+      "kiren_win_rate": 100.0,
+      "regular_tournaments": [
+        "2023 World Open"
+      ],
+      "regular_dates": [
+        "2023-07-04"
+      ],
+      "regular_results": [
+        "W"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 1,
+      "expected_draws": 0,
+      "first_regular_game": "2023-07-04",
+      "last_regular_game": "2023-07-04"
+    },
+    "TROFF, KAYDEN": {
+      "name": "TROFF, KAYDEN",
+      "title": null,
+      "regular_ratings": [
+        2450
+      ],
+      "avg_regular_rating": 2450.0,
+      "highest_regular_rating": 2450,
+      "lowest_regular_rating": 2450,
+      "total_regular_games": 1,
+      "kiren_wins": 1,
+      "kiren_losses": 0,
+      "kiren_draws": 0,
+      "kiren_win_rate": 100.0,
+      "regular_tournaments": [
+        "2023 World Open"
+      ],
+      "regular_dates": [
+        "2023-07-04"
+      ],
+      "regular_results": [
+        "W"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 1,
+      "expected_draws": 0,
+      "first_regular_game": "2023-07-04",
+      "last_regular_game": "2023-07-04"
+    },
+    "TANG, ANDREW": {
+      "name": "TANG, ANDREW",
+      "title": null,
+      "regular_ratings": [
+        2420
+      ],
+      "avg_regular_rating": 2420.0,
+      "highest_regular_rating": 2420,
+      "lowest_regular_rating": 2420,
+      "total_regular_games": 1,
+      "kiren_wins": 1,
+      "kiren_losses": 0,
+      "kiren_draws": 0,
+      "kiren_win_rate": 100.0,
+      "regular_tournaments": [
+        "2023 World Open"
+      ],
+      "regular_dates": [
+        "2023-07-04"
+      ],
+      "regular_results": [
+        "W"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 1,
+      "expected_draws": 0,
+      "first_regular_game": "2023-07-04",
+      "last_regular_game": "2023-07-04"
+    },
+    "MORADIABADI, ELSHAN": {
+      "name": "MORADIABADI, ELSHAN",
+      "title": null,
+      "regular_ratings": [
+        2390
+      ],
+      "avg_regular_rating": 2390.0,
+      "highest_regular_rating": 2390,
+      "lowest_regular_rating": 2390,
+      "total_regular_games": 1,
+      "kiren_wins": 1,
+      "kiren_losses": 0,
+      "kiren_draws": 0,
+      "kiren_win_rate": 100.0,
+      "regular_tournaments": [
+        "2023 World Open"
+      ],
+      "regular_dates": [
+        "2023-07-04"
+      ],
+      "regular_results": [
+        "W"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 1,
+      "expected_draws": 0,
+      "first_regular_game": "2023-07-04",
+      "last_regular_game": "2023-07-04"
+    },
+    "CHANDRA, AKSHAT": {
+      "name": "CHANDRA, AKSHAT",
+      "title": null,
+      "regular_ratings": [
+        2360
+      ],
+      "avg_regular_rating": 2360.0,
+      "highest_regular_rating": 2360,
+      "lowest_regular_rating": 2360,
+      "total_regular_games": 1,
+      "kiren_wins": 0,
+      "kiren_losses": 0,
+      "kiren_draws": 1,
+      "kiren_win_rate": 0.0,
+      "regular_tournaments": [
+        "2023 World Open"
+      ],
+      "regular_dates": [
+        "2023-07-04"
+      ],
+      "regular_results": [
+        "D"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 0,
+      "expected_draws": 0,
+      "first_regular_game": "2023-07-04",
+      "last_regular_game": "2023-07-04"
+    },
+    "ZHEREBUKH, YAROSLAV": {
+      "name": "ZHEREBUKH, YAROSLAV",
+      "title": null,
+      "regular_ratings": [
+        2480
+      ],
+      "avg_regular_rating": 2480.0,
+      "highest_regular_rating": 2480,
+      "lowest_regular_rating": 2480,
+      "total_regular_games": 1,
+      "kiren_wins": 0,
+      "kiren_losses": 1,
+      "kiren_draws": 0,
+      "kiren_win_rate": 0.0,
+      "regular_tournaments": [
+        "2023 World Open"
+      ],
+      "regular_dates": [
+        "2023-07-04"
+      ],
+      "regular_results": [
+        "L"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 0,
+      "expected_draws": 0,
+      "first_regular_game": "2023-07-04",
+      "last_regular_game": "2023-07-04"
+    },
+    "SEVIAN, SAMUEL": {
+      "name": "SEVIAN, SAMUEL",
+      "title": null,
+      "regular_ratings": [
+        2640
+      ],
+      "avg_regular_rating": 2640.0,
+      "highest_regular_rating": 2640,
+      "lowest_regular_rating": 2640,
+      "total_regular_games": 1,
+      "kiren_wins": 1,
+      "kiren_losses": 0,
+      "kiren_draws": 0,
+      "kiren_win_rate": 100.0,
+      "regular_tournaments": [
+        "2023 World Open"
+      ],
+      "regular_dates": [
+        "2023-07-04"
+      ],
+      "regular_results": [
+        "W"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 1,
+      "expected_draws": 0,
+      "first_regular_game": "2023-07-04",
+      "last_regular_game": "2023-07-04"
+    },
+    "SHULMAN, YURI": {
+      "name": "SHULMAN, YURI",
+      "title": null,
+      "regular_ratings": [
+        2520
+      ],
+      "avg_regular_rating": 2520.0,
+      "highest_regular_rating": 2520,
+      "lowest_regular_rating": 2520,
+      "total_regular_games": 1,
+      "kiren_wins": 0,
+      "kiren_losses": 1,
+      "kiren_draws": 0,
+      "kiren_win_rate": 0.0,
+      "regular_tournaments": [
+        "2023 New York State Championship"
+      ],
+      "regular_dates": [
+        "2023-02-18"
+      ],
+      "regular_results": [
+        "L"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 0,
+      "expected_draws": 0,
+      "first_regular_game": "2023-02-18",
+      "last_regular_game": "2023-02-18"
+    },
+    "ONISCHUK, ALEXANDER": {
+      "name": "ONISCHUK, ALEXANDER",
+      "title": null,
+      "regular_ratings": [
+        2490
+      ],
+      "avg_regular_rating": 2490.0,
+      "highest_regular_rating": 2490,
+      "lowest_regular_rating": 2490,
+      "total_regular_games": 1,
+      "kiren_wins": 0,
+      "kiren_losses": 0,
+      "kiren_draws": 1,
+      "kiren_win_rate": 0.0,
+      "regular_tournaments": [
+        "2023 New York State Championship"
+      ],
+      "regular_dates": [
+        "2023-02-18"
+      ],
+      "regular_results": [
+        "D"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 0,
+      "expected_draws": 0,
+      "first_regular_game": "2023-02-18",
+      "last_regular_game": "2023-02-18"
+    },
+    "AKOBIAN, VARUZHAN": {
+      "name": "AKOBIAN, VARUZHAN",
+      "title": null,
+      "regular_ratings": [
+        2460
+      ],
+      "avg_regular_rating": 2460.0,
+      "highest_regular_rating": 2460,
+      "lowest_regular_rating": 2460,
+      "total_regular_games": 1,
+      "kiren_wins": 1,
+      "kiren_losses": 0,
+      "kiren_draws": 0,
+      "kiren_win_rate": 100.0,
+      "regular_tournaments": [
+        "2023 New York State Championship"
+      ],
+      "regular_dates": [
+        "2023-02-18"
+      ],
+      "regular_results": [
+        "W"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 1,
+      "expected_draws": 0,
+      "first_regular_game": "2023-02-18",
+      "last_regular_game": "2023-02-18"
+    },
+    "KRASIK, IRINA": {
+      "name": "KRASIK, IRINA",
+      "title": null,
+      "regular_ratings": [
+        2420
+      ],
+      "avg_regular_rating": 2420.0,
+      "highest_regular_rating": 2420,
+      "lowest_regular_rating": 2420,
+      "total_regular_games": 1,
+      "kiren_wins": 1,
+      "kiren_losses": 0,
+      "kiren_draws": 0,
+      "kiren_win_rate": 100.0,
+      "regular_tournaments": [
+        "2023 New York State Championship"
+      ],
+      "regular_dates": [
+        "2023-02-18"
+      ],
+      "regular_results": [
+        "W"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 1,
+      "expected_draws": 0,
+      "first_regular_game": "2023-02-18",
+      "last_regular_game": "2023-02-18"
+    },
+    "IPPOLITO, DEAN": {
+      "name": "IPPOLITO, DEAN",
+      "title": null,
+      "regular_ratings": [
+        2380
+      ],
+      "avg_regular_rating": 2380.0,
+      "highest_regular_rating": 2380,
+      "lowest_regular_rating": 2380,
+      "total_regular_games": 1,
+      "kiren_wins": 1,
+      "kiren_losses": 0,
+      "kiren_draws": 0,
+      "kiren_win_rate": 100.0,
+      "regular_tournaments": [
+        "2023 New York State Championship"
+      ],
+      "regular_dates": [
+        "2023-02-18"
+      ],
+      "regular_results": [
+        "W"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 1,
+      "expected_draws": 0,
+      "first_regular_game": "2023-02-18",
+      "last_regular_game": "2023-02-18"
+    },
+    "PARKER, JOHN": {
+      "name": "PARKER, JOHN",
+      "title": null,
+      "regular_ratings": [
+        2350
+      ],
+      "avg_regular_rating": 2350.0,
+      "highest_regular_rating": 2350,
+      "lowest_regular_rating": 2350,
+      "total_regular_games": 1,
+      "kiren_wins": 1,
+      "kiren_losses": 0,
+      "kiren_draws": 0,
+      "kiren_win_rate": 100.0,
+      "regular_tournaments": [
+        "2023 New York State Championship"
+      ],
+      "regular_dates": [
+        "2023-02-18"
+      ],
+      "regular_results": [
+        "W"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 1,
+      "expected_draws": 0,
+      "first_regular_game": "2023-02-18",
+      "last_regular_game": "2023-02-18"
+    },
+    "FISHBEIN, ALEXANDER": {
+      "name": "FISHBEIN, ALEXANDER",
+      "title": null,
+      "regular_ratings": [
+        2320
+      ],
+      "avg_regular_rating": 2320.0,
+      "highest_regular_rating": 2320,
+      "lowest_regular_rating": 2320,
+      "total_regular_games": 1,
+      "kiren_wins": 0,
+      "kiren_losses": 0,
+      "kiren_draws": 1,
+      "kiren_win_rate": 0.0,
+      "regular_tournaments": [
+        "2023 New York State Championship"
+      ],
+      "regular_dates": [
+        "2023-02-18"
+      ],
+      "regular_results": [
+        "D"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 0,
+      "expected_draws": 0,
+      "first_regular_game": "2023-02-18",
+      "last_regular_game": "2023-02-18"
+    },
+    "SARKAR, JUSTIN": {
+      "name": "SARKAR, JUSTIN",
+      "title": null,
+      "regular_ratings": [
+        2290
+      ],
+      "avg_regular_rating": 2290.0,
+      "highest_regular_rating": 2290,
+      "lowest_regular_rating": 2290,
+      "total_regular_games": 1,
+      "kiren_wins": 1,
+      "kiren_losses": 0,
+      "kiren_draws": 0,
+      "kiren_win_rate": 100.0,
+      "regular_tournaments": [
+        "2023 New York State Championship"
+      ],
+      "regular_dates": [
+        "2023-02-18"
+      ],
+      "regular_results": [
+        "W"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 1,
+      "expected_draws": 0,
+      "first_regular_game": "2023-02-18",
+      "last_regular_game": "2023-02-18"
+    },
+    "LAPSHUN, YURY": {
+      "name": "LAPSHUN, YURY",
+      "title": null,
+      "regular_ratings": [
+        2260
+      ],
+      "avg_regular_rating": 2260.0,
+      "highest_regular_rating": 2260,
+      "lowest_regular_rating": 2260,
+      "total_regular_games": 1,
+      "kiren_wins": 1,
+      "kiren_losses": 0,
+      "kiren_draws": 0,
+      "kiren_win_rate": 100.0,
+      "regular_tournaments": [
+        "2023 New York State Championship"
+      ],
+      "regular_dates": [
+        "2023-02-18"
+      ],
+      "regular_results": [
+        "W"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 1,
+      "expected_draws": 0,
+      "first_regular_game": "2023-02-18",
+      "last_regular_game": "2023-02-18"
+    },
+    "GULKO, BORIS": {
+      "name": "GULKO, BORIS",
+      "title": null,
+      "regular_ratings": [
+        2480
+      ],
+      "avg_regular_rating": 2480.0,
+      "highest_regular_rating": 2480,
+      "lowest_regular_rating": 2480,
+      "total_regular_games": 1,
+      "kiren_wins": 0,
+      "kiren_losses": 1,
+      "kiren_draws": 0,
+      "kiren_win_rate": 0.0,
+      "regular_tournaments": [
+        "2022 Marshall Chess Club Championship"
+      ],
+      "regular_dates": [
+        "2022-07-15"
+      ],
+      "regular_results": [
+        "L"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 0,
+      "expected_draws": 0,
+      "first_regular_game": "2022-07-15",
+      "last_regular_game": "2022-07-15"
+    },
+    "STRIPUNSKY, ALEXANDER": {
+      "name": "STRIPUNSKY, ALEXANDER",
+      "title": null,
+      "regular_ratings": [
+        2450
+      ],
+      "avg_regular_rating": 2450.0,
+      "highest_regular_rating": 2450,
+      "lowest_regular_rating": 2450,
+      "total_regular_games": 1,
+      "kiren_wins": 0,
+      "kiren_losses": 0,
+      "kiren_draws": 1,
+      "kiren_win_rate": 0.0,
+      "regular_tournaments": [
+        "2022 Marshall Chess Club Championship"
+      ],
+      "regular_dates": [
+        "2022-07-15"
+      ],
+      "regular_results": [
+        "D"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 0,
+      "expected_draws": 0,
+      "first_regular_game": "2022-07-15",
+      "last_regular_game": "2022-07-15"
+    },
+    "NOVIKOV, IGOR": {
+      "name": "NOVIKOV, IGOR",
+      "title": null,
+      "regular_ratings": [
+        2420
+      ],
+      "avg_regular_rating": 2420.0,
+      "highest_regular_rating": 2420,
+      "lowest_regular_rating": 2420,
+      "total_regular_games": 1,
+      "kiren_wins": 0,
+      "kiren_losses": 1,
+      "kiren_draws": 0,
+      "kiren_win_rate": 0.0,
+      "regular_tournaments": [
+        "2022 Marshall Chess Club Championship"
+      ],
+      "regular_dates": [
+        "2022-07-15"
+      ],
+      "regular_results": [
+        "L"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 0,
+      "expected_draws": 0,
+      "first_regular_game": "2022-07-15",
+      "last_regular_game": "2022-07-15"
+    },
+    "KAIDANOV, GREGORY": {
+      "name": "KAIDANOV, GREGORY",
+      "title": null,
+      "regular_ratings": [
+        2400
+      ],
+      "avg_regular_rating": 2400.0,
+      "highest_regular_rating": 2400,
+      "lowest_regular_rating": 2400,
+      "total_regular_games": 1,
+      "kiren_wins": 1,
+      "kiren_losses": 0,
+      "kiren_draws": 0,
+      "kiren_win_rate": 100.0,
+      "regular_tournaments": [
+        "2022 Marshall Chess Club Championship"
+      ],
+      "regular_dates": [
+        "2022-07-15"
+      ],
+      "regular_results": [
+        "W"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 1,
+      "expected_draws": 0,
+      "first_regular_game": "2022-07-15",
+      "last_regular_game": "2022-07-15"
+    },
+    "YERMOLINSKY, ALEX": {
+      "name": "YERMOLINSKY, ALEX",
+      "title": null,
+      "regular_ratings": [
+        2380
+      ],
+      "avg_regular_rating": 2380.0,
+      "highest_regular_rating": 2380,
+      "lowest_regular_rating": 2380,
+      "total_regular_games": 1,
+      "kiren_wins": 1,
+      "kiren_losses": 0,
+      "kiren_draws": 0,
+      "kiren_win_rate": 100.0,
+      "regular_tournaments": [
+        "2022 Marshall Chess Club Championship"
+      ],
+      "regular_dates": [
+        "2022-07-15"
+      ],
+      "regular_results": [
+        "W"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 1,
+      "expected_draws": 0,
+      "first_regular_game": "2022-07-15",
+      "last_regular_game": "2022-07-15"
+    },
+    "PERELSHTEYN, EUGENE": {
+      "name": "PERELSHTEYN, EUGENE",
+      "title": null,
+      "regular_ratings": [
+        2360
+      ],
+      "avg_regular_rating": 2360.0,
+      "highest_regular_rating": 2360,
+      "lowest_regular_rating": 2360,
+      "total_regular_games": 1,
+      "kiren_wins": 1,
+      "kiren_losses": 0,
+      "kiren_draws": 0,
+      "kiren_win_rate": 100.0,
+      "regular_tournaments": [
+        "2022 Marshall Chess Club Championship"
+      ],
+      "regular_dates": [
+        "2022-07-15"
+      ],
+      "regular_results": [
+        "W"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 1,
+      "expected_draws": 0,
+      "first_regular_game": "2022-07-15",
+      "last_regular_game": "2022-07-15"
+    },
+    "BONIN, JAY": {
+      "name": "BONIN, JAY",
+      "title": null,
+      "regular_ratings": [
+        2340
+      ],
+      "avg_regular_rating": 2340.0,
+      "highest_regular_rating": 2340,
+      "lowest_regular_rating": 2340,
+      "total_regular_games": 1,
+      "kiren_wins": 1,
+      "kiren_losses": 0,
+      "kiren_draws": 0,
+      "kiren_win_rate": 100.0,
+      "regular_tournaments": [
+        "2022 Marshall Chess Club Championship"
+      ],
+      "regular_dates": [
+        "2022-07-15"
+      ],
+      "regular_results": [
+        "W"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 1,
+      "expected_draws": 0,
+      "first_regular_game": "2022-07-15",
+      "last_regular_game": "2022-07-15"
+    },
+    "KUDRIN, SERGEY": {
+      "name": "KUDRIN, SERGEY",
+      "title": null,
+      "regular_ratings": [
+        2320
+      ],
+      "avg_regular_rating": 2320.0,
+      "highest_regular_rating": 2320,
+      "lowest_regular_rating": 2320,
+      "total_regular_games": 1,
+      "kiren_wins": 0,
+      "kiren_losses": 0,
+      "kiren_draws": 1,
+      "kiren_win_rate": 0.0,
+      "regular_tournaments": [
+        "2022 Marshall Chess Club Championship"
+      ],
+      "regular_dates": [
+        "2022-07-15"
+      ],
+      "regular_results": [
+        "D"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 0,
+      "expected_draws": 0,
+      "first_regular_game": "2022-07-15",
+      "last_regular_game": "2022-07-15"
+    },
+    "RACHELS, STUART": {
+      "name": "RACHELS, STUART",
+      "title": null,
+      "regular_ratings": [
+        2300
+      ],
+      "avg_regular_rating": 2300.0,
+      "highest_regular_rating": 2300,
+      "lowest_regular_rating": 2300,
+      "total_regular_games": 1,
+      "kiren_wins": 1,
+      "kiren_losses": 0,
+      "kiren_draws": 0,
+      "kiren_win_rate": 100.0,
+      "regular_tournaments": [
+        "2022 Marshall Chess Club Championship"
+      ],
+      "regular_dates": [
+        "2022-07-15"
+      ],
+      "regular_results": [
+        "W"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 1,
+      "expected_draws": 0,
+      "first_regular_game": "2022-07-15",
+      "last_regular_game": "2022-07-15"
+    },
+    "CHRISTIANSEN, LARRY": {
+      "name": "CHRISTIANSEN, LARRY",
+      "title": null,
+      "regular_ratings": [
+        2350
+      ],
+      "avg_regular_rating": 2350.0,
+      "highest_regular_rating": 2350,
+      "lowest_regular_rating": 2350,
+      "total_regular_games": 1,
+      "kiren_wins": 0,
+      "kiren_losses": 1,
+      "kiren_draws": 0,
+      "kiren_win_rate": 0.0,
+      "regular_tournaments": [
+        "2022 Eastern Class Championships"
+      ],
+      "regular_dates": [
+        "2022-03-12"
+      ],
+      "regular_results": [
+        "L"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 0,
+      "expected_draws": 0,
+      "first_regular_game": "2022-03-12",
+      "last_regular_game": "2022-03-12"
+    },
+    "ALBURT, LEV": {
+      "name": "ALBURT, LEV",
+      "title": null,
+      "regular_ratings": [
+        2320
+      ],
+      "avg_regular_rating": 2320.0,
+      "highest_regular_rating": 2320,
+      "lowest_regular_rating": 2320,
+      "total_regular_games": 1,
+      "kiren_wins": 0,
+      "kiren_losses": 0,
+      "kiren_draws": 1,
+      "kiren_win_rate": 0.0,
+      "regular_tournaments": [
+        "2022 Eastern Class Championships"
+      ],
+      "regular_dates": [
+        "2022-03-12"
+      ],
+      "regular_results": [
+        "D"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 0,
+      "expected_draws": 0,
+      "first_regular_game": "2022-03-12",
+      "last_regular_game": "2022-03-12"
+    },
+    "DLUGY, MAXIM": {
+      "name": "DLUGY, MAXIM",
+      "title": null,
+      "regular_ratings": [
+        2300
+      ],
+      "avg_regular_rating": 2300.0,
+      "highest_regular_rating": 2300,
+      "lowest_regular_rating": 2300,
+      "total_regular_games": 1,
+      "kiren_wins": 1,
+      "kiren_losses": 0,
+      "kiren_draws": 0,
+      "kiren_win_rate": 100.0,
+      "regular_tournaments": [
+        "2022 Eastern Class Championships"
+      ],
+      "regular_dates": [
+        "2022-03-12"
+      ],
+      "regular_results": [
+        "W"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 1,
+      "expected_draws": 0,
+      "first_regular_game": "2022-03-12",
+      "last_regular_game": "2022-03-12"
+    },
+    "ROHDE, MICHAEL": {
+      "name": "ROHDE, MICHAEL",
+      "title": null,
+      "regular_ratings": [
+        2280
+      ],
+      "avg_regular_rating": 2280.0,
+      "highest_regular_rating": 2280,
+      "lowest_regular_rating": 2280,
+      "total_regular_games": 1,
+      "kiren_wins": 1,
+      "kiren_losses": 0,
+      "kiren_draws": 0,
+      "kiren_win_rate": 100.0,
+      "regular_tournaments": [
+        "2022 Eastern Class Championships"
+      ],
+      "regular_dates": [
+        "2022-03-12"
+      ],
+      "regular_results": [
+        "W"
+      ],
+      "rating_performance": 0.0,
+      "upset_wins": 1,
+      "expected_draws": 0,
+      "first_regular_game": "2022-03-12",
+      "last_regular_game": "2022-03-12"
+    }
+  }
+}

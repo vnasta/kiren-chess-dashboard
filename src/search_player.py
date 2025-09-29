@@ -26,7 +26,7 @@ def search_player(first_name, last_name, state=None):
             if player.uscf_id:
                 print(f"   USCF ID: {player.uscf_id}")
             if player.current_rating:
-                print(f"   Current Rating: {player.current_rating}")
+                print(f"   Regular Rating: {player.current_rating}")
             if player.peak_rating:
                 print(f"   Peak Rating: {player.peak_rating}")
             if player.state:
@@ -105,7 +105,7 @@ def search_player(first_name, last_name, state=None):
                     for player in alt_players:
                         print(f"  - {player.name}")
                         if player.current_rating:
-                            print(f"    Rating: {player.current_rating}")
+                            print(f"    Regular Rating: {player.current_rating}")
                         if player.state:
                             print(f"    State: {player.state}")
                         if player.uscf_id:

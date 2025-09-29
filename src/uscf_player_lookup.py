@@ -426,7 +426,7 @@ def main():
                     if player.uscf_id:
                         print(f"   USCF ID: {player.uscf_id}")
                     if player.current_rating:
-                        print(f"   Current Rating: {player.current_rating}")
+                        print(f"   Regular Rating: {player.current_rating}")
                     if player.state:
                         print(f"   State: {player.state}")
                     if player.membership_status:
@@ -446,7 +446,7 @@ def main():
                 print(f"Name: {player.name}")
                 print(f"USCF ID: {player.uscf_id}")
                 if player.current_rating:
-                    print(f"Current Rating: {player.current_rating}")
+                    print(f"Regular Rating: {player.current_rating}")
                 if player.state:
                     print(f"State: {player.state}")
 

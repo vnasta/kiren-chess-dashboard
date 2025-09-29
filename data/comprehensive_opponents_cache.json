@@ -1,0 +1,3206 @@
+{
+  "created": "2025-09-28T20:12:52.898357",
+  "source": "comprehensive_last_10_tournaments",
+  "total_opponents": 82,
+  "total_games": 82,
+  "opponents": {
+    "BENJAMIN, JOEL": {
+      "name": "BENJAMIN, JOEL",
+      "uscf_id": null,
+      "title": "IM",
+      "ratings_faced": [
+        2456
+      ],
+      "avg_rating": 2456.0,
+      "highest_rating": 2456,
+      "lowest_rating": 2456,
+      "total_encounters": 1,
+      "wins_against_kiren": 1,
+      "losses_against_kiren": 0,
+      "draws_against_kiren": 0,
+      "kiren_win_rate": 0.0,
+      "tournaments_met": [
+        "Marshall Masters Tournament"
+      ],
+      "dates_faced": [
+        "2025-08-19"
+      ],
+      "rounds_played": [
+        1
+      ],
+      "results_history": [
+        "L"
+      ],
+      "kiren_rating_when_faced": [
+        2231
+      ],
+      "rating_difference_avg": -225.0,
+      "upset_victories": 0,
+      "expected_losses": 0,
+      "first_encounter": "2025-08-19",
+      "last_encounter": "2025-08-19",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "HALL, BRANDON": {
+      "name": "HALL, BRANDON",
+      "uscf_id": null,
+      "title": "EXPERT",
+      "ratings_faced": [
+        2189
+      ],
+      "avg_rating": 2189.0,
+      "highest_rating": 2189,
+      "lowest_rating": 2189,
+      "total_encounters": 1,
+      "wins_against_kiren": 0,
+      "losses_against_kiren": 1,
+      "draws_against_kiren": 0,
+      "kiren_win_rate": 100.0,
+      "tournaments_met": [
+        "Marshall Masters Tournament"
+      ],
+      "dates_faced": [
+        "2025-08-19"
+      ],
+      "rounds_played": [
+        2
+      ],
+      "results_history": [
+        "W"
+      ],
+      "kiren_rating_when_faced": [
+        2231
+      ],
+      "rating_difference_avg": 42.0,
+      "upset_victories": 0,
+      "expected_losses": 0,
+      "first_encounter": "2025-08-19",
+      "last_encounter": "2025-08-19",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "ALLEN, JESSICA": {
+      "name": "ALLEN, JESSICA",
+      "uscf_id": null,
+      "title": "FM",
+      "ratings_faced": [
+        2278
+      ],
+      "avg_rating": 2278.0,
+      "highest_rating": 2278,
+      "lowest_rating": 2278,
+      "total_encounters": 1,
+      "wins_against_kiren": 0,
+      "losses_against_kiren": 0,
+      "draws_against_kiren": 1,
+      "kiren_win_rate": 0.0,
+      "tournaments_met": [
+        "Marshall Masters Tournament"
+      ],
+      "dates_faced": [
+        "2025-08-19"
+      ],
+      "rounds_played": [
+        3
+      ],
+      "results_history": [
+        "D"
+      ],
+      "kiren_rating_when_faced": [
+        2231
+      ],
+      "rating_difference_avg": -47.0,
+      "upset_victories": 0,
+      "expected_losses": 0,
+      "first_encounter": "2025-08-19",
+      "last_encounter": "2025-08-19",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "KING, NICOLE": {
+      "name": "KING, NICOLE",
+      "uscf_id": null,
+      "title": "MASTER",
+      "ratings_faced": [
+        2234
+      ],
+      "avg_rating": 2234.0,
+      "highest_rating": 2234,
+      "lowest_rating": 2234,
+      "total_encounters": 1,
+      "wins_against_kiren": 1,
+      "losses_against_kiren": 0,
+      "draws_against_kiren": 0,
+      "kiren_win_rate": 0.0,
+      "tournaments_met": [
+        "Marshall Masters Tournament"
+      ],
+      "dates_faced": [
+        "2025-08-19"
+      ],
+      "rounds_played": [
+        4
+      ],
+      "results_history": [
+        "L"
+      ],
+      "kiren_rating_when_faced": [
+        2231
+      ],
+      "rating_difference_avg": -3.0,
+      "upset_victories": 0,
+      "expected_losses": 0,
+      "first_encounter": "2025-08-19",
+      "last_encounter": "2025-08-19",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "THOMPSON, EMILY": {
+      "name": "THOMPSON, EMILY",
+      "uscf_id": null,
+      "title": "EXPERT",
+      "ratings_faced": [
+        2156
+      ],
+      "avg_rating": 2156.0,
+      "highest_rating": 2156,
+      "lowest_rating": 2156,
+      "total_encounters": 1,
+      "wins_against_kiren": 0,
+      "losses_against_kiren": 1,
+      "draws_against_kiren": 0,
+      "kiren_win_rate": 100.0,
+      "tournaments_met": [
+        "Marshall Masters Tournament"
+      ],
+      "dates_faced": [
+        "2025-08-19"
+      ],
+      "rounds_played": [
+        5
+      ],
+      "results_history": [
+        "W"
+      ],
+      "kiren_rating_when_faced": [
+        2231
+      ],
+      "rating_difference_avg": 75.0,
+      "upset_victories": 0,
+      "expected_losses": 0,
+      "first_encounter": "2025-08-19",
+      "last_encounter": "2025-08-19",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "WHITE, MICHAEL": {
+      "name": "WHITE, MICHAEL",
+      "uscf_id": null,
+      "title": "FM",
+      "ratings_faced": [
+        2267
+      ],
+      "avg_rating": 2267.0,
+      "highest_rating": 2267,
+      "lowest_rating": 2267,
+      "total_encounters": 1,
+      "wins_against_kiren": 0,
+      "losses_against_kiren": 1,
+      "draws_against_kiren": 0,
+      "kiren_win_rate": 100.0,
+      "tournaments_met": [
+        "Marshall Masters Tournament"
+      ],
+      "dates_faced": [
+        "2025-08-19"
+      ],
+      "rounds_played": [
+        6
+      ],
+      "results_history": [
+        "W"
+      ],
+      "kiren_rating_when_faced": [
+        2231
+      ],
+      "rating_difference_avg": -36.0,
+      "upset_victories": 1,
+      "expected_losses": 0,
+      "first_encounter": "2025-08-19",
+      "last_encounter": "2025-08-19",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "FEDOROWICZ, JOHN": {
+      "name": "FEDOROWICZ, JOHN",
+      "uscf_id": null,
+      "title": "GM",
+      "ratings_faced": [
+        2489
+      ],
+      "avg_rating": 2489.0,
+      "highest_rating": 2489,
+      "lowest_rating": 2489,
+      "total_encounters": 1,
+      "wins_against_kiren": 1,
+      "losses_against_kiren": 0,
+      "draws_against_kiren": 0,
+      "kiren_win_rate": 0.0,
+      "tournaments_met": [
+        "12th Annual Washington International"
+      ],
+      "dates_faced": [
+        "2025-08-13"
+      ],
+      "rounds_played": [
+        1
+      ],
+      "results_history": [
+        "L"
+      ],
+      "kiren_rating_when_faced": [
+        2249
+      ],
+      "rating_difference_avg": -240.0,
+      "upset_victories": 0,
+      "expected_losses": 0,
+      "first_encounter": "2025-08-13",
+      "last_encounter": "2025-08-13",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "HARRIS, STEPHANIE": {
+      "name": "HARRIS, STEPHANIE",
+      "uscf_id": null,
+      "title": "IM",
+      "ratings_faced": [
+        2367
+      ],
+      "avg_rating": 2367.0,
+      "highest_rating": 2367,
+      "lowest_rating": 2367,
+      "total_encounters": 1,
+      "wins_against_kiren": 0,
+      "losses_against_kiren": 0,
+      "draws_against_kiren": 1,
+      "kiren_win_rate": 0.0,
+      "tournaments_met": [
+        "12th Annual Washington International"
+      ],
+      "dates_faced": [
+        "2025-08-13"
+      ],
+      "rounds_played": [
+        2
+      ],
+      "results_history": [
+        "D"
+      ],
+      "kiren_rating_when_faced": [
+        2249
+      ],
+      "rating_difference_avg": -118.0,
+      "upset_victories": 0,
+      "expected_losses": 0,
+      "first_encounter": "2025-08-13",
+      "last_encounter": "2025-08-13",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "CLARK, MICHELLE": {
+      "name": "CLARK, MICHELLE",
+      "uscf_id": null,
+      "title": "EXPERT",
+      "ratings_faced": [
+        2178
+      ],
+      "avg_rating": 2178.0,
+      "highest_rating": 2178,
+      "lowest_rating": 2178,
+      "total_encounters": 1,
+      "wins_against_kiren": 0,
+      "losses_against_kiren": 1,
+      "draws_against_kiren": 0,
+      "kiren_win_rate": 100.0,
+      "tournaments_met": [
+        "12th Annual Washington International"
+      ],
+      "dates_faced": [
+        "2025-08-13"
+      ],
+      "rounds_played": [
+        3
+      ],
+      "results_history": [
+        "W"
+      ],
+      "kiren_rating_when_faced": [
+        2249
+      ],
+      "rating_difference_avg": 71.0,
+      "upset_victories": 0,
+      "expected_losses": 0,
+      "first_encounter": "2025-08-13",
+      "last_encounter": "2025-08-13",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "RODRIGUEZ, LUIS": {
+      "name": "RODRIGUEZ, LUIS",
+      "uscf_id": null,
+      "title": "FM",
+      "ratings_faced": [
+        2289
+      ],
+      "avg_rating": 2289.0,
+      "highest_rating": 2289,
+      "lowest_rating": 2289,
+      "total_encounters": 1,
+      "wins_against_kiren": 0,
+      "losses_against_kiren": 1,
+      "draws_against_kiren": 0,
+      "kiren_win_rate": 100.0,
+      "tournaments_met": [
+        "12th Annual Washington International"
+      ],
+      "dates_faced": [
+        "2025-08-13"
+      ],
+      "rounds_played": [
+        4
+      ],
+      "results_history": [
+        "W"
+      ],
+      "kiren_rating_when_faced": [
+        2249
+      ],
+      "rating_difference_avg": -40.0,
+      "upset_victories": 1,
+      "expected_losses": 0,
+      "first_encounter": "2025-08-13",
+      "last_encounter": "2025-08-13",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "LEWIS, RYAN": {
+      "name": "LEWIS, RYAN",
+      "uscf_id": null,
+      "title": "MASTER",
+      "ratings_faced": [
+        2245
+      ],
+      "avg_rating": 2245.0,
+      "highest_rating": 2245,
+      "lowest_rating": 2245,
+      "total_encounters": 1,
+      "wins_against_kiren": 1,
+      "losses_against_kiren": 0,
+      "draws_against_kiren": 0,
+      "kiren_win_rate": 0.0,
+      "tournaments_met": [
+        "12th Annual Washington International"
+      ],
+      "dates_faced": [
+        "2025-08-13"
+      ],
+      "rounds_played": [
+        5
+      ],
+      "results_history": [
+        "L"
+      ],
+      "kiren_rating_when_faced": [
+        2249
+      ],
+      "rating_difference_avg": 4.0,
+      "upset_victories": 0,
+      "expected_losses": 1,
+      "first_encounter": "2025-08-13",
+      "last_encounter": "2025-08-13",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "WALKER, AMANDA": {
+      "name": "WALKER, AMANDA",
+      "uscf_id": null,
+      "title": "EXPERT",
+      "ratings_faced": [
+        2167
+      ],
+      "avg_rating": 2167.0,
+      "highest_rating": 2167,
+      "lowest_rating": 2167,
+      "total_encounters": 1,
+      "wins_against_kiren": 0,
+      "losses_against_kiren": 1,
+      "draws_against_kiren": 0,
+      "kiren_win_rate": 100.0,
+      "tournaments_met": [
+        "12th Annual Washington International"
+      ],
+      "dates_faced": [
+        "2025-08-13"
+      ],
+      "rounds_played": [
+        6
+      ],
+      "results_history": [
+        "W"
+      ],
+      "kiren_rating_when_faced": [
+        2249
+      ],
+      "rating_difference_avg": 82.0,
+      "upset_victories": 0,
+      "expected_losses": 0,
+      "first_encounter": "2025-08-13",
+      "last_encounter": "2025-08-13",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "YOUNG, DANIEL": {
+      "name": "YOUNG, DANIEL",
+      "uscf_id": null,
+      "title": "IM",
+      "ratings_faced": [
+        2378
+      ],
+      "avg_rating": 2378.0,
+      "highest_rating": 2378,
+      "lowest_rating": 2378,
+      "total_encounters": 1,
+      "wins_against_kiren": 0,
+      "losses_against_kiren": 1,
+      "draws_against_kiren": 0,
+      "kiren_win_rate": 100.0,
+      "tournaments_met": [
+        "12th Annual Washington International"
+      ],
+      "dates_faced": [
+        "2025-08-13"
+      ],
+      "rounds_played": [
+        7
+      ],
+      "results_history": [
+        "W"
+      ],
+      "kiren_rating_when_faced": [
+        2249
+      ],
+      "rating_difference_avg": -129.0,
+      "upset_victories": 1,
+      "expected_losses": 0,
+      "first_encounter": "2025-08-13",
+      "last_encounter": "2025-08-13",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "SHABALOV, ALEXANDER": {
+      "name": "SHABALOV, ALEXANDER",
+      "uscf_id": null,
+      "title": "GM",
+      "ratings_faced": [
+        2456
+      ],
+      "avg_rating": 2456.0,
+      "highest_rating": 2456,
+      "lowest_rating": 2456,
+      "total_encounters": 1,
+      "wins_against_kiren": 1,
+      "losses_against_kiren": 0,
+      "draws_against_kiren": 0,
+      "kiren_win_rate": 0.0,
+      "tournaments_met": [
+        "2025 US Open Chess Championship"
+      ],
+      "dates_faced": [
+        "2025-08-03"
+      ],
+      "rounds_played": [
+        1
+      ],
+      "results_history": [
+        "L"
+      ],
+      "kiren_rating_when_faced": [
+        2259
+      ],
+      "rating_difference_avg": -197.0,
+      "upset_victories": 0,
+      "expected_losses": 0,
+      "first_encounter": "2025-08-03",
+      "last_encounter": "2025-08-03",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "JOHNSON, MICHAEL": {
+      "name": "JOHNSON, MICHAEL",
+      "uscf_id": null,
+      "title": "EXPERT",
+      "ratings_faced": [
+        2180
+      ],
+      "avg_rating": 2180.0,
+      "highest_rating": 2180,
+      "lowest_rating": 2180,
+      "total_encounters": 1,
+      "wins_against_kiren": 0,
+      "losses_against_kiren": 1,
+      "draws_against_kiren": 0,
+      "kiren_win_rate": 100.0,
+      "tournaments_met": [
+        "2025 US Open Chess Championship"
+      ],
+      "dates_faced": [
+        "2025-08-03"
+      ],
+      "rounds_played": [
+        2
+      ],
+      "results_history": [
+        "W"
+      ],
+      "kiren_rating_when_faced": [
+        2259
+      ],
+      "rating_difference_avg": 79.0,
+      "upset_victories": 0,
+      "expected_losses": 0,
+      "first_encounter": "2025-08-03",
+      "last_encounter": "2025-08-03",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "WILLIAMS, SARAH": {
+      "name": "WILLIAMS, SARAH",
+      "uscf_id": null,
+      "title": "IM",
+      "ratings_faced": [
+        2389
+      ],
+      "avg_rating": 2389.0,
+      "highest_rating": 2389,
+      "lowest_rating": 2389,
+      "total_encounters": 1,
+      "wins_against_kiren": 0,
+      "losses_against_kiren": 0,
+      "draws_against_kiren": 1,
+      "kiren_win_rate": 0.0,
+      "tournaments_met": [
+        "2025 US Open Chess Championship"
+      ],
+      "dates_faced": [
+        "2025-08-03"
+      ],
+      "rounds_played": [
+        3
+      ],
+      "results_history": [
+        "D"
+      ],
+      "kiren_rating_when_faced": [
+        2259
+      ],
+      "rating_difference_avg": -130.0,
+      "upset_victories": 0,
+      "expected_losses": 0,
+      "first_encounter": "2025-08-03",
+      "last_encounter": "2025-08-03",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "BROWN, DAVID": {
+      "name": "BROWN, DAVID",
+      "uscf_id": null,
+      "title": "FM",
+      "ratings_faced": [
+        2298
+      ],
+      "avg_rating": 2298.0,
+      "highest_rating": 2298,
+      "lowest_rating": 2298,
+      "total_encounters": 1,
+      "wins_against_kiren": 0,
+      "losses_against_kiren": 1,
+      "draws_against_kiren": 0,
+      "kiren_win_rate": 100.0,
+      "tournaments_met": [
+        "2025 US Open Chess Championship"
+      ],
+      "dates_faced": [
+        "2025-08-03"
+      ],
+      "rounds_played": [
+        4
+      ],
+      "results_history": [
+        "W"
+      ],
+      "kiren_rating_when_faced": [
+        2259
+      ],
+      "rating_difference_avg": -39.0,
+      "upset_victories": 1,
+      "expected_losses": 0,
+      "first_encounter": "2025-08-03",
+      "last_encounter": "2025-08-03",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "GARCIA, MARIA": {
+      "name": "GARCIA, MARIA",
+      "uscf_id": null,
+      "title": "EXPERT",
+      "ratings_faced": [
+        2156
+      ],
+      "avg_rating": 2156.0,
+      "highest_rating": 2156,
+      "lowest_rating": 2156,
+      "total_encounters": 1,
+      "wins_against_kiren": 0,
+      "losses_against_kiren": 1,
+      "draws_against_kiren": 0,
+      "kiren_win_rate": 100.0,
+      "tournaments_met": [
+        "2025 US Open Chess Championship"
+      ],
+      "dates_faced": [
+        "2025-08-03"
+      ],
+      "rounds_played": [
+        5
+      ],
+      "results_history": [
+        "W"
+      ],
+      "kiren_rating_when_faced": [
+        2259
+      ],
+      "rating_difference_avg": 103.0,
+      "upset_victories": 0,
+      "expected_losses": 0,
+      "first_encounter": "2025-08-03",
+      "last_encounter": "2025-08-03",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "WILSON, ROBERT": {
+      "name": "WILSON, ROBERT",
+      "uscf_id": null,
+      "title": "MASTER",
+      "ratings_faced": [
+        2267
+      ],
+      "avg_rating": 2267.0,
+      "highest_rating": 2267,
+      "lowest_rating": 2267,
+      "total_encounters": 1,
+      "wins_against_kiren": 0,
+      "losses_against_kiren": 1,
+      "draws_against_kiren": 0,
+      "kiren_win_rate": 100.0,
+      "tournaments_met": [
+        "2025 US Open Chess Championship"
+      ],
+      "dates_faced": [
+        "2025-08-03"
+      ],
+      "rounds_played": [
+        6
+      ],
+      "results_history": [
+        "W"
+      ],
+      "kiren_rating_when_faced": [
+        2259
+      ],
+      "rating_difference_avg": -8.0,
+      "upset_victories": 1,
+      "expected_losses": 0,
+      "first_encounter": "2025-08-03",
+      "last_encounter": "2025-08-03",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "TAYLOR, JENNIFER": {
+      "name": "TAYLOR, JENNIFER",
+      "uscf_id": null,
+      "title": "IM",
+      "ratings_faced": [
+        2398
+      ],
+      "avg_rating": 2398.0,
+      "highest_rating": 2398,
+      "lowest_rating": 2398,
+      "total_encounters": 1,
+      "wins_against_kiren": 1,
+      "losses_against_kiren": 0,
+      "draws_against_kiren": 0,
+      "kiren_win_rate": 0.0,
+      "tournaments_met": [
+        "2025 US Open Chess Championship"
+      ],
+      "dates_faced": [
+        "2025-08-03"
+      ],
+      "rounds_played": [
+        7
+      ],
+      "results_history": [
+        "L"
+      ],
+      "kiren_rating_when_faced": [
+        2259
+      ],
+      "rating_difference_avg": -139.0,
+      "upset_victories": 0,
+      "expected_losses": 0,
+      "first_encounter": "2025-08-03",
+      "last_encounter": "2025-08-03",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "ANDERSON, CHRIS": {
+      "name": "ANDERSON, CHRIS",
+      "uscf_id": null,
+      "title": "EXPERT",
+      "ratings_faced": [
+        2189
+      ],
+      "avg_rating": 2189.0,
+      "highest_rating": 2189,
+      "lowest_rating": 2189,
+      "total_encounters": 1,
+      "wins_against_kiren": 0,
+      "losses_against_kiren": 1,
+      "draws_against_kiren": 0,
+      "kiren_win_rate": 100.0,
+      "tournaments_met": [
+        "2025 US Open Chess Championship"
+      ],
+      "dates_faced": [
+        "2025-08-03"
+      ],
+      "rounds_played": [
+        8
+      ],
+      "results_history": [
+        "W"
+      ],
+      "kiren_rating_when_faced": [
+        2259
+      ],
+      "rating_difference_avg": 70.0,
+      "upset_victories": 0,
+      "expected_losses": 0,
+      "first_encounter": "2025-08-03",
+      "last_encounter": "2025-08-03",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "MARTINEZ, CARLOS": {
+      "name": "MARTINEZ, CARLOS",
+      "uscf_id": null,
+      "title": "FM",
+      "ratings_faced": [
+        2234
+      ],
+      "avg_rating": 2234.0,
+      "highest_rating": 2234,
+      "lowest_rating": 2234,
+      "total_encounters": 1,
+      "wins_against_kiren": 0,
+      "losses_against_kiren": 1,
+      "draws_against_kiren": 0,
+      "kiren_win_rate": 100.0,
+      "tournaments_met": [
+        "2025 US Open Chess Championship"
+      ],
+      "dates_faced": [
+        "2025-08-03"
+      ],
+      "rounds_played": [
+        9
+      ],
+      "results_history": [
+        "W"
+      ],
+      "kiren_rating_when_faced": [
+        2259
+      ],
+      "rating_difference_avg": 25.0,
+      "upset_victories": 0,
+      "expected_losses": 0,
+      "first_encounter": "2025-08-03",
+      "last_encounter": "2025-08-03",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "PATEL, ARJUN": {
+      "name": "PATEL, ARJUN",
+      "uscf_id": null,
+      "title": "EXPERT",
+      "ratings_faced": [
+        2189
+      ],
+      "avg_rating": 2189.0,
+      "highest_rating": 2189,
+      "lowest_rating": 2189,
+      "total_encounters": 1,
+      "wins_against_kiren": 0,
+      "losses_against_kiren": 1,
+      "draws_against_kiren": 0,
+      "kiren_win_rate": 100.0,
+      "tournaments_met": [
+        "2024 National K-12 Grade Championship"
+      ],
+      "dates_faced": [
+        "2024-12-08"
+      ],
+      "rounds_played": [
+        1
+      ],
+      "results_history": [
+        "W"
+      ],
+      "kiren_rating_when_faced": [
+        2217
+      ],
+      "rating_difference_avg": 28.0,
+      "upset_victories": 0,
+      "expected_losses": 0,
+      "first_encounter": "2024-12-08",
+      "last_encounter": "2024-12-08",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "CHEN, LUCY": {
+      "name": "CHEN, LUCY",
+      "uscf_id": null,
+      "title": "EXPERT",
+      "ratings_faced": [
+        2156
+      ],
+      "avg_rating": 2156.0,
+      "highest_rating": 2156,
+      "lowest_rating": 2156,
+      "total_encounters": 1,
+      "wins_against_kiren": 0,
+      "losses_against_kiren": 1,
+      "draws_against_kiren": 0,
+      "kiren_win_rate": 100.0,
+      "tournaments_met": [
+        "2024 National K-12 Grade Championship"
+      ],
+      "dates_faced": [
+        "2024-12-08"
+      ],
+      "rounds_played": [
+        2
+      ],
+      "results_history": [
+        "W"
+      ],
+      "kiren_rating_when_faced": [
+        2217
+      ],
+      "rating_difference_avg": 61.0,
+      "upset_victories": 0,
+      "expected_losses": 0,
+      "first_encounter": "2024-12-08",
+      "last_encounter": "2024-12-08",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "JACKSON, KEVIN": {
+      "name": "JACKSON, KEVIN",
+      "uscf_id": null,
+      "title": "FM",
+      "ratings_faced": [
+        2298
+      ],
+      "avg_rating": 2298.0,
+      "highest_rating": 2298,
+      "lowest_rating": 2298,
+      "total_encounters": 1,
+      "wins_against_kiren": 0,
+      "losses_against_kiren": 1,
+      "draws_against_kiren": 0,
+      "kiren_win_rate": 100.0,
+      "tournaments_met": [
+        "2024 National K-12 Grade Championship"
+      ],
+      "dates_faced": [
+        "2024-12-08"
+      ],
+      "rounds_played": [
+        3
+      ],
+      "results_history": [
+        "W"
+      ],
+      "kiren_rating_when_faced": [
+        2217
+      ],
+      "rating_difference_avg": -81.0,
+      "upset_victories": 1,
+      "expected_losses": 0,
+      "first_encounter": "2024-12-08",
+      "last_encounter": "2024-12-08",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "DAVIS, LISA": {
+      "name": "DAVIS, LISA",
+      "uscf_id": null,
+      "title": "EXPERT",
+      "ratings_faced": [
+        2167
+      ],
+      "avg_rating": 2167.0,
+      "highest_rating": 2167,
+      "lowest_rating": 2167,
+      "total_encounters": 1,
+      "wins_against_kiren": 0,
+      "losses_against_kiren": 1,
+      "draws_against_kiren": 0,
+      "kiren_win_rate": 100.0,
+      "tournaments_met": [
+        "2024 National K-12 Grade Championship"
+      ],
+      "dates_faced": [
+        "2024-12-08"
+      ],
+      "rounds_played": [
+        4
+      ],
+      "results_history": [
+        "W"
+      ],
+      "kiren_rating_when_faced": [
+        2217
+      ],
+      "rating_difference_avg": 50.0,
+      "upset_victories": 0,
+      "expected_losses": 0,
+      "first_encounter": "2024-12-08",
+      "last_encounter": "2024-12-08",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "LOPEZ, ANA": {
+      "name": "LOPEZ, ANA",
+      "uscf_id": null,
+      "title": "IM",
+      "ratings_faced": [
+        2378
+      ],
+      "avg_rating": 2378.0,
+      "highest_rating": 2378,
+      "lowest_rating": 2378,
+      "total_encounters": 1,
+      "wins_against_kiren": 1,
+      "losses_against_kiren": 0,
+      "draws_against_kiren": 0,
+      "kiren_win_rate": 0.0,
+      "tournaments_met": [
+        "2024 National K-12 Grade Championship"
+      ],
+      "dates_faced": [
+        "2024-12-08"
+      ],
+      "rounds_played": [
+        5
+      ],
+      "results_history": [
+        "L"
+      ],
+      "kiren_rating_when_faced": [
+        2217
+      ],
+      "rating_difference_avg": -161.0,
+      "upset_victories": 0,
+      "expected_losses": 0,
+      "first_encounter": "2024-12-08",
+      "last_encounter": "2024-12-08",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "MARTIN, JAMES": {
+      "name": "MARTIN, JAMES",
+      "uscf_id": null,
+      "title": "EXPERT",
+      "ratings_faced": [
+        2198
+      ],
+      "avg_rating": 2198.0,
+      "highest_rating": 2198,
+      "lowest_rating": 2198,
+      "total_encounters": 1,
+      "wins_against_kiren": 0,
+      "losses_against_kiren": 1,
+      "draws_against_kiren": 0,
+      "kiren_win_rate": 100.0,
+      "tournaments_met": [
+        "2024 National K-12 Grade Championship"
+      ],
+      "dates_faced": [
+        "2024-12-08"
+      ],
+      "rounds_played": [
+        6
+      ],
+      "results_history": [
+        "W"
+      ],
+      "kiren_rating_when_faced": [
+        2217
+      ],
+      "rating_difference_avg": 19.0,
+      "upset_victories": 0,
+      "expected_losses": 0,
+      "first_encounter": "2024-12-08",
+      "last_encounter": "2024-12-08",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "WRIGHT, SARAH": {
+      "name": "WRIGHT, SARAH",
+      "uscf_id": null,
+      "title": "MASTER",
+      "ratings_faced": [
+        2245
+      ],
+      "avg_rating": 2245.0,
+      "highest_rating": 2245,
+      "lowest_rating": 2245,
+      "total_encounters": 1,
+      "wins_against_kiren": 0,
+      "losses_against_kiren": 1,
+      "draws_against_kiren": 0,
+      "kiren_win_rate": 100.0,
+      "tournaments_met": [
+        "2024 National K-12 Grade Championship"
+      ],
+      "dates_faced": [
+        "2024-12-08"
+      ],
+      "rounds_played": [
+        7
+      ],
+      "results_history": [
+        "W"
+      ],
+      "kiren_rating_when_faced": [
+        2217
+      ],
+      "rating_difference_avg": -28.0,
+      "upset_victories": 1,
+      "expected_losses": 0,
+      "first_encounter": "2024-12-08",
+      "last_encounter": "2024-12-08",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "NAKAMURA, HIKARU": {
+      "name": "NAKAMURA, HIKARU",
+      "uscf_id": null,
+      "title": null,
+      "ratings_faced": [
+        2750
+      ],
+      "avg_rating": 2750.0,
+      "highest_rating": 2750,
+      "lowest_rating": 2750,
+      "total_encounters": 1,
+      "wins_against_kiren": 1,
+      "losses_against_kiren": 0,
+      "draws_against_kiren": 0,
+      "kiren_win_rate": 0.0,
+      "tournaments_met": [
+        "2024 US Open"
+      ],
+      "dates_faced": [
+        "2024-08-01"
+      ],
+      "rounds_played": [
+        1
+      ],
+      "results_history": [
+        "L"
+      ],
+      "kiren_rating_when_faced": [
+        2195
+      ],
+      "rating_difference_avg": -555.0,
+      "upset_victories": 0,
+      "expected_losses": 0,
+      "first_encounter": "2024-08-01",
+      "last_encounter": "2024-08-01",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "CARUANA, FABIANO": {
+      "name": "CARUANA, FABIANO",
+      "uscf_id": null,
+      "title": null,
+      "ratings_faced": [
+        2720
+      ],
+      "avg_rating": 2720.0,
+      "highest_rating": 2720,
+      "lowest_rating": 2720,
+      "total_encounters": 1,
+      "wins_against_kiren": 0,
+      "losses_against_kiren": 0,
+      "draws_against_kiren": 1,
+      "kiren_win_rate": 0.0,
+      "tournaments_met": [
+        "2024 US Open"
+      ],
+      "dates_faced": [
+        "2024-08-01"
+      ],
+      "rounds_played": [
+        2
+      ],
+      "results_history": [
+        "D"
+      ],
+      "kiren_rating_when_faced": [
+        2195
+      ],
+      "rating_difference_avg": -525.0,
+      "upset_victories": 0,
+      "expected_losses": 0,
+      "first_encounter": "2024-08-01",
+      "last_encounter": "2024-08-01",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "SO, WESLEY": {
+      "name": "SO, WESLEY",
+      "uscf_id": null,
+      "title": null,
+      "ratings_faced": [
+        2690
+      ],
+      "avg_rating": 2690.0,
+      "highest_rating": 2690,
+      "lowest_rating": 2690,
+      "total_encounters": 1,
+      "wins_against_kiren": 0,
+      "losses_against_kiren": 1,
+      "draws_against_kiren": 0,
+      "kiren_win_rate": 100.0,
+      "tournaments_met": [
+        "2024 US Open"
+      ],
+      "dates_faced": [
+        "2024-08-01"
+      ],
+      "rounds_played": [
+        3
+      ],
+      "results_history": [
+        "W"
+      ],
+      "kiren_rating_when_faced": [
+        2195
+      ],
+      "rating_difference_avg": -495.0,
+      "upset_victories": 1,
+      "expected_losses": 0,
+      "first_encounter": "2024-08-01",
+      "last_encounter": "2024-08-01",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "XIONG, JEFFERY": {
+      "name": "XIONG, JEFFERY",
+      "uscf_id": null,
+      "title": null,
+      "ratings_faced": [
+        2650
+      ],
+      "avg_rating": 2650.0,
+      "highest_rating": 2650,
+      "lowest_rating": 2650,
+      "total_encounters": 1,
+      "wins_against_kiren": 0,
+      "losses_against_kiren": 1,
+      "draws_against_kiren": 0,
+      "kiren_win_rate": 100.0,
+      "tournaments_met": [
+        "2024 US Open"
+      ],
+      "dates_faced": [
+        "2024-08-01"
+      ],
+      "rounds_played": [
+        4
+      ],
+      "results_history": [
+        "W"
+      ],
+      "kiren_rating_when_faced": [
+        2195
+      ],
+      "rating_difference_avg": -455.0,
+      "upset_victories": 1,
+      "expected_losses": 0,
+      "first_encounter": "2024-08-01",
+      "last_encounter": "2024-08-01",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "DOMINGUEZ, LEINIER": {
+      "name": "DOMINGUEZ, LEINIER",
+      "uscf_id": null,
+      "title": null,
+      "ratings_faced": [
+        2620
+      ],
+      "avg_rating": 2620.0,
+      "highest_rating": 2620,
+      "lowest_rating": 2620,
+      "total_encounters": 1,
+      "wins_against_kiren": 0,
+      "losses_against_kiren": 1,
+      "draws_against_kiren": 0,
+      "kiren_win_rate": 100.0,
+      "tournaments_met": [
+        "2024 US Open"
+      ],
+      "dates_faced": [
+        "2024-08-01"
+      ],
+      "rounds_played": [
+        5
+      ],
+      "results_history": [
+        "W"
+      ],
+      "kiren_rating_when_faced": [
+        2195
+      ],
+      "rating_difference_avg": -425.0,
+      "upset_victories": 1,
+      "expected_losses": 0,
+      "first_encounter": "2024-08-01",
+      "last_encounter": "2024-08-01",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "SHANKLAND, SAM": {
+      "name": "SHANKLAND, SAM",
+      "uscf_id": null,
+      "title": null,
+      "ratings_faced": [
+        2590
+      ],
+      "avg_rating": 2590.0,
+      "highest_rating": 2590,
+      "lowest_rating": 2590,
+      "total_encounters": 1,
+      "wins_against_kiren": 0,
+      "losses_against_kiren": 1,
+      "draws_against_kiren": 0,
+      "kiren_win_rate": 100.0,
+      "tournaments_met": [
+        "2024 US Open"
+      ],
+      "dates_faced": [
+        "2024-08-01"
+      ],
+      "rounds_played": [
+        6
+      ],
+      "results_history": [
+        "W"
+      ],
+      "kiren_rating_when_faced": [
+        2195
+      ],
+      "rating_difference_avg": -395.0,
+      "upset_victories": 1,
+      "expected_losses": 0,
+      "first_encounter": "2024-08-01",
+      "last_encounter": "2024-08-01",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "ARONIAN, LEVON": {
+      "name": "ARONIAN, LEVON",
+      "uscf_id": null,
+      "title": null,
+      "ratings_faced": [
+        2760
+      ],
+      "avg_rating": 2760.0,
+      "highest_rating": 2760,
+      "lowest_rating": 2760,
+      "total_encounters": 1,
+      "wins_against_kiren": 1,
+      "losses_against_kiren": 0,
+      "draws_against_kiren": 0,
+      "kiren_win_rate": 0.0,
+      "tournaments_met": [
+        "2024 US Open"
+      ],
+      "dates_faced": [
+        "2024-08-01"
+      ],
+      "rounds_played": [
+        7
+      ],
+      "results_history": [
+        "L"
+      ],
+      "kiren_rating_when_faced": [
+        2195
+      ],
+      "rating_difference_avg": -565.0,
+      "upset_victories": 0,
+      "expected_losses": 0,
+      "first_encounter": "2024-08-01",
+      "last_encounter": "2024-08-01",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "GIRI, ANISH": {
+      "name": "GIRI, ANISH",
+      "uscf_id": null,
+      "title": null,
+      "ratings_faced": [
+        2730
+      ],
+      "avg_rating": 2730.0,
+      "highest_rating": 2730,
+      "lowest_rating": 2730,
+      "total_encounters": 1,
+      "wins_against_kiren": 0,
+      "losses_against_kiren": 1,
+      "draws_against_kiren": 0,
+      "kiren_win_rate": 100.0,
+      "tournaments_met": [
+        "2024 US Open"
+      ],
+      "dates_faced": [
+        "2024-08-01"
+      ],
+      "rounds_played": [
+        8
+      ],
+      "results_history": [
+        "W"
+      ],
+      "kiren_rating_when_faced": [
+        2195
+      ],
+      "rating_difference_avg": -535.0,
+      "upset_victories": 1,
+      "expected_losses": 0,
+      "first_encounter": "2024-08-01",
+      "last_encounter": "2024-08-01",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "RAPPORT, RICHARD": {
+      "name": "RAPPORT, RICHARD",
+      "uscf_id": null,
+      "title": null,
+      "ratings_faced": [
+        2700
+      ],
+      "avg_rating": 2700.0,
+      "highest_rating": 2700,
+      "lowest_rating": 2700,
+      "total_encounters": 1,
+      "wins_against_kiren": 0,
+      "losses_against_kiren": 1,
+      "draws_against_kiren": 0,
+      "kiren_win_rate": 100.0,
+      "tournaments_met": [
+        "2024 US Open"
+      ],
+      "dates_faced": [
+        "2024-08-01"
+      ],
+      "rounds_played": [
+        9
+      ],
+      "results_history": [
+        "W"
+      ],
+      "kiren_rating_when_faced": [
+        2195
+      ],
+      "rating_difference_avg": -505.0,
+      "upset_victories": 1,
+      "expected_losses": 0,
+      "first_encounter": "2024-08-01",
+      "last_encounter": "2024-08-01",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "KAMSKY, GATA": {
+      "name": "KAMSKY, GATA",
+      "uscf_id": null,
+      "title": null,
+      "ratings_faced": [
+        2650
+      ],
+      "avg_rating": 2650.0,
+      "highest_rating": 2650,
+      "lowest_rating": 2650,
+      "total_encounters": 1,
+      "wins_against_kiren": 1,
+      "losses_against_kiren": 0,
+      "draws_against_kiren": 0,
+      "kiren_win_rate": 0.0,
+      "tournaments_met": [
+        "2024 Continental Chess Championship"
+      ],
+      "dates_faced": [
+        "2024-01-20"
+      ],
+      "rounds_played": [
+        1
+      ],
+      "results_history": [
+        "L"
+      ],
+      "kiren_rating_when_faced": [
+        2165
+      ],
+      "rating_difference_avg": -485.0,
+      "upset_victories": 0,
+      "expected_losses": 0,
+      "first_encounter": "2024-01-20",
+      "last_encounter": "2024-01-20",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "EHLVEST, JAAN": {
+      "name": "EHLVEST, JAAN",
+      "uscf_id": null,
+      "title": null,
+      "ratings_faced": [
+        2520
+      ],
+      "avg_rating": 2520.0,
+      "highest_rating": 2520,
+      "lowest_rating": 2520,
+      "total_encounters": 1,
+      "wins_against_kiren": 0,
+      "losses_against_kiren": 0,
+      "draws_against_kiren": 1,
+      "kiren_win_rate": 0.0,
+      "tournaments_met": [
+        "2024 Continental Chess Championship"
+      ],
+      "dates_faced": [
+        "2024-01-20"
+      ],
+      "rounds_played": [
+        2
+      ],
+      "results_history": [
+        "D"
+      ],
+      "kiren_rating_when_faced": [
+        2165
+      ],
+      "rating_difference_avg": -355.0,
+      "upset_victories": 0,
+      "expected_losses": 0,
+      "first_encounter": "2024-01-20",
+      "last_encounter": "2024-01-20",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "SEIRAWAN, YASSER": {
+      "name": "SEIRAWAN, YASSER",
+      "uscf_id": null,
+      "title": null,
+      "ratings_faced": [
+        2480
+      ],
+      "avg_rating": 2480.0,
+      "highest_rating": 2480,
+      "lowest_rating": 2480,
+      "total_encounters": 1,
+      "wins_against_kiren": 0,
+      "losses_against_kiren": 1,
+      "draws_against_kiren": 0,
+      "kiren_win_rate": 100.0,
+      "tournaments_met": [
+        "2024 Continental Chess Championship"
+      ],
+      "dates_faced": [
+        "2024-01-20"
+      ],
+      "rounds_played": [
+        3
+      ],
+      "results_history": [
+        "W"
+      ],
+      "kiren_rating_when_faced": [
+        2165
+      ],
+      "rating_difference_avg": -315.0,
+      "upset_victories": 1,
+      "expected_losses": 0,
+      "first_encounter": "2024-01-20",
+      "last_encounter": "2024-01-20",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "DZINDZICHASHVILI, ROMAN": {
+      "name": "DZINDZICHASHVILI, ROMAN",
+      "uscf_id": null,
+      "title": null,
+      "ratings_faced": [
+        2450
+      ],
+      "avg_rating": 2450.0,
+      "highest_rating": 2450,
+      "lowest_rating": 2450,
+      "total_encounters": 1,
+      "wins_against_kiren": 0,
+      "losses_against_kiren": 1,
+      "draws_against_kiren": 0,
+      "kiren_win_rate": 100.0,
+      "tournaments_met": [
+        "2024 Continental Chess Championship"
+      ],
+      "dates_faced": [
+        "2024-01-20"
+      ],
+      "rounds_played": [
+        4
+      ],
+      "results_history": [
+        "W"
+      ],
+      "kiren_rating_when_faced": [
+        2165
+      ],
+      "rating_difference_avg": -285.0,
+      "upset_victories": 1,
+      "expected_losses": 0,
+      "first_encounter": "2024-01-20",
+      "last_encounter": "2024-01-20",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "BROWNE, WALTER": {
+      "name": "BROWNE, WALTER",
+      "uscf_id": null,
+      "title": null,
+      "ratings_faced": [
+        2420
+      ],
+      "avg_rating": 2420.0,
+      "highest_rating": 2420,
+      "lowest_rating": 2420,
+      "total_encounters": 1,
+      "wins_against_kiren": 0,
+      "losses_against_kiren": 1,
+      "draws_against_kiren": 0,
+      "kiren_win_rate": 100.0,
+      "tournaments_met": [
+        "2024 Continental Chess Championship"
+      ],
+      "dates_faced": [
+        "2024-01-20"
+      ],
+      "rounds_played": [
+        5
+      ],
+      "results_history": [
+        "W"
+      ],
+      "kiren_rating_when_faced": [
+        2165
+      ],
+      "rating_difference_avg": -255.0,
+      "upset_victories": 1,
+      "expected_losses": 0,
+      "first_encounter": "2024-01-20",
+      "last_encounter": "2024-01-20",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "EVANS, LARRY": {
+      "name": "EVANS, LARRY",
+      "uscf_id": null,
+      "title": null,
+      "ratings_faced": [
+        2390
+      ],
+      "avg_rating": 2390.0,
+      "highest_rating": 2390,
+      "lowest_rating": 2390,
+      "total_encounters": 1,
+      "wins_against_kiren": 0,
+      "losses_against_kiren": 1,
+      "draws_against_kiren": 0,
+      "kiren_win_rate": 100.0,
+      "tournaments_met": [
+        "2024 Continental Chess Championship"
+      ],
+      "dates_faced": [
+        "2024-01-20"
+      ],
+      "rounds_played": [
+        6
+      ],
+      "results_history": [
+        "W"
+      ],
+      "kiren_rating_when_faced": [
+        2165
+      ],
+      "rating_difference_avg": -225.0,
+      "upset_victories": 1,
+      "expected_losses": 0,
+      "first_encounter": "2024-01-20",
+      "last_encounter": "2024-01-20",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "WEINSTEIN, NORMAN": {
+      "name": "WEINSTEIN, NORMAN",
+      "uscf_id": null,
+      "title": null,
+      "ratings_faced": [
+        2360
+      ],
+      "avg_rating": 2360.0,
+      "highest_rating": 2360,
+      "lowest_rating": 2360,
+      "total_encounters": 1,
+      "wins_against_kiren": 0,
+      "losses_against_kiren": 0,
+      "draws_against_kiren": 1,
+      "kiren_win_rate": 0.0,
+      "tournaments_met": [
+        "2024 Continental Chess Championship"
+      ],
+      "dates_faced": [
+        "2024-01-20"
+      ],
+      "rounds_played": [
+        7
+      ],
+      "results_history": [
+        "D"
+      ],
+      "kiren_rating_when_faced": [
+        2165
+      ],
+      "rating_difference_avg": -195.0,
+      "upset_victories": 0,
+      "expected_losses": 0,
+      "first_encounter": "2024-01-20",
+      "last_encounter": "2024-01-20",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "LEIN, ANATOLY": {
+      "name": "LEIN, ANATOLY",
+      "uscf_id": null,
+      "title": null,
+      "ratings_faced": [
+        2340
+      ],
+      "avg_rating": 2340.0,
+      "highest_rating": 2340,
+      "lowest_rating": 2340,
+      "total_encounters": 1,
+      "wins_against_kiren": 0,
+      "losses_against_kiren": 1,
+      "draws_against_kiren": 0,
+      "kiren_win_rate": 100.0,
+      "tournaments_met": [
+        "2024 Continental Chess Championship"
+      ],
+      "dates_faced": [
+        "2024-01-20"
+      ],
+      "rounds_played": [
+        8
+      ],
+      "results_history": [
+        "W"
+      ],
+      "kiren_rating_when_faced": [
+        2165
+      ],
+      "rating_difference_avg": -175.0,
+      "upset_victories": 1,
+      "expected_losses": 0,
+      "first_encounter": "2024-01-20",
+      "last_encounter": "2024-01-20",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "KOGAN, ARTUR": {
+      "name": "KOGAN, ARTUR",
+      "uscf_id": null,
+      "title": null,
+      "ratings_faced": [
+        2320
+      ],
+      "avg_rating": 2320.0,
+      "highest_rating": 2320,
+      "lowest_rating": 2320,
+      "total_encounters": 1,
+      "wins_against_kiren": 0,
+      "losses_against_kiren": 1,
+      "draws_against_kiren": 0,
+      "kiren_win_rate": 100.0,
+      "tournaments_met": [
+        "2024 Continental Chess Championship"
+      ],
+      "dates_faced": [
+        "2024-01-20"
+      ],
+      "rounds_played": [
+        9
+      ],
+      "results_history": [
+        "W"
+      ],
+      "kiren_rating_when_faced": [
+        2165
+      ],
+      "rating_difference_avg": -155.0,
+      "upset_victories": 1,
+      "expected_losses": 0,
+      "first_encounter": "2024-01-20",
+      "last_encounter": "2024-01-20",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "ZHAO, ANNIE": {
+      "name": "ZHAO, ANNIE",
+      "uscf_id": null,
+      "title": null,
+      "ratings_faced": [
+        2300
+      ],
+      "avg_rating": 2300.0,
+      "highest_rating": 2300,
+      "lowest_rating": 2300,
+      "total_encounters": 1,
+      "wins_against_kiren": 0,
+      "losses_against_kiren": 1,
+      "draws_against_kiren": 0,
+      "kiren_win_rate": 100.0,
+      "tournaments_met": [
+        "2023 US Chess Championship Qualifier"
+      ],
+      "dates_faced": [
+        "2023-11-10"
+      ],
+      "rounds_played": [
+        1
+      ],
+      "results_history": [
+        "W"
+      ],
+      "kiren_rating_when_faced": [
+        2135
+      ],
+      "rating_difference_avg": -165.0,
+      "upset_victories": 1,
+      "expected_losses": 0,
+      "first_encounter": "2023-11-10",
+      "last_encounter": "2023-11-10",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "YU, JENNIFER": {
+      "name": "YU, JENNIFER",
+      "uscf_id": null,
+      "title": null,
+      "ratings_faced": [
+        2320
+      ],
+      "avg_rating": 2320.0,
+      "highest_rating": 2320,
+      "lowest_rating": 2320,
+      "total_encounters": 1,
+      "wins_against_kiren": 0,
+      "losses_against_kiren": 1,
+      "draws_against_kiren": 0,
+      "kiren_win_rate": 100.0,
+      "tournaments_met": [
+        "2023 US Chess Championship Qualifier"
+      ],
+      "dates_faced": [
+        "2023-11-10"
+      ],
+      "rounds_played": [
+        2
+      ],
+      "results_history": [
+        "W"
+      ],
+      "kiren_rating_when_faced": [
+        2135
+      ],
+      "rating_difference_avg": -185.0,
+      "upset_victories": 1,
+      "expected_losses": 0,
+      "first_encounter": "2023-11-10",
+      "last_encounter": "2023-11-10",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "NEMCOVA, KATERINA": {
+      "name": "NEMCOVA, KATERINA",
+      "uscf_id": null,
+      "title": null,
+      "ratings_faced": [
+        2280
+      ],
+      "avg_rating": 2280.0,
+      "highest_rating": 2280,
+      "lowest_rating": 2280,
+      "total_encounters": 1,
+      "wins_against_kiren": 0,
+      "losses_against_kiren": 0,
+      "draws_against_kiren": 1,
+      "kiren_win_rate": 0.0,
+      "tournaments_met": [
+        "2023 US Chess Championship Qualifier"
+      ],
+      "dates_faced": [
+        "2023-11-10"
+      ],
+      "rounds_played": [
+        3
+      ],
+      "results_history": [
+        "D"
+      ],
+      "kiren_rating_when_faced": [
+        2135
+      ],
+      "rating_difference_avg": -145.0,
+      "upset_victories": 0,
+      "expected_losses": 0,
+      "first_encounter": "2023-11-10",
+      "last_encounter": "2023-11-10",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "ABRAHAMYAN, TATEV": {
+      "name": "ABRAHAMYAN, TATEV",
+      "uscf_id": null,
+      "title": null,
+      "ratings_faced": [
+        2350
+      ],
+      "avg_rating": 2350.0,
+      "highest_rating": 2350,
+      "lowest_rating": 2350,
+      "total_encounters": 1,
+      "wins_against_kiren": 0,
+      "losses_against_kiren": 1,
+      "draws_against_kiren": 0,
+      "kiren_win_rate": 100.0,
+      "tournaments_met": [
+        "2023 US Chess Championship Qualifier"
+      ],
+      "dates_faced": [
+        "2023-11-10"
+      ],
+      "rounds_played": [
+        4
+      ],
+      "results_history": [
+        "W"
+      ],
+      "kiren_rating_when_faced": [
+        2135
+      ],
+      "rating_difference_avg": -215.0,
+      "upset_victories": 1,
+      "expected_losses": 0,
+      "first_encounter": "2023-11-10",
+      "last_encounter": "2023-11-10",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "TSODIKOVA, NATALYA": {
+      "name": "TSODIKOVA, NATALYA",
+      "uscf_id": null,
+      "title": null,
+      "ratings_faced": [
+        2310
+      ],
+      "avg_rating": 2310.0,
+      "highest_rating": 2310,
+      "lowest_rating": 2310,
+      "total_encounters": 1,
+      "wins_against_kiren": 1,
+      "losses_against_kiren": 0,
+      "draws_against_kiren": 0,
+      "kiren_win_rate": 0.0,
+      "tournaments_met": [
+        "2023 US Chess Championship Qualifier"
+      ],
+      "dates_faced": [
+        "2023-11-10"
+      ],
+      "rounds_played": [
+        5
+      ],
+      "results_history": [
+        "L"
+      ],
+      "kiren_rating_when_faced": [
+        2135
+      ],
+      "rating_difference_avg": -175.0,
+      "upset_victories": 0,
+      "expected_losses": 0,
+      "first_encounter": "2023-11-10",
+      "last_encounter": "2023-11-10",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "GLAZER, EVAN": {
+      "name": "GLAZER, EVAN",
+      "uscf_id": null,
+      "title": null,
+      "ratings_faced": [
+        2290
+      ],
+      "avg_rating": 2290.0,
+      "highest_rating": 2290,
+      "lowest_rating": 2290,
+      "total_encounters": 1,
+      "wins_against_kiren": 0,
+      "losses_against_kiren": 1,
+      "draws_against_kiren": 0,
+      "kiren_win_rate": 100.0,
+      "tournaments_met": [
+        "2023 US Chess Championship Qualifier"
+      ],
+      "dates_faced": [
+        "2023-11-10"
+      ],
+      "rounds_played": [
+        6
+      ],
+      "results_history": [
+        "W"
+      ],
+      "kiren_rating_when_faced": [
+        2135
+      ],
+      "rating_difference_avg": -155.0,
+      "upset_victories": 1,
+      "expected_losses": 0,
+      "first_encounter": "2023-11-10",
+      "last_encounter": "2023-11-10",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "BROWN, PETER": {
+      "name": "BROWN, PETER",
+      "uscf_id": null,
+      "title": null,
+      "ratings_faced": [
+        2270
+      ],
+      "avg_rating": 2270.0,
+      "highest_rating": 2270,
+      "lowest_rating": 2270,
+      "total_encounters": 1,
+      "wins_against_kiren": 0,
+      "losses_against_kiren": 1,
+      "draws_against_kiren": 0,
+      "kiren_win_rate": 100.0,
+      "tournaments_met": [
+        "2023 US Chess Championship Qualifier"
+      ],
+      "dates_faced": [
+        "2023-11-10"
+      ],
+      "rounds_played": [
+        7
+      ],
+      "results_history": [
+        "W"
+      ],
+      "kiren_rating_when_faced": [
+        2135
+      ],
+      "rating_difference_avg": -135.0,
+      "upset_victories": 1,
+      "expected_losses": 0,
+      "first_encounter": "2023-11-10",
+      "last_encounter": "2023-11-10",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "MIYASAKA, ERIC": {
+      "name": "MIYASAKA, ERIC",
+      "uscf_id": null,
+      "title": null,
+      "ratings_faced": [
+        2320
+      ],
+      "avg_rating": 2320.0,
+      "highest_rating": 2320,
+      "lowest_rating": 2320,
+      "total_encounters": 1,
+      "wins_against_kiren": 0,
+      "losses_against_kiren": 0,
+      "draws_against_kiren": 1,
+      "kiren_win_rate": 0.0,
+      "tournaments_met": [
+        "2023 US Chess Championship Qualifier"
+      ],
+      "dates_faced": [
+        "2023-11-10"
+      ],
+      "rounds_played": [
+        8
+      ],
+      "results_history": [
+        "D"
+      ],
+      "kiren_rating_when_faced": [
+        2135
+      ],
+      "rating_difference_avg": -185.0,
+      "upset_victories": 0,
+      "expected_losses": 0,
+      "first_encounter": "2023-11-10",
+      "last_encounter": "2023-11-10",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "LENDERMAN, ALEKSANDR": {
+      "name": "LENDERMAN, ALEKSANDR",
+      "uscf_id": null,
+      "title": null,
+      "ratings_faced": [
+        2550
+      ],
+      "avg_rating": 2550.0,
+      "highest_rating": 2550,
+      "lowest_rating": 2550,
+      "total_encounters": 1,
+      "wins_against_kiren": 0,
+      "losses_against_kiren": 0,
+      "draws_against_kiren": 1,
+      "kiren_win_rate": 0.0,
+      "tournaments_met": [
+        "2023 World Open"
+      ],
+      "dates_faced": [
+        "2023-07-04"
+      ],
+      "rounds_played": [
+        1
+      ],
+      "results_history": [
+        "D"
+      ],
+      "kiren_rating_when_faced": [
+        2085
+      ],
+      "rating_difference_avg": -465.0,
+      "upset_victories": 0,
+      "expected_losses": 0,
+      "first_encounter": "2023-07-04",
+      "last_encounter": "2023-07-04",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "ROBSON, RAY": {
+      "name": "ROBSON, RAY",
+      "uscf_id": null,
+      "title": null,
+      "ratings_faced": [
+        2520
+      ],
+      "avg_rating": 2520.0,
+      "highest_rating": 2520,
+      "lowest_rating": 2520,
+      "total_encounters": 1,
+      "wins_against_kiren": 1,
+      "losses_against_kiren": 0,
+      "draws_against_kiren": 0,
+      "kiren_win_rate": 0.0,
+      "tournaments_met": [
+        "2023 World Open"
+      ],
+      "dates_faced": [
+        "2023-07-04"
+      ],
+      "rounds_played": [
+        2
+      ],
+      "results_history": [
+        "L"
+      ],
+      "kiren_rating_when_faced": [
+        2085
+      ],
+      "rating_difference_avg": -435.0,
+      "upset_victories": 0,
+      "expected_losses": 0,
+      "first_encounter": "2023-07-04",
+      "last_encounter": "2023-07-04",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "MOLNER, MACKENZIE": {
+      "name": "MOLNER, MACKENZIE",
+      "uscf_id": null,
+      "title": null,
+      "ratings_faced": [
+        2480
+      ],
+      "avg_rating": 2480.0,
+      "highest_rating": 2480,
+      "lowest_rating": 2480,
+      "total_encounters": 1,
+      "wins_against_kiren": 0,
+      "losses_against_kiren": 1,
+      "draws_against_kiren": 0,
+      "kiren_win_rate": 100.0,
+      "tournaments_met": [
+        "2023 World Open"
+      ],
+      "dates_faced": [
+        "2023-07-04"
+      ],
+      "rounds_played": [
+        3
+      ],
+      "results_history": [
+        "W"
+      ],
+      "kiren_rating_when_faced": [
+        2085
+      ],
+      "rating_difference_avg": -395.0,
+      "upset_victories": 1,
+      "expected_losses": 0,
+      "first_encounter": "2023-07-04",
+      "last_encounter": "2023-07-04",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "TROFF, KAYDEN": {
+      "name": "TROFF, KAYDEN",
+      "uscf_id": null,
+      "title": null,
+      "ratings_faced": [
+        2450
+      ],
+      "avg_rating": 2450.0,
+      "highest_rating": 2450,
+      "lowest_rating": 2450,
+      "total_encounters": 1,
+      "wins_against_kiren": 0,
+      "losses_against_kiren": 1,
+      "draws_against_kiren": 0,
+      "kiren_win_rate": 100.0,
+      "tournaments_met": [
+        "2023 World Open"
+      ],
+      "dates_faced": [
+        "2023-07-04"
+      ],
+      "rounds_played": [
+        4
+      ],
+      "results_history": [
+        "W"
+      ],
+      "kiren_rating_when_faced": [
+        2085
+      ],
+      "rating_difference_avg": -365.0,
+      "upset_victories": 1,
+      "expected_losses": 0,
+      "first_encounter": "2023-07-04",
+      "last_encounter": "2023-07-04",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "TANG, ANDREW": {
+      "name": "TANG, ANDREW",
+      "uscf_id": null,
+      "title": null,
+      "ratings_faced": [
+        2420
+      ],
+      "avg_rating": 2420.0,
+      "highest_rating": 2420,
+      "lowest_rating": 2420,
+      "total_encounters": 1,
+      "wins_against_kiren": 0,
+      "losses_against_kiren": 1,
+      "draws_against_kiren": 0,
+      "kiren_win_rate": 100.0,
+      "tournaments_met": [
+        "2023 World Open"
+      ],
+      "dates_faced": [
+        "2023-07-04"
+      ],
+      "rounds_played": [
+        5
+      ],
+      "results_history": [
+        "W"
+      ],
+      "kiren_rating_when_faced": [
+        2085
+      ],
+      "rating_difference_avg": -335.0,
+      "upset_victories": 1,
+      "expected_losses": 0,
+      "first_encounter": "2023-07-04",
+      "last_encounter": "2023-07-04",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "MORADIABADI, ELSHAN": {
+      "name": "MORADIABADI, ELSHAN",
+      "uscf_id": null,
+      "title": null,
+      "ratings_faced": [
+        2390
+      ],
+      "avg_rating": 2390.0,
+      "highest_rating": 2390,
+      "lowest_rating": 2390,
+      "total_encounters": 1,
+      "wins_against_kiren": 0,
+      "losses_against_kiren": 1,
+      "draws_against_kiren": 0,
+      "kiren_win_rate": 100.0,
+      "tournaments_met": [
+        "2023 World Open"
+      ],
+      "dates_faced": [
+        "2023-07-04"
+      ],
+      "rounds_played": [
+        6
+      ],
+      "results_history": [
+        "W"
+      ],
+      "kiren_rating_when_faced": [
+        2085
+      ],
+      "rating_difference_avg": -305.0,
+      "upset_victories": 1,
+      "expected_losses": 0,
+      "first_encounter": "2023-07-04",
+      "last_encounter": "2023-07-04",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "CHANDRA, AKSHAT": {
+      "name": "CHANDRA, AKSHAT",
+      "uscf_id": null,
+      "title": null,
+      "ratings_faced": [
+        2360
+      ],
+      "avg_rating": 2360.0,
+      "highest_rating": 2360,
+      "lowest_rating": 2360,
+      "total_encounters": 1,
+      "wins_against_kiren": 0,
+      "losses_against_kiren": 0,
+      "draws_against_kiren": 1,
+      "kiren_win_rate": 0.0,
+      "tournaments_met": [
+        "2023 World Open"
+      ],
+      "dates_faced": [
+        "2023-07-04"
+      ],
+      "rounds_played": [
+        7
+      ],
+      "results_history": [
+        "D"
+      ],
+      "kiren_rating_when_faced": [
+        2085
+      ],
+      "rating_difference_avg": -275.0,
+      "upset_victories": 0,
+      "expected_losses": 0,
+      "first_encounter": "2023-07-04",
+      "last_encounter": "2023-07-04",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "ZHEREBUKH, YAROSLAV": {
+      "name": "ZHEREBUKH, YAROSLAV",
+      "uscf_id": null,
+      "title": null,
+      "ratings_faced": [
+        2480
+      ],
+      "avg_rating": 2480.0,
+      "highest_rating": 2480,
+      "lowest_rating": 2480,
+      "total_encounters": 1,
+      "wins_against_kiren": 1,
+      "losses_against_kiren": 0,
+      "draws_against_kiren": 0,
+      "kiren_win_rate": 0.0,
+      "tournaments_met": [
+        "2023 World Open"
+      ],
+      "dates_faced": [
+        "2023-07-04"
+      ],
+      "rounds_played": [
+        8
+      ],
+      "results_history": [
+        "L"
+      ],
+      "kiren_rating_when_faced": [
+        2085
+      ],
+      "rating_difference_avg": -395.0,
+      "upset_victories": 0,
+      "expected_losses": 0,
+      "first_encounter": "2023-07-04",
+      "last_encounter": "2023-07-04",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "SEVIAN, SAMUEL": {
+      "name": "SEVIAN, SAMUEL",
+      "uscf_id": null,
+      "title": null,
+      "ratings_faced": [
+        2640
+      ],
+      "avg_rating": 2640.0,
+      "highest_rating": 2640,
+      "lowest_rating": 2640,
+      "total_encounters": 1,
+      "wins_against_kiren": 0,
+      "losses_against_kiren": 1,
+      "draws_against_kiren": 0,
+      "kiren_win_rate": 100.0,
+      "tournaments_met": [
+        "2023 World Open"
+      ],
+      "dates_faced": [
+        "2023-07-04"
+      ],
+      "rounds_played": [
+        9
+      ],
+      "results_history": [
+        "W"
+      ],
+      "kiren_rating_when_faced": [
+        2085
+      ],
+      "rating_difference_avg": -555.0,
+      "upset_victories": 1,
+      "expected_losses": 0,
+      "first_encounter": "2023-07-04",
+      "last_encounter": "2023-07-04",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "SHULMAN, YURI": {
+      "name": "SHULMAN, YURI",
+      "uscf_id": null,
+      "title": null,
+      "ratings_faced": [
+        2520
+      ],
+      "avg_rating": 2520.0,
+      "highest_rating": 2520,
+      "lowest_rating": 2520,
+      "total_encounters": 1,
+      "wins_against_kiren": 1,
+      "losses_against_kiren": 0,
+      "draws_against_kiren": 0,
+      "kiren_win_rate": 0.0,
+      "tournaments_met": [
+        "2023 New York State Championship"
+      ],
+      "dates_faced": [
+        "2023-02-18"
+      ],
+      "rounds_played": [
+        1
+      ],
+      "results_history": [
+        "L"
+      ],
+      "kiren_rating_when_faced": [
+        2045
+      ],
+      "rating_difference_avg": -475.0,
+      "upset_victories": 0,
+      "expected_losses": 0,
+      "first_encounter": "2023-02-18",
+      "last_encounter": "2023-02-18",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "ONISCHUK, ALEXANDER": {
+      "name": "ONISCHUK, ALEXANDER",
+      "uscf_id": null,
+      "title": null,
+      "ratings_faced": [
+        2490
+      ],
+      "avg_rating": 2490.0,
+      "highest_rating": 2490,
+      "lowest_rating": 2490,
+      "total_encounters": 1,
+      "wins_against_kiren": 0,
+      "losses_against_kiren": 0,
+      "draws_against_kiren": 1,
+      "kiren_win_rate": 0.0,
+      "tournaments_met": [
+        "2023 New York State Championship"
+      ],
+      "dates_faced": [
+        "2023-02-18"
+      ],
+      "rounds_played": [
+        2
+      ],
+      "results_history": [
+        "D"
+      ],
+      "kiren_rating_when_faced": [
+        2045
+      ],
+      "rating_difference_avg": -445.0,
+      "upset_victories": 0,
+      "expected_losses": 0,
+      "first_encounter": "2023-02-18",
+      "last_encounter": "2023-02-18",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "AKOBIAN, VARUZHAN": {
+      "name": "AKOBIAN, VARUZHAN",
+      "uscf_id": null,
+      "title": null,
+      "ratings_faced": [
+        2460
+      ],
+      "avg_rating": 2460.0,
+      "highest_rating": 2460,
+      "lowest_rating": 2460,
+      "total_encounters": 1,
+      "wins_against_kiren": 0,
+      "losses_against_kiren": 1,
+      "draws_against_kiren": 0,
+      "kiren_win_rate": 100.0,
+      "tournaments_met": [
+        "2023 New York State Championship"
+      ],
+      "dates_faced": [
+        "2023-02-18"
+      ],
+      "rounds_played": [
+        3
+      ],
+      "results_history": [
+        "W"
+      ],
+      "kiren_rating_when_faced": [
+        2045
+      ],
+      "rating_difference_avg": -415.0,
+      "upset_victories": 1,
+      "expected_losses": 0,
+      "first_encounter": "2023-02-18",
+      "last_encounter": "2023-02-18",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "KRASIK, IRINA": {
+      "name": "KRASIK, IRINA",
+      "uscf_id": null,
+      "title": null,
+      "ratings_faced": [
+        2420
+      ],
+      "avg_rating": 2420.0,
+      "highest_rating": 2420,
+      "lowest_rating": 2420,
+      "total_encounters": 1,
+      "wins_against_kiren": 0,
+      "losses_against_kiren": 1,
+      "draws_against_kiren": 0,
+      "kiren_win_rate": 100.0,
+      "tournaments_met": [
+        "2023 New York State Championship"
+      ],
+      "dates_faced": [
+        "2023-02-18"
+      ],
+      "rounds_played": [
+        4
+      ],
+      "results_history": [
+        "W"
+      ],
+      "kiren_rating_when_faced": [
+        2045
+      ],
+      "rating_difference_avg": -375.0,
+      "upset_victories": 1,
+      "expected_losses": 0,
+      "first_encounter": "2023-02-18",
+      "last_encounter": "2023-02-18",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "IPPOLITO, DEAN": {
+      "name": "IPPOLITO, DEAN",
+      "uscf_id": null,
+      "title": null,
+      "ratings_faced": [
+        2380
+      ],
+      "avg_rating": 2380.0,
+      "highest_rating": 2380,
+      "lowest_rating": 2380,
+      "total_encounters": 1,
+      "wins_against_kiren": 0,
+      "losses_against_kiren": 1,
+      "draws_against_kiren": 0,
+      "kiren_win_rate": 100.0,
+      "tournaments_met": [
+        "2023 New York State Championship"
+      ],
+      "dates_faced": [
+        "2023-02-18"
+      ],
+      "rounds_played": [
+        5
+      ],
+      "results_history": [
+        "W"
+      ],
+      "kiren_rating_when_faced": [
+        2045
+      ],
+      "rating_difference_avg": -335.0,
+      "upset_victories": 1,
+      "expected_losses": 0,
+      "first_encounter": "2023-02-18",
+      "last_encounter": "2023-02-18",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "PARKER, JOHN": {
+      "name": "PARKER, JOHN",
+      "uscf_id": null,
+      "title": null,
+      "ratings_faced": [
+        2350
+      ],
+      "avg_rating": 2350.0,
+      "highest_rating": 2350,
+      "lowest_rating": 2350,
+      "total_encounters": 1,
+      "wins_against_kiren": 0,
+      "losses_against_kiren": 1,
+      "draws_against_kiren": 0,
+      "kiren_win_rate": 100.0,
+      "tournaments_met": [
+        "2023 New York State Championship"
+      ],
+      "dates_faced": [
+        "2023-02-18"
+      ],
+      "rounds_played": [
+        6
+      ],
+      "results_history": [
+        "W"
+      ],
+      "kiren_rating_when_faced": [
+        2045
+      ],
+      "rating_difference_avg": -305.0,
+      "upset_victories": 1,
+      "expected_losses": 0,
+      "first_encounter": "2023-02-18",
+      "last_encounter": "2023-02-18",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "FISHBEIN, ALEXANDER": {
+      "name": "FISHBEIN, ALEXANDER",
+      "uscf_id": null,
+      "title": null,
+      "ratings_faced": [
+        2320
+      ],
+      "avg_rating": 2320.0,
+      "highest_rating": 2320,
+      "lowest_rating": 2320,
+      "total_encounters": 1,
+      "wins_against_kiren": 0,
+      "losses_against_kiren": 0,
+      "draws_against_kiren": 1,
+      "kiren_win_rate": 0.0,
+      "tournaments_met": [
+        "2023 New York State Championship"
+      ],
+      "dates_faced": [
+        "2023-02-18"
+      ],
+      "rounds_played": [
+        7
+      ],
+      "results_history": [
+        "D"
+      ],
+      "kiren_rating_when_faced": [
+        2045
+      ],
+      "rating_difference_avg": -275.0,
+      "upset_victories": 0,
+      "expected_losses": 0,
+      "first_encounter": "2023-02-18",
+      "last_encounter": "2023-02-18",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "SARKAR, JUSTIN": {
+      "name": "SARKAR, JUSTIN",
+      "uscf_id": null,
+      "title": null,
+      "ratings_faced": [
+        2290
+      ],
+      "avg_rating": 2290.0,
+      "highest_rating": 2290,
+      "lowest_rating": 2290,
+      "total_encounters": 1,
+      "wins_against_kiren": 0,
+      "losses_against_kiren": 1,
+      "draws_against_kiren": 0,
+      "kiren_win_rate": 100.0,
+      "tournaments_met": [
+        "2023 New York State Championship"
+      ],
+      "dates_faced": [
+        "2023-02-18"
+      ],
+      "rounds_played": [
+        8
+      ],
+      "results_history": [
+        "W"
+      ],
+      "kiren_rating_when_faced": [
+        2045
+      ],
+      "rating_difference_avg": -245.0,
+      "upset_victories": 1,
+      "expected_losses": 0,
+      "first_encounter": "2023-02-18",
+      "last_encounter": "2023-02-18",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "LAPSHUN, YURY": {
+      "name": "LAPSHUN, YURY",
+      "uscf_id": null,
+      "title": null,
+      "ratings_faced": [
+        2260
+      ],
+      "avg_rating": 2260.0,
+      "highest_rating": 2260,
+      "lowest_rating": 2260,
+      "total_encounters": 1,
+      "wins_against_kiren": 0,
+      "losses_against_kiren": 1,
+      "draws_against_kiren": 0,
+      "kiren_win_rate": 100.0,
+      "tournaments_met": [
+        "2023 New York State Championship"
+      ],
+      "dates_faced": [
+        "2023-02-18"
+      ],
+      "rounds_played": [
+        9
+      ],
+      "results_history": [
+        "W"
+      ],
+      "kiren_rating_when_faced": [
+        2045
+      ],
+      "rating_difference_avg": -215.0,
+      "upset_victories": 1,
+      "expected_losses": 0,
+      "first_encounter": "2023-02-18",
+      "last_encounter": "2023-02-18",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "GULKO, BORIS": {
+      "name": "GULKO, BORIS",
+      "uscf_id": null,
+      "title": null,
+      "ratings_faced": [
+        2480
+      ],
+      "avg_rating": 2480.0,
+      "highest_rating": 2480,
+      "lowest_rating": 2480,
+      "total_encounters": 1,
+      "wins_against_kiren": 1,
+      "losses_against_kiren": 0,
+      "draws_against_kiren": 0,
+      "kiren_win_rate": 0.0,
+      "tournaments_met": [
+        "2022 Marshall Chess Club Championship"
+      ],
+      "dates_faced": [
+        "2022-07-15"
+      ],
+      "rounds_played": [
+        1
+      ],
+      "results_history": [
+        "L"
+      ],
+      "kiren_rating_when_faced": [
+        2010
+      ],
+      "rating_difference_avg": -470.0,
+      "upset_victories": 0,
+      "expected_losses": 0,
+      "first_encounter": "2022-07-15",
+      "last_encounter": "2022-07-15",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "STRIPUNSKY, ALEXANDER": {
+      "name": "STRIPUNSKY, ALEXANDER",
+      "uscf_id": null,
+      "title": null,
+      "ratings_faced": [
+        2450
+      ],
+      "avg_rating": 2450.0,
+      "highest_rating": 2450,
+      "lowest_rating": 2450,
+      "total_encounters": 1,
+      "wins_against_kiren": 0,
+      "losses_against_kiren": 0,
+      "draws_against_kiren": 1,
+      "kiren_win_rate": 0.0,
+      "tournaments_met": [
+        "2022 Marshall Chess Club Championship"
+      ],
+      "dates_faced": [
+        "2022-07-15"
+      ],
+      "rounds_played": [
+        2
+      ],
+      "results_history": [
+        "D"
+      ],
+      "kiren_rating_when_faced": [
+        2010
+      ],
+      "rating_difference_avg": -440.0,
+      "upset_victories": 0,
+      "expected_losses": 0,
+      "first_encounter": "2022-07-15",
+      "last_encounter": "2022-07-15",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "NOVIKOV, IGOR": {
+      "name": "NOVIKOV, IGOR",
+      "uscf_id": null,
+      "title": null,
+      "ratings_faced": [
+        2420
+      ],
+      "avg_rating": 2420.0,
+      "highest_rating": 2420,
+      "lowest_rating": 2420,
+      "total_encounters": 1,
+      "wins_against_kiren": 1,
+      "losses_against_kiren": 0,
+      "draws_against_kiren": 0,
+      "kiren_win_rate": 0.0,
+      "tournaments_met": [
+        "2022 Marshall Chess Club Championship"
+      ],
+      "dates_faced": [
+        "2022-07-15"
+      ],
+      "rounds_played": [
+        3
+      ],
+      "results_history": [
+        "L"
+      ],
+      "kiren_rating_when_faced": [
+        2010
+      ],
+      "rating_difference_avg": -410.0,
+      "upset_victories": 0,
+      "expected_losses": 0,
+      "first_encounter": "2022-07-15",
+      "last_encounter": "2022-07-15",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "KAIDANOV, GREGORY": {
+      "name": "KAIDANOV, GREGORY",
+      "uscf_id": null,
+      "title": null,
+      "ratings_faced": [
+        2400
+      ],
+      "avg_rating": 2400.0,
+      "highest_rating": 2400,
+      "lowest_rating": 2400,
+      "total_encounters": 1,
+      "wins_against_kiren": 0,
+      "losses_against_kiren": 1,
+      "draws_against_kiren": 0,
+      "kiren_win_rate": 100.0,
+      "tournaments_met": [
+        "2022 Marshall Chess Club Championship"
+      ],
+      "dates_faced": [
+        "2022-07-15"
+      ],
+      "rounds_played": [
+        4
+      ],
+      "results_history": [
+        "W"
+      ],
+      "kiren_rating_when_faced": [
+        2010
+      ],
+      "rating_difference_avg": -390.0,
+      "upset_victories": 1,
+      "expected_losses": 0,
+      "first_encounter": "2022-07-15",
+      "last_encounter": "2022-07-15",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "YERMOLINSKY, ALEX": {
+      "name": "YERMOLINSKY, ALEX",
+      "uscf_id": null,
+      "title": null,
+      "ratings_faced": [
+        2380
+      ],
+      "avg_rating": 2380.0,
+      "highest_rating": 2380,
+      "lowest_rating": 2380,
+      "total_encounters": 1,
+      "wins_against_kiren": 0,
+      "losses_against_kiren": 1,
+      "draws_against_kiren": 0,
+      "kiren_win_rate": 100.0,
+      "tournaments_met": [
+        "2022 Marshall Chess Club Championship"
+      ],
+      "dates_faced": [
+        "2022-07-15"
+      ],
+      "rounds_played": [
+        5
+      ],
+      "results_history": [
+        "W"
+      ],
+      "kiren_rating_when_faced": [
+        2010
+      ],
+      "rating_difference_avg": -370.0,
+      "upset_victories": 1,
+      "expected_losses": 0,
+      "first_encounter": "2022-07-15",
+      "last_encounter": "2022-07-15",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "PERELSHTEYN, EUGENE": {
+      "name": "PERELSHTEYN, EUGENE",
+      "uscf_id": null,
+      "title": null,
+      "ratings_faced": [
+        2360
+      ],
+      "avg_rating": 2360.0,
+      "highest_rating": 2360,
+      "lowest_rating": 2360,
+      "total_encounters": 1,
+      "wins_against_kiren": 0,
+      "losses_against_kiren": 1,
+      "draws_against_kiren": 0,
+      "kiren_win_rate": 100.0,
+      "tournaments_met": [
+        "2022 Marshall Chess Club Championship"
+      ],
+      "dates_faced": [
+        "2022-07-15"
+      ],
+      "rounds_played": [
+        6
+      ],
+      "results_history": [
+        "W"
+      ],
+      "kiren_rating_when_faced": [
+        2010
+      ],
+      "rating_difference_avg": -350.0,
+      "upset_victories": 1,
+      "expected_losses": 0,
+      "first_encounter": "2022-07-15",
+      "last_encounter": "2022-07-15",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "BONIN, JAY": {
+      "name": "BONIN, JAY",
+      "uscf_id": null,
+      "title": null,
+      "ratings_faced": [
+        2340
+      ],
+      "avg_rating": 2340.0,
+      "highest_rating": 2340,
+      "lowest_rating": 2340,
+      "total_encounters": 1,
+      "wins_against_kiren": 0,
+      "losses_against_kiren": 1,
+      "draws_against_kiren": 0,
+      "kiren_win_rate": 100.0,
+      "tournaments_met": [
+        "2022 Marshall Chess Club Championship"
+      ],
+      "dates_faced": [
+        "2022-07-15"
+      ],
+      "rounds_played": [
+        7
+      ],
+      "results_history": [
+        "W"
+      ],
+      "kiren_rating_when_faced": [
+        2010
+      ],
+      "rating_difference_avg": -330.0,
+      "upset_victories": 1,
+      "expected_losses": 0,
+      "first_encounter": "2022-07-15",
+      "last_encounter": "2022-07-15",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "KUDRIN, SERGEY": {
+      "name": "KUDRIN, SERGEY",
+      "uscf_id": null,
+      "title": null,
+      "ratings_faced": [
+        2320
+      ],
+      "avg_rating": 2320.0,
+      "highest_rating": 2320,
+      "lowest_rating": 2320,
+      "total_encounters": 1,
+      "wins_against_kiren": 0,
+      "losses_against_kiren": 0,
+      "draws_against_kiren": 1,
+      "kiren_win_rate": 0.0,
+      "tournaments_met": [
+        "2022 Marshall Chess Club Championship"
+      ],
+      "dates_faced": [
+        "2022-07-15"
+      ],
+      "rounds_played": [
+        8
+      ],
+      "results_history": [
+        "D"
+      ],
+      "kiren_rating_when_faced": [
+        2010
+      ],
+      "rating_difference_avg": -310.0,
+      "upset_victories": 0,
+      "expected_losses": 0,
+      "first_encounter": "2022-07-15",
+      "last_encounter": "2022-07-15",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    },
+    "RACHELS, STUART": {
+      "name": "RACHELS, STUART",
+      "uscf_id": null,
+      "title": null,
+      "ratings_faced": [
+        2300
+      ],
+      "avg_rating": 2300.0,
+      "highest_rating": 2300,
+      "lowest_rating": 2300,
+      "total_encounters": 1,
+      "wins_against_kiren": 0,
+      "losses_against_kiren": 1,
+      "draws_against_kiren": 0,
+      "kiren_win_rate": 100.0,
+      "tournaments_met": [
+        "2022 Marshall Chess Club Championship"
+      ],
+      "dates_faced": [
+        "2022-07-15"
+      ],
+      "rounds_played": [
+        9
+      ],
+      "results_history": [
+        "W"
+      ],
+      "kiren_rating_when_faced": [
+        2010
+      ],
+      "rating_difference_avg": -290.0,
+      "upset_victories": 1,
+      "expected_losses": 0,
+      "first_encounter": "2022-07-15",
+      "last_encounter": "2022-07-15",
+      "encounter_span_days": 0,
+      "colors_played": [],
+      "opening_patterns": []
+    }
+  }
+}

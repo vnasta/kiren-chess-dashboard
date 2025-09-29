@@ -476,7 +476,20 @@ class EnhancedChessDashboard:
             # Opponent cache statistics
             html.Div([
                 html.H3("Opponent Cache Overview", style={'color': '#34495e', 'marginTop': '30px', 'marginBottom': '15px'}),
-                html.Div(id='opponent-cache-stats')
+                html.Div(id='opponent-cache-stats'),
+                html.Button(
+                    "🔄 Refresh Opponent Cache",
+                    id='refresh-cache-btn',
+                    style={
+                        'padding': '10px 20px',
+                        'backgroundColor': '#3498db',
+                        'color': 'white',
+                        'border': 'none',
+                        'borderRadius': '4px',
+                        'marginTop': '20px',
+                        'cursor': 'pointer'
+                    }
+                )
             ])
         ]
 
@@ -963,26 +976,13 @@ class EnhancedChessDashboard:
                     })
                 ])
 
-                # Add refresh button
-                refresh_section = html.Div([
-                    html.Button(
-                        "🔄 Refresh Opponent Cache",
-                        id='refresh-cache-btn',
-                        style={
-                            'padding': '10px 20px',
-                            'backgroundColor': '#3498db',
-                            'color': 'white',
-                            'border': 'none',
-                            'borderRadius': '4px',
-                            'marginTop': '20px',
-                            'cursor': 'pointer'
-                        }
-                    ),
+                # Add timestamp info
+                timestamp_info = html.Div([
                     html.Span(f"Last updated: {stats.get('last_updated', 'Never')[:19]}",
-                             style={'marginLeft': '15px', 'color': '#7f8c8d', 'fontSize': '12px'})
+                             style={'color': '#7f8c8d', 'fontSize': '12px', 'marginTop': '10px', 'display': 'block'})
                 ])
 
-                return [stats_cards, refresh_section]
+                return [stats_cards, timestamp_info]
 
             except Exception as e:
                 return html.P(f"Error loading opponent cache: {e}", style={'color': 'red'})
@@ -1055,30 +1055,41 @@ class EnhancedChessDashboard:
                         })
                     ])
 
-                    refresh_section = html.Div([
-                        html.Button(
-                            "✅ Cache Refreshed!",
-                            id='refresh-cache-btn',
-                            style={
-                                'padding': '10px 20px',
-                                'backgroundColor': '#27ae60',
-                                'color': 'white',
-                                'border': 'none',
-                                'borderRadius': '4px',
-                                'marginTop': '20px',
-                                'cursor': 'pointer'
-                            }
-                        ),
+                    # Add success timestamp
+                    success_info = html.Div([
+                        html.Span("✅ Cache refreshed successfully!",
+                                 style={'color': '#27ae60', 'fontWeight': 'bold', 'marginRight': '15px'}),
                         html.Span(f"Last updated: {stats.get('last_updated', 'Never')[:19]}",
-                                 style={'marginLeft': '15px', 'color': '#7f8c8d', 'fontSize': '12px'})
-                    ])
+                                 style={'color': '#7f8c8d', 'fontSize': '12px'})
+                    ], style={'marginTop': '10px'})
 
-                    return [stats_cards, refresh_section]
+                    return [stats_cards, success_info]
                 else:
                     return html.P("Failed to refresh cache", style={'color': 'red'})
 
             except Exception as e:
                 return html.P(f"Error refreshing cache: {e}", style={'color': 'red'})
+
+        @self.app.callback(
+            [Output('refresh-cache-btn', 'children'),
+             Output('refresh-cache-btn', 'style')],
+            [Input('refresh-cache-btn', 'n_clicks')],
+            prevent_initial_call=True
+        )
+        def update_refresh_button(n_clicks):
+            """Update refresh button appearance when clicked"""
+            if not n_clicks:
+                return dash.no_update, dash.no_update
+
+            return "✅ Cache Refreshed!", {
+                'padding': '10px 20px',
+                'backgroundColor': '#27ae60',
+                'color': 'white',
+                'border': 'none',
+                'borderRadius': '4px',
+                'marginTop': '20px',
+                'cursor': 'pointer'
+            }
 
     def run(self, debug=True, port=8052):
         """Run the dashboard"""
